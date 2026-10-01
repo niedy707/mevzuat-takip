@@ -1,0 +1,367 @@
+ASANSÖR İŞLETME VE BAKIM YÖNETMELİĞİ
+                                                           BİRİNCİ BÖLÜM
+                                                    Amaç, Kapsam, Dayanak ve Tanımlar
+       Amaç
+       MADDE 1 –(1) Bu Yönetmeliğin amacı; insanların, insan ve yüklerin veya sadece yüklerin taşınmasında kullanılan asansörlerin, insan can ve
+mal güvenliğini tehdit etmeyecek şekilde kullanımlarını sağlamak ve çevreyi korumak üzere tescili, işletilmesi, bakımı, garanti ve satış sonrası hizmetleri
+ile hizmet denetimi ve mevcut asansörlerin iyileştirilmesiyle ilgili uyulması gereken kuralları belirlemektir.
+       Kapsam
+       MADDE 2 – (1) Bu Yönetmelik; 29/6/2016 tarihli ve 29757 sayılı Resmî Gazete’de yayımlanan Asansör Yönetmeliği (2014/33/AB)
+kapsamında piyasaya arz edilen asansörleri ve Asansör Yönetmeliği (2014/33/AB)’nin yürürlüğe girmesinden önce monte edilmiş olan asansörleri
+kapsar.
+       Dayanak
+       MADDE 3 – (Değişik:RG-11/7/2021-31538)
+       (1) Bu Yönetmelik; 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununa, 10/6/1930 tarihli ve 1705 sayılı Ticarette
+Tağşişin Men’i ve İhracatın Murakabesi ve Korunması Hakkında Kanuna, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı
+Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 388 inci maddesinin birinci fıkrasının (e) bendine dayanılarak hazırlanmıştır.
+       Tanımlar ve kısaltmalar
+       MADDE 4 – (1) Bu Yönetmelikte geçen;
+       a) AB uygunluk beyanı: Asansör monte edenin piyasaya arz ettiği asansörün Asansör Yönetmeliği (2014/33/AB)’nin temel gereklerine
+uygunluğunu beyan ettiği belgeyi,
+       b) Asansör: Belirli seviyelere hizmet veren, esnek olmayan ve yatayla 15 dereceden fazla açı yapan kılavuzlar boyunca hareket eden bir
+taşıyıcısı olan kaldırma tertibatını veya sabit bir seyir yolu üzerinde esnek olmayan kılavuzlar üzerinde olmasa da hareket eden kaldırma tertibatını,
+       c) Asansör monte eden: Asansörün tasarımından, imalatından, montajından ve piyasaya arzından sorumlu olan gerçek veya tüzel kişiyi,
+       ç) Asansör yaptırıcısı: Asansörün monte edileceği binada/yapıda inşaat işini kendi adına yapan veya sözleşme ile devreden yapı sahibini veya
+asansörün monte edileceği mevcut binada bina sorumlusunu,
+       d) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+       e) Bakım: Asansörün hizmete alınmasından sonra kullanım ömrü boyunca, kendisinin ve bileşenlerinin, fonksiyonlarının ve güvenlik gereklerinin,
+tasarlandığı veya ilgili mevzuata uygun olarak yenilendiği biçimde devamlılığını sağlamaya yönelik, asansör monte eden veya onun yetkili servisi
+tarafından periyodik olarak ayda en az bir defa yürütülen işlemleri,
+       f) Bina sorumlusu: Asansörün güvenli bir şekilde kullanımını sağlamak amacıyla düzenli olarak bakımını, periyodik kontrolünü ve onarımını
+yaptırmaktan sorumlu olan, binada/yapıda kat maliklerinin kendi aralarında seçeceği veya dışarıdan yetki vereceği kişiyi veya kat malikini veya
+maliklerini veya kamu binalarında/yapılarında sorumlu yetkiliyi veya ticari/hizmet amaçlı yapılarda sorumlu yetkiliyi,
+       g) Coğrafi bölge: Akdeniz, Doğu Anadolu, Ege, Güneydoğu Anadolu, İç Anadolu, Karadeniz ve Marmara bölgelerini,
+       ğ) Erişilebilirlik: Yapıların, binaların ve bilgilendirme hizmetlerinin engelliler tarafından güvenli ve bağımsız olarak ulaşılabilir ve kullanılabilir
+olmasını,
+       h) Hizmet denetimi: Asansör monte edene veya onun yetkili servisine veya bina sorumlusuna yönelik Bakanlık tarafından yapılan denetimi,
+       ı) İlgili idare: Belediyeleri veya belediye sınırları dışında kalan alanlardaki yapılar için il özel idarelerini,
+       i) İktisadi işletmeci: Asansör monte edeni, asansör güvenlik aksamı imalatçısını, yetkili temsilciyi, ithalatçıyı veya dağıtıcıyı,
+       j) Kurtarma çalışması: Asansör içerisinde insanın veya insanların mahsur kaldığına dair bilginin alınmasıyla birlikte kurtarma talimatına uygun
+olarak yapılan ve insanın veya insanların serbest kalmasıyla sonuçlanan çalışmayı,
+       k) Mevcut asansör: 15/8/2004 tarihinden önce monte edilen ve halen kullanılmakta olan asansörü,
+       l) Mesleki yeterlilik belgesi: Mesleki Yeterlilik Kurumu tarafından onaylanmış olan ve bireyin bilgi, beceri ve yetkinliğini ifade eden belgeyi,
+       m) Muayene kuruluşu: Türkiye’de yerleşik özel veya kamu kuruluşlarından, TS EN ISO/IEC 17020 standardına göre Türk Akreditasyon
+Kurumunca 4/5/2018 tarihli ve 30411 sayılı Resmî Gazete’de yayımlanan Asansör Periyodik Kontrol Yönetmeliği kapsamında A tipi muayene kuruluşu
+olarak akredite edilen kuruluşu,
+       n) Periyodik kontrol: Asansörün güvenli kullanımı ve işletme yönünden uygun çalışıp çalışmadığına dair yaptırılacak olan muayeneyi,
+       o) Piyasaya arz: Asansörün ticari veya kamu faaliyetleri kapsamında ücretli veya ücretsiz olarak kullanımının sağlanmasını,
+       ö) Ruhsat makamı: Belediyeleri veya belediye sınırları dışında kalan alanlardaki binalar/yapılar için valilikleri veya ilgili mevzuat çerçevesinde
+yapı ruhsatı ve yapı kullanma izin belgesi verme yetkisine sahip kurum ve kuruluşları,
+       p) Servis teknik sorumlusu: Yetkili servis faaliyetlerini idari ve teknik olarak yöneten, gerekli dokümanları hazırlayan/hazırlatan ve yetkili servis
+adına yasal olarak temsil ve ilzama yetkili olan kişiyi,
+       r) Teknik bakım personeli: Yetkili servis bünyesinde asansörlerde bakım, onarım ve servis işini yürütmek üzere görevlendirilen ve ilgili mevzuat
+kapsamında belgeli olan asansör bakım ve onarımcısını,
+       s) Tescil: Asansörün resmî olarak ilgili idare tarafından kayıt altına alınmasını,
+       ş) TSE: Türk Standardları Enstitüsünü,
+       t) TS EN 81-80 standardı: Asansörler - Yapım ve Montaj için Güvenlik Kuralları: Yolcu ve Yük Asansörleri için Özel Uygulamalar - Bölüm 80:
+Mevcut Yolcu ve Yük Asansörlerinin Güvenliğini Geliştirme Kurallarını,
+       u) Yetkili servis: Asansörlerde bakım, onarım ve servis hizmetinin yürütülebilmesi için asansör monte edenin kendi adına kurduğu servis
+istasyonu veya gerekli olduğu durumlarda sorumluluğu kendinde olmak üzere sözleşme ile yetki verdiği gerçek veya tüzel kişiyi,
+       ü) (Ek:RG-10/2/2023-32100) Bakan yardımcısı: Sanayi ve Teknoloji Bakanlığının ilgili bakan yardımcısını,
+       v) (Ek:RG-10/2/2023-32100) İl müdürlüğü: Sanayi ve teknoloji il müdürlüğünü,
+       y) (Ek:RG-10/2/2023-32100) İl müdürü: Sanayi ve teknoloji il müdürünü,
+       ifade eder.
+                                                                         İKİNCİ BÖLÜM
+                                               Asansör Kimlik Numarası, Asansörün Binaya/Yapıya Fenni
+                                                       Uygunluğunun Kontrolü ve Asansörün Tescili
+       Asansör kimlik numarası
+       MADDE 5 – (1) Bu Yönetmelik kapsamında bulunan her asansör, bir asansör kimlik numarası ile tanımlanır.
+       (2) Asansör kimlik numarası Asansör Periyodik Kontrol Yönetmeliğinde belirtilen usul ve esaslara uygun olarak muayene kuruluşu tarafından
+periyodik kontrol aşamasından önce oluşturulur. Asansör kimlik numarası Asansör Periyodik Kontrol Yönetmeliğinin 21 inci maddesinde tanımlanan
+formata uygun bir etiket üzerinde belirtilir. Bu etiket, periyodik kontrol aşamasında muayene kuruluşu tarafından asansör kabinine iliştirilir.
+
+       (3) Asansör kabinine iliştirilen ve asansör kimlik numarasını içeren etiketin, asansörün kullanım ömrü boyunca muhafaza edilmesine ve
+gerektiğinde yenilenmesine dair sorumluluk, bina sorumlusundadır.
+       Asansörün binaya/yapıya fenni uygunluğunun kontrolü
+       MADDE 6 – (1) Asansör Yönetmeliği (2014/33/AB) kapsamında monte edilen asansörün monte edildiği binaya/yapıya fenni uygunluğuna ilişkin
+kontroller 3/5/1985 tarihli ve 3194 sayılı İmar Kanununa, ilgili mevzuata ve erişilebilirlik mevzuatına uygun olacak şekilde ilgili ruhsat makamı tarafından
+yürütülür.
+       (2) Birinci fıkrada belirtilen kontrollerin ilgili mevzuatına uygun bir şekilde yürütülmesine dair sorumluluk ilgili ruhsat makamındadır.
+       Asansörün tescili
+       MADDE 7 –(1) Asansör Yönetmeliği (2014/33/AB) kapsamında piyasaya arz edilen her asansör ilgili idareye tescil ettirilir. Tescil başvurusu,
+asansörün piyasaya arz edildiği tarih itibarıyla altmış gün içerisinde söz konusu asansörü piyasaya arz eden asansör monte eden tarafından yapılır.
+       (2) Asansör monte eden, tescil işlemi için aşağıda belirtilen belgelerin bir sureti ile birlikte ilgili idareye başvurur:
+       a) Sanayi sicil belgesi.
+       b) Onaylanmış kuruluşça düzenlenen uygunluk belgesi veya raporu.
+       c) AB uygunluk beyanı.
+       ç) Garanti belgesi.
+       d) (Değişik:RG-3/4/2021-31443) AB uygunluk beyanı ve garanti belgesini imzalayan yetkilinin adı, soyadı ve unvanına dair bilgileri içerecek
+şekilde kendisi tarafından hazırlanan ve onaylanan yazılı beyan belgesi.
+       e) TSE Hizmet Yeterlilik Belgesi.
+       f) Montaj işçiliği bedeli de dâhil olmak üzere her bir birim asansör bedelini içerecek şekilde asansör yaptırıcısına kesilen fatura.
+       g) Tescil öncesi ilk periyodik kontrol raporu.
+       (3) İkinci fıkrasının (f) bendinde belirtilen faturada asansörün beyan yükü, beyan hızı, durak sayısı ve tahrik türü anlaşılır olacak şekilde belirtilir.
+Birden fazla asansör montaj işi ile ilgili olarak birbirinden farklı her asansör için birinci cümlede belirtilen hususların söz konusu faturada ayrıca yer
+alması gerekir. 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa ve bu fıkrada belirtilen gerekliliklere uygun olacak şekilde düzenlenen fatura dışında
+hiçbir belge, ilgili idare tarafından tescil aşamasında kabul edilmez.
+       (4) Okullara veya kamu kurum ve kuruluşlarına bağış amaçlı yapılan asansörlerin bu amaçla yapıldığının resmî bir belge ile ilgili idareye
+ispatlanması durumunda ikinci fıkranın (f) bendinde belirtilen fatura asansör tescili için aranmaz.
+       (5) Tescil aşamasından önce asansör yaptırıcısı tarafından Asansör Periyodik Kontrol Yönetmeliğine göre ilk periyodik kontrolü yaptırılmayan ve
+yeşil renkli bilgi etiketi iliştirilmeyen asansör, ilgili idare tarafından tescil edilmez.
+       (6) Uygun görülen tescil başvurusu neticesinde, Ek-1’de yer alan içeriğe uygun olacak şekilde onaylı tescil belgesi ilgili idare tarafından
+düzenlenir ve asansör monte edene sunulur.
+       (7) İlgili idare, tescil başvurusunda ikinci fıkrada istenen belgelerin dışında asansör monte edenden herhangi bir belge talebinde bulunamaz.
+                                                                          ÜÇÜNCÜ BÖLÜM
+                                                Bakım, Bakımın Kapsamı ve Bakımla İlgili Diğer Hususlar
+       Bakım
+       MADDE 8 –(1) Bu Yönetmelik kapsamında yer alan asansörün bakımı, bina sorumlusunun bakım sözleşmesi imzaladığı asansör monte eden
+veya onun yetkili servisi tarafından yapılır. Yapı kullanma izin belgesi alan ve amacına uygun olacak şekilde ilk kez kullanıma açılan binada/yapıda yasal
+olarak bina sorumlusu atanana kadar asansör yaptırıcısı ile asansör monte eden veya onun yetkili servisi arasında bakım sözleşmesi yapılır.
+       (2) Bakım sözleşmesinin birden fazla asansörü kapsaması durumunda, bakım hizmeti sunulacak her bir asansöre ait asansör kimlik numarası ve
+asansörün açık adresi bu sözleşmede belirtilir.
+       (3) Piyasaya arz edilen asansörün beyan yükü, beyan hızı, tahrik türü, motor seri numarası ve gücü, halat ve/veya zincirler ile tip kontrol belgesi
+gerektiren aksam ve parçaların teknik özellikleri, tesis planları ve elektrik devre şemaları ile asansör periyodik kontrol sonuçları ve kazaların kayıt
+edileceği asansör kayıt defteri, söz konusu asansörü piyasaya arz eden asansör monte eden tarafından sağlanır. Ayrıca asansörün kimlik numarası,
+piyasaya arz tarihi ve tescil tarihi asansör kayıt defterinde belirtilir. Asansör kayıt defterinin bitmesi durumunda, yeni defter bina sorumlusuyla bakım
+sözleşmesi imzalayan asansör monte eden veya onun yetkili servisi tarafından temin edilir. Biten kayıt defteri, bina sorumlusu tarafından asansörün
+kullanım ömrü boyunca muhafaza edilir. Kayıt defteri ile ilgili tüm gereklilikler halen kullanımda olan bütün asansörler için de geçerlidir.
+       (4) Asansör bakım, onarım ve servis hizmeti sonrasında oluşan atığın bertaraf edilmesi 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununa uygun
+olarak yapılır.
+       (5) Asansör Yönetmeliği (2014/33/AB) kapsamında piyasaya arz edilen veya kullanımda olan asansör/asansörler için yapılacak olan bakım
+sözleşmesinde/sözleşmelerinde, o asansöre/asansörlere yönelik herhangi bir cihaz veya şifreleme gibi yöntemlerle engelleme veya kısıtlama yapılıp
+yapılmadığına dair bilginin yer alması asansör monte eden veya onun yetkili servisi tarafından sağlanır.
+       Bakımın kapsamı
+       MADDE 9 – (1) Asansörün, asansörü oluşturan tüm aksam ve parçaların bakımı asansör monte eden tarafından hazırlanmış olan bakım
+kılavuzunda yer alan talimatlara ve                                    güncel TS EN 13015: Asansör ve Yürüyen Merdivenlerin Bakımı, Bakım Talimatları İçin
+Kurallar standardında belirtilen gerekliliklere göre yapılır.
+       (2) Bu Yönetmeliğe göre bakım;
+       a) Yağlama ve temizlemeyi,
+       b) Kontrolleri,
+       c) Kurtarma çalışmalarını,
+       ç) Ayarlama işlemlerini,
+       d) Kullanıma veya yıpranmaya bağlı olarak meydana gelebilen bileşen onarımını veya değişimini,
+       kapsar.
+       (3) Bu Yönetmeliğe göre bakım;
+       a) Asansörün yerinin değiştirilmesini,
+       b) Tahrik ünitesi, askı sistemi, taşıyıcı/kabin, durak kapısı ve/veya asansör güvenlik aksamlarının değişimini,
+       c) Asansör kumanda sisteminde yapılan değişiklikleri,
+       ç) İtfaiye tarafından yapılan kurtarma çalışmalarını,
+       d) Asansör kuyusunun dış bölümlerinin temizlenmesini,
+       e) Taşıyıcı/kabin iç kısmının temizlenmesini,
+       kapsamaz.
+       (4) 15/8/2004 tarihinden önce monte edilen ve ilgili mevzuata göre ilgili idare tarafından kayıt altına alınan asansörün beyan yükünde ve/veya
+beyan hızında ve/veya seyir mesafesinde değişiklik yapılması halinde, bu asansörde, güncel TS EN 81-80 standardı gereklilikleri esas alınır.
+
+        (5) 15/8/2004 ile 1/9/2017 tarihleri arasında piyasaya arz edilen ve ilgili mevzuata göre ilgili idare tarafından kayıt altına alınan asansörün beyan
+yükünde ve/veya beyan hızında ve/veya seyir mesafesinde değişiklik yapılması halinde, bu asansörde, ilk defa piyasaya arz edildiği tarihte yürürlükte
+bulunan uyumlaştırılmış standart gereklilikleri esas alınır.
+        (6) Üçüncü fıkranın (a), (b) ve (c) bentlerinde, dördüncü ve beşinci fıkralarında yer alan ve bakım çalışması olarak değerlendirilmeyen asansöre
+ait değişiklikler, asansör monte eden tarafından yerine getirilir. Bu değişikliklerin ilgili mevzuatına ve/veya standardına uygun yapılıp yapılmadığına dair
+sorumluluk, söz konusu değişiklikleri yapan asansör monte edendedir. Bu değişiklikleri yapmak üzere asansör monte eden adına hareket eden montaj
+elemanının ve/veya teknik bakım ve onarım personelinin, bu Yönetmelikte ve/veya ilgili mevzuatta belirtilen yeterlilik belgesine sahip olması gerekir.
+        (7) Dördüncü ve beşinci fıkrada belirtilen durumlarda asansör monte eden tarafından asansör uygulama projesi hazırlanır/hazırlatılır ve ruhsat
+makamının onayına sunulur. Ruhsat makamı tarafından onaylanan asansör uygulama projesine uygun olacak şekilde beyan yükünde ve/veya beyan
+hızında ve/veya seyir mesafesinde değişiklik yapılan asansörün tescili için asansör monte eden tarafından yeşil renkli bilgi etiketine esas periyodik
+kontrol raporuyla birlikte altmış gün içerisinde ilgili idareye başvurulur. Asansörün tescil belgesi, Ek-2’de yer alan içeriğe uygun olacak şekilde ilgili
+idare tarafından düzenlenir ve asansör monte edene sunulur.
+        Bakımla ilgili diğer hususlar
+        MADDE 10 – (1) Bina sorumlusu ile sözleşme imzalayan asansör monte eden veya onun yetkili servisi, güvenli kullanım için söz konusu
+asansörü oluşturan aksam ve parçaları da içerecek şekilde bir bütün olarak gerekli koşulları sağlayıp sağlamadığına ilişkin durum tespit raporu hazırlar
+ve bina sorumlusuna iletir. Durum tespit raporu asansör monte edenin piyasaya arz ettiği ve bakım sözleşmesi yaptığı asansör için hazırlanmaz.
+        (2) Asansör monte eden veya onun yetkili servisince her bakımda yapılan işlemler güncel TS EN 13015: Asansör ve Yürüyen Merdivenlerin
+Bakımı, Bakım Talimatları İçin Kurallar standardındaki gereklilikleri de içerecek şekilde hazırlanmış olan bakım föyü ile kayıt altına alınır ve bir nüshası
+bina sorumlusuna teslim edilir, bir nüshası da kendisi tarafından muhafaza edilir ve talep edilmesi durumunda Bakanlığa ve diğer ilgililere sunulur.
+        (3) Bina sorumlusu bakım föylerini asansörün makina veya makara dairesinde veya binaya/yapıya ait yönetim bürosunda kalıcı olarak muhafaza
+eder.
+        (4) Asansör monte eden veya onun yetkili servisi, insan can ve mal güvenliği yönünden asansörün risk taşıması durumunda bina sorumlusunu
+yazılı olarak bilgilendirir. Bina sorumlusu asansör monte eden veya onun yetkili servisi vasıtasıyla asansörün güvenli hale getirilmesini sağlamakla
+yükümlüdür.
+        (5) Asansör monte eden veya onun yetkili servisi, asansörde yapılan aksam ve parça değişiklikleri ile bildirilen kazaları asansör kayıt defterine
+işler.
+        (6) Bakım sözleşmesi yapıldıktan sonra asansör monte eden veya onun yetkili servisi, binadaki/yapıdaki asansör sayısı dikkate alınarak bina
+sorumlusunun belirleyeceği sayıda kişiye acil durumlarda kurtarma çalışması konusunda yılda en az bir defa eğitim verir. Eğitim, yetkili servis teknik
+bakım ve onarım personeli tarafından verilir. Verilen bu eğitim yetkili servis teknik sorumlusu ve eğitimi veren kişi tarafından imzalanan bir tutanakla
+kayıt altına alınır ve tutanağın bir sureti bina sorumlusuna iletilir. Bina sorumlusu, eğitim alan kişi/kişilerin değişmesi halinde yeni kişi/kişilere eğitim
+verilmesini sağlar. Kurtarma talimatının, kurtarma çalışmasını yapacak kişi/kişilerin kolaylıkla görebilecekleri yerlerde muhafaza edilmesi ve amacına
+uygun hazırlanmış olması gerekir.
+        (7) Asansör monte eden, piyasaya arz ettiği her tip ve özellikteki asansör için yedek aksam ve parçayı en az üç yıl süreyle temin etmekle
+yükümlüdür.
+        (8) Asansör monte eden, kendisi tarafından piyasaya arz edilen asansöre bakım, onarım ve servis hizmeti veren bir başka asansör monte edenin
+veya onun yetkili servisinin veya bina sorumlusunun, yedek aksam veya parça ile asansörde bakım yapmayı mümkün kılacak her türlü cihaz ve
+donanım talebini normal piyasa koşullarında sağlamak zorundadır.
+        (9) Bakım, onarım, arıza giderme ve periyodik kontrol faaliyetleri yürütülürken gerekli iş sağlığı ve güvenliği tedbirleri 20/6/2012 tarihli ve 6331
+sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili mevzuat hükümleri doğrultusunda bina sorumlusu ile bakım sözleşmesi imzalayan asansör monte eden
+veya onun yetkili servisince alınır.
+        (10) Bakım esnasında, bakım ve onarım işlerinden kaynaklı nedenlerle gerek teknik bakım ve onarım personelinin gerekse bakımla ilgisi
+bulunmayan kişi/kişilerin yaralanmasına veya ölümüne neden olabilecek ihmallere dair sorumluluk, bina sorumlusunun bakım sözleşmesi imzaladığı
+asansör monte eden veya onun yetkili servisindedir.
+        (11) Periyodik kontrol neticesinde güvensiz olarak tanımlanan ve kırmızı renkli bilgi etiketi iliştirilen asansöre; kusurlu, hafif kusurlu veya kusursuz
+hale getirilinceye kadar bakım hizmeti sunulamaz. Güvensiz olma durumundan, kusurlu duruma geçen ve periyodik kontrol tarihi başlangıç kabul
+edilerek yüz yirmi gün içerisinde hafif kusurlu veya kusursuz hale getirilmeyen asansöre de söz konusu sürenin sona erdiği zaman itibarıyla bakım
+hizmeti sunulamaz. Asansör monte eden veya onun yetkili servisi bu süre zarfında bina sorumlusundan aylık bakım ücreti talebinde bulunamaz.
+        (12) Asansör monte eden veya onun yetkili servisi; bakım, onarım, arıza giderme ve periyodik kontrol faaliyetleri yürütülürken görevlendireceği
+teknik bakım ve onarım personeline ilişkin tanımlayıcı tüm bilgilerin bakım sözleşmesinde yer almasını sağlar. Teknik bakım ve onarım personeline ilişkin
+değişiklik olması halinde, bu değişikliğe dair bilginin de söz konusu bakım sözleşmesinde yer alması ilgili asansör monte eden veya onun yetkili
+servisince sağlanır.
+        (13) Bina sorumlusu tarafından, bakım sözleşmesi yapılan asansör monte eden veya onun yetkili servisinin dışındaki üçüncü tarafların asansöre
+müdahalesine izin verilmez. Birinci cümlede belirtilen hüküm periyodik kontrol sonucunda gerçekleştirilecek olan iyileştirme faaliyetleri ile 9 uncu
+maddenin üçüncü fıkrasının (a), (b) ve (c) bentlerinde belirtilen işlemler kapsamında bina sorumlusunca tercih edilen ve sözleşme imzalanan asansör
+monte edenin veya onun yetkili servisinin çalışmalarını kapsamaz.
+        (14) (Ek:RG-11/7/2021-31538) TSE tarafından TSE Hizmet Yeterlilik Belgesi askıya alınan veya iptal edilen asansör monte eden veya onun
+yetkili servisi, asansörlere yönelik bakım, onarım ve servis hizmeti sunamaz.
+                                                                  DÖRDÜNCÜ BÖLÜM
+                                                       Garanti Belgesi, Satış Sonrası Hizmetler ve
+                                                               Yetkili Servis ile İlgili Şartlar
+        Garanti belgesi
+        MADDE 11 – (1) Asansör monte eden piyasaya arz ettiği asansöre ilişkin olarak Ek-3’te yer alan içeriğe uygun olacak şekilde garanti belgesini
+düzenlemek zorundadır.
+        (2) Asansör monte eden tarafından piyasaya arz edilen her asansör, piyasaya arz edildiği tarih itibarıyla en az üç yıl süre ile garanti edilir.
+        (3) Garanti süresi boyunca, o asansörü piyasaya arz eden asansör monte eden veya onun yetkili servisi tarafından asansörde değiştirilecek olan
+aksam veya parça, söz konusu değişimin yapıldığı tarih itibarıyla en az iki yıl süre ile garanti edilir.
+        (4) Garanti süresi biten asansörde değiştirilen aksam veya parça, bu aksamı/parçayı imal eden veya ticari bir faaliyet yoluyla bedelli/bedelsiz
+olarak kullanımı için bina sorumlusuna sağlayan iktisadi işletmeci tarafından en az iki yıl süre ile garanti edilir. İktisadi işletmeci,        Ek-3’te yer alan
+içeriğe uygun olacak şekilde garanti belgesini düzenlemek ve bina sorumlusuna sunmak zorundadır.
+        (5) Garanti belgesinde tanımlanacak olan azami tamir süresi on beş günden fazla olamaz.
+        (6) Asansör Yönetmeliği (2014/33/AB) kapsamında piyasaya arz edilen her asansöre yönelik garanti süresi boyunca sunulacak olan bakım
+hizmeti, bina sorumlusunun başka bir asansör monte eden veya onun yetkili servisi ile sözleşme imzalayacağını beyan etmemesi durumunda, o asansörü
+
+piyasaya arz eden asansör monte eden veya onun yetkili servisi tarafından verilir.
+        (7) Bina sorumlusunun garanti süresi içerisinde bir başka asansör monte eden veya onun yetkili servisi ile bakım sözleşmesi imzalaması, o
+asansörü piyasaya arz eden asansör monte edenin garanti ile ilgili yükümlülüklerini ortadan kaldırır.
+        (8) Asansörün arızalanması durumunda, tamirde geçen süre garanti süresine eklenir.
+        Satış sonrası hizmetler
+        MADDE 12 – (1) Asansör Yönetmeliği (2014/33/AB) kapsamında piyasaya arz edilen ve garanti edilen her asansöre yönelik garanti
+kapsamında yürütülecek olan satış sonrası bakım, onarım ve servis hizmetleri, o asansörü piyasaya arz eden asansör monte eden veya onun yetkili
+servisi tarafından yerine getirilir.
+        (2) Garanti kapsamında satış sonrası hizmetlerin tam ve eksiksiz yerine getirilebilmesi amacıyla, bu Yönetmelikte belirlenmiş olan asgari kriterler
+çerçevesinde en az bir yetkili servis istasyonu asansör monte edenin bünyesinde kurulur.
+        (3) Faaliyet ana merkezinin bulunduğu coğrafi bölgenin dışında piyasaya arz edilen ve garanti edilen her asansöre yönelik satış sonrası hizmetler,
+asansör monte eden tarafından yerine getirilir. Asansörün piyasaya arz edildiği coğrafi bölgede, en az bir yetkili servis istasyonu bölge servisi olarak
+asansör monte eden tarafından kurulur veya bu Yönetmelik şartlarını sağlayan herhangi bir asansör monte eden veya onun yetkili servisiyle bölge
+servisi olarak yetkili servis sözleşmesi yapılır. Ancak asansörün piyasaya arz edildiği farklı coğrafi bölge şehrinin, asansör monte edenin faaliyet
+merkezini bulunduran ilgili coğrafi bölge şehrine sınır veya komşu şehir olması durumunda, asansör monte eden tarafından bu şehirde ayrıca bölge
+servisinin kurulmasına veya bölge servisi sözleşmesi yapılmasına gerek duyulmaz.
+        (4) Asansör monte eden piyasaya arz ettiği her asansör için yeterli sayıda teknik personeli istihdam etmek ve yedek parça stokunu bulundurmak
+suretiyle bakım, onarım ve servis hizmetini sunmak zorundadır.
+        (5) Bina sorumlusunun garanti kapsamında bulunan asansördeki ayıplı durumlar için yapacağı ücretsiz onarım talebi, garanti belgesinde belirtilen
+azami tamir süresi içinde asansör monte eden veya onun yetkili servisi tarafından yerine getirilir.
+        Yetkili servis ile ilgili şartlar
+        MADDE 13 –(1) (Değişik:RG-10/2/2023-32100) Yetkili servis, merkez ve bölge servisi olarak yapılandırılır. Asansör monte eden, kendi
+bünyesinde en az bir merkez servisini kurmak zorundadır. Asansör monte eden, 12 nci maddenin üçüncü fıkrasının birinci ve ikinci cümlelerinde
+belirtilen gerekliliklere göre kendi bünyesinde bölge servisini kurar veya sözleşme ile bir başka asansör monte edeni veya onun yetkili servisini bölge
+servisi olarak görevlendirir. Merkez servisinin ve bölge servisinin güncel TS 12255: Yetkili Servisler-Asansör Bakım Servisleri-Kurallar standardı
+kapsamında TSE hizmet yeterlilik belgesine sahip olması gerekir. Asansör monte eden, merkez ve bölge servisi dışında asansöre ait yedek parça ve
+malzeme stoku ile satışı ve bina sorumlularıyla irtibat için şube kurabilir. Şube için tahsis edilen mekanların veya alanların, asansör monte edene ait olan
+ticaret sicil kayıt belgesinde belirtilmesi ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu gerekliliklerine uygun olması gerekir. Şube içerisinde 9
+uncu maddenin ikinci fıkrasının (d) bendinde belirtilen bileşen onarımı işleminin yürütülmesi halinde, şubenin ayrıca ilgili standart gerekliliklerini
+sağlaması ve TSE hizmet yeterlilik belgesine sahip olması gerekir.
+        (2) Yetkili servis merkezinin veya bölgesinin bünyesinde, en az bir servis teknik sorumlusunun, en az iki teknik bakım ve onarım personelinin ve
+en az bir idari personelin tam zamanlı olarak istihdam edilmesi zorunludur. (Mülga cümle:RG-10/2/2023-32100)
+        (3) Yetkili servis merkezinde veya bölgesinde ikinci fıkraya göre asgari şartlarda istihdam edilmesi zorunlu olan personelin kendi isteği ile işten
+ayrılması durumunda, işten ayrılan personelin yerine 22/5/2003 tarihli ve 4857 sayılı İş Kanununda belirtilen fesih süresi sonu itibarıyla yeni personelin
+tam zamanlı olarak istihdam edilmesi zorunludur. Ayrıca işveren statüsündeki yetkili servisin, süresinin bitiminden önce söz konusu personel ile yapmış
+olduğu iş sözleşmesini tek taraflı olarak fesih etmesi durumunda ise yeni personelin fesih tarihi itibarıyla en fazla on beş gün içerisinde kendi bünyesinde
+istihdam edilmesi gerekir.
+        (4) Servis teknik sorumlusunun, makina veya elektrik veya elektronik veya elektrik-elektronik veya elektronik ve haberleşme veya mekatronik
+alanlarında mühendislik/teknoloji fakültelerinin birinden mezun olması gerekir. Tam zamanlı olarak istihdam edilen servis teknik sorumlusu, bir başka
+yetkili serviste veya farklı bir iş alanında faaliyet gösteren işveren bünyesinde hizmet sunamaz veya istihdam edilemez.
+        (5) Teknik bakım ve onarım personelinin;
+        a) Endüstri meslek liselerinin asansör, elektrik, elektrik tesisatçılığı, elektromekanik taşıyıcılar, elektronik, endüstriyel elektronik, endüstriyel
+otomasyon teknolojileri, endüstriyel otomasyon teknolojisi, elektrik-elektronik teknolojisi, makine veya mekatronik bölümlerinden mezun olmaları veya,
+        b) Endüstri meslek liselerinin bu fıkranın (a) bendinde belirtilen bölümlerinin herhangi birisinden mezun olmamaları hâlinde 5/6/1986 tarihli ve
+3308 sayılı Mesleki Eğitim Kanunu kapsamında asansör bakım ve onarımı konusunda ustalık belgesine sahip olmaları veya,
+        c) Meslek yüksekokullarının makine, elektrik, elektronik, elektrik-elektronik, mekatronik veya elektromekanik taşıyıcılar bölümlerinden mezun
+olmaları veya,
+        ç) Bu fıkranın (a), (b) ve (c) bentlerinde belirtilen şartları sağlayan kişinin/kişilerin dışında teknik bakım ve onarım personeli olarak istihdam edilen
+kişinin/kişilerin asansör bakım ve onarımı konusunda mesleki yeterlilik belgesine sahip olması,
+        gerekir.
+        (6) Yetkili servis sözleşmesi noter huzurunda yapılır ve iki yılda bir yenilenir.
+        (7) Yetkili servis sözleşmesinin kapsamı, asansör monte edenin vereceği yetki ve sorumluluklar çerçevesinde belirlenir.
+        (8) Yetkili servis sözleşmesi asansörlerde bakım, onarım ve servis hizmetlerine ilişkin detayları içermek zorundadır. Asansör montajı ve 9 uncu
+maddenin üçüncü fıkrasında belirtilen konular sözleşme kapsamının dışında tutulur.
+        (9) Bakım hizmeti sunulurken asansöre verilebilecek hasarlara ve kazalara ilişkin yetkiyi veren asansör monte edenin de müteselsilen sorumlu
+olacağı yetkili servis sözleşmesinde belirtilir.
+        (10) Bölge servisi olarak sözleşme imzalanan yetkili servisin TSE Hizmet Yeterlilik Belgesinde, yetkiyi veren asansör monte edenin unvanı ve
+markasına ilişkin bilgiler yer alır.
+        (11) Asansör monte eden, bölge servisi olarak sözleşme imzalayacağı yetkili servis personelinin eğitimini sağlar ve bu konuda hazırlanmış olan
+her türlü bilgi ve belgenin dokümantasyonunu oluşturarak muhafaza eder.
+        (12) Yetkili servis kendisi tarafından asansöre verilen bakım, onarım ve servis hizmeti ile ilgili olarak mesleki hata ve/veya ihmaller nedeniyle
+bina sorumlusunun ve diğer üçüncü şahıslar tarafından ileri sürülecek zarar ve ziyan taleplerini karşılamak üzere en az 500.000 TL tutarında mesleki
+sorumluluk sigortasını yaptırır. Bir sonraki yıl için geçerli sayılacak olan mesleki sorumluluk sigortasının değeri, 213 sayılı Kanun hükümleri uyarınca o
+yıl tespit ve ilan edilen yeniden değerleme oranı kadar arttırılır.
+        (13) TSE Hizmet Yeterlilik Belgesi için Türk Standardları Enstitüsüne yapılan başvurularda, ilgili standart şartları ile birlikte bu maddede belirtilen
+gereklilikler de aranır.
+                                                                        BEŞİNCİ BÖLÜM
+                                                 Bina Sorumlusunun Yükümlülükleri ve Hizmet Denetimi
+        Bina sorumlusunun yükümlülükleri
+        MADDE 14 – (1) Bina sorumlusu, asansörün güvenli bir şekilde çalışmasını sağlamak üzere (Ek ibare:RG-11/7/2021-31538) asansör monte
+eden veya onun yetkili servisi ile bakım sözleşmesi imzalamaktan, bakımını yaptırmaktan ve bakım ücretinin ödenmesinden sorumludur.
+
+        (2) Bina sorumlusu, engellilerin erişilebilirliği için asansörün güvenli bir şekilde sürekli olarak çalıştırılmasını sağlar. Kamuya açık alanlarla ilgili
+olarak birinci cümlede belirtilen konuya ilişkin şikâyetler ilgisi nedeniyle Valilik bünyesinde bulunan erişilebilirlik izleme ve denetleme komisyonuna,
+konutlarla/meskenlerle ilgili şikâyetler ise konutun/meskenin bağlı bulunduğu ilgili idaresine iletilir.
+        (3) Bina sorumlusu, asansörle ilgili herhangi bir tehlikeli durumu bakım sözleşmesi imzalanan asansör monte eden veya onun yetkili servisine iletir
+ve söz konusu asansöre, asansör monte eden veya onun yetkili servisi tarafından müdahale edilene kadar gerekli güvenlik tedbirini alır.
+        Hizmet denetimi
+        MADDE 15 – (1) Asansör monte eden tarafından garanti ile ilgili şartların ve satış sonrası hizmetlerin sağlanıp sağlanmadığı, bu Yönetmelik ile
+belirlenmiş olan kriterlere uygun bakım, onarım ve servis hizmetinin asansör monte eden veya onun yetkili servisince sunulup sunulmadığına dair hizmet
+denetimi, Bakanlık tarafından yapılır.
+        (2) Bina sorumlusunun bu Yönetmelikte belirtilen yükümlülükleri yerine getirip getirmediğine ilişkin denetim Bakanlık tarafından yapılır.
+                                                                        ALTINCI BÖLÜM
+                                                   Mevcut Asansörün Güvenlik Seviyesinin Arttırılması
+        Mevcut asansörün güvenlik seviyesinin arttırılması
+        MADDE 16 – (1) Mevcut asansörün güvenlik seviyesi, Asansör Yönetmeliği (2014/33/AB) kapsamında monte edilmiş olan asansörün güvenlik
+seviyesine yakın eş değer bir seviyeye getirilerek arttırılır.
+        (2) Mevcut asansörün güvenlik seviyesinin arttırılmasına yönelik yürütülecek işlemlerde, Ek-4’te yer alan ve TS EN 81-80 standardında belirtilen
+tehlikeli durumlar ve söz konusu tehlikeli durumlara ilişkin bahsi geçen standart ile atıf yapılan çözüm önerileri esas alınır.
+        (3) Mevcut asansör için belirtilen tehlikeli durumlar, TS EN 81-80 standardına uygun olacak şekilde Bakanlık tarafından yayımlanan mevzuat
+ekindeki asansör periyodik kontrol listelerinde tanımlanır.
+        (4) Mevcut asansörün güvenlik seviyesinin arttırılmasına dair sorumluluk, bina sorumlusuna aittir.
+                                                                        YEDİNCİ BÖLÜM
+                                                                     Çeşitli ve Son Hükümler
+        İdari yaptırımlar
+        MADDE 17 – (Değişik:RG-11/7/2021-31538)
+        (1) Bu Yönetmeliğe aykırı hareket eden asansör monte eden veya onun yetkili servisine, bina sorumlusuna veya kat maliklerine, servis teknik
+sorumlusuna ve asansör yaptırıcısına 1705 sayılı Kanunun 6 ncı maddesinin birinci fıkrasında öngörülen idari para cezası uygulanır. Ancak bina
+sorumlusuna veya kat maliklerine geçici 1 inci maddede belirtilen tescil işlemini yaptırmadığından dolayı birinci cümlede ifade edilen idari para cezası
+uygulanmaz.
+        (2) Bu Yönetmelik gerekliliklerini sağlamayan asansör monte eden veya onun yetkili servisinin sınai ve ticari faaliyetleri 1705 sayılı Kanunun
+6 ncı maddesinin ikinci fıkrası uyarınca durdurulur.
+        (3) 11 inci maddenin birinci, ikinci, üçüncü, dördüncü, beşinci, altıncı ve sekizinci fıkralarında belirtilen şartları sağlamayan asansör monte edene
+veya onun yetkili servisine 7223 sayılı Kanunun 20 nci maddesinin birinci fıkrasının (b) bendinde öngörülen idari para cezası uygulanır.
+        (4) 7 nci maddenin birinci fıkrasına göre süresi içerisinde ilgili idareye tescil başvurusunu yapmayan veya asansörü ilgili idareye tescil ettirmeyen
+asansör monte edene 7223 sayılı Kanunun 20 nci maddesinin birinci fıkrasının (e) bendinde öngörülen idari para cezası uygulanır.
+        (5) Bu Yönetmelikte belirtilen satış sonrası hizmetlere ilişkin şartlar ile yetkili servis ile ilgili şartları sağlamayan asansör monte edene veya onun
+yetkili servisine 1705 sayılı Kanunun 6 ncı maddesinin birinci fıkrasında öngörülen idari para cezası uygulanır.
+        (6) İdari para cezası, ceza kararının ilgiliye tebliğinden itibaren bir ay içerisinde ödenir.
+        (7) (Ek:RG-10/2/2023-32100) Bu Yönetmelik hükümlerine aykırı davrananlar hakkında 7223 sayılı Kanun kapsamında uygulanacak idari para
+cezası kararları;
+        a) Denetimin Bakanlık merkez birimi personeli tarafından yapılması halinde sorumluluk alanı çerçevesinde bakan yardımcısı tarafından,
+        b) Denetimin sadece il müdürlüğü personeli tarafından veya Bakanlık merkez birimi personeli ile il müdürlüğü personelinin birlikte katılımıyla
+yapılması halinde asansörün monte edildiği yerdeki il müdürü tarafından,
+        verilir.
+        Atıflar
+        MADDE 18 – (1) 24/6/2015 tarihli ve 29396 sayılı Resmî Gazete’de yayımlanan Asansör İşletme, Bakım ve Periyodik Kontrol Yönetmeliğine
+yapılan bütün atıflar, bu Yönetmeliğe yapılmış sayılır.
+        Yürürlükten kaldırılan yönetmelik
+        MADDE 19 – (1) 24/6/2015 tarihli ve 29396 sayılı Resmî Gazete’de yayımlanan Asansör İşletme, Bakım ve Periyodik Kontrol Yönetmeliği
+yürürlükten kaldırılmıştır.
+        Kayıt altına alınmamış asansörün tescili
+        GEÇİCİ MADDE 1 –(1) Bu Yönetmeliğe göre TS EN 81-80 standardı esas alınarak güvenlik seviyesi artırılan mevcut asansör veya
+15/8/2004-24/6/2015 tarihleri arasında piyasaya arz edilmesine rağmen kayıt altına alınmamış olan asansör, bir defaya mahsus olmak üzere ilgili idare
+tarafından tescil edilir. Bina sorumlusu:
+        a) Mevcut asansörün güvenlik seviyesinin TS EN 81-80 standardına göre artırıldığını ispatlayacak olan yeşil veya mavi renkli bilgi etiketine esas
+periyodik kontrol raporuyla, bir sonraki periyodik kontrol tarihine kadar ilgili idareye başvurur.
+        b) 15/8/2004-24/6/2015 tarihleri arasında piyasaya arz edilmesine rağmen kayıt altına alınmamış olan asansöre ait yeşil veya mavi renkli bilgi
+etiketine esas periyodik kontrol raporuyla, bir sonraki periyodik kontrol tarihine kadar ilgili idareye başvurur.
+        (2) Asansörün tescil belgesi, Ek-5’te yer alan içeriğe uygun olacak şekilde ilgili idare tarafından düzenlenir ve bina sorumlusuna sunulur.
+        Yürürlük
+        MADDE 20 – (1) Bu Yönetmeliğin;
+        a) 13 üncü maddesinin on ikinci fıkrası yayımı tarihinden on iki ay sonra,
+        b) Diğer hükümleri yayımı tarihinde,
+        yürürlüğe girer.
+        Yürütme
+        MADDE 21 – (1) Bu Yönetmelik hükümlerini Sanayi ve Teknoloji Bakanı yürütür.
+
+      Ekleri için tıklayınız.
+
+                                                           Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+                                                           Tarihi                               Sayısı
+                                                          6/4/2019                              30737
+                                                Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+                                                                        Gazetelerin
+                                                           Tarihi                               Sayısı
+                             1.                           3/4/2021                              31443
+
+2.   11/7/2021   31538
+3.   10/2/2023   32100

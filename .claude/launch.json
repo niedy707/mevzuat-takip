@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mevzuat",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["sunucu.py"],
+      "port": 3031
+    }
+  ]
+}

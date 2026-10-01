@@ -1,0 +1,41 @@
+# Orijinal PDF'ler — ~40 MB, yeniden indirilebilir. Fark METİN üzerinden görülür.
+pdf/
+
+# Arsivdeki eski nushalar git gecmisinde zaten var; yalniz *_fark.diff izlenir.
+arsiv/*.txt
+arsiv/*.pdf
+
+# TLS bundle — makineye ozgu, kur.sh ile uretilir
+sertifika/*.pem
+sertifika/*.der
+
+# Kosu kayitlari
+kayit/*.log
+kayit/rg-gorulen.json
+# degisiklik.py: "son rapor" işareti ve RG belge önbelleği (PDF + OCR kopyası)
+kayit/rapor-durum.json
+kayit/rg-belge/
+# yayin.py / acil_is.py: yayın durumu, acil nabzı, iş kilidi
+kayit/yayin-durum.json
+kayit/acil-nabiz.json
+kayit/.is-kilidi
+# Üretilen public site (Vercel'e CLI ile yüklenir; .vercel bağlantısı burada)
+yayin/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Kişisel hukuki gerekçeler ve iç proje yolları — depo PUBLIC, bunlar girmez
+kaynak-notlar.json
+
+# Olay defteri — `not` alanları iç süreç ayrıntısı taşır (depo public)
+gunluk.json
+
+# İç geliştirme raporu — özel depoların içeriğini tartışır
+mevzuat_tara.md
+mevzuat_tara.json

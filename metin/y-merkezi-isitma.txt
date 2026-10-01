@@ -1,0 +1,267 @@
+MERKEZİ ISITMA VE SIHHİ SICAK SU SİSTEMLERİNDE ISINMA VE SIHHİ SICAK SU GİDERLERİNİN
+                                     PAYLAŞTIRILMASINA İLİŞKİN YÖNETMELİK
+
+                                                                     BİRİNCİ BÖLÜM
+                                                             Amaç ve Kapsam, Dayanak, Tanımlar
+       Amaç ve kapsam
+       MADDE 1 – (1) Bu Yönetmeliğin amacı; mevcut ve yeni yapılacak birden fazla bağımsız bölüme sahip merkezî veya bölgesel ısıtma sistemli ve
+sıhhî sıcak su sistemli binalarda, ısıtma ve sıhhî sıcak su giderlerinin, bağımsız bölüm kullanıcılarına paylaştırılmasına ilişkin usûl ve esasları belirlemektir.
+       Dayanak
+       MADDE 2 –(1) Bu Yönetmelik, 23/6/1963 tarihli ve 634 sayılı Kat Mülkiyeti Kanununun 42 nci maddesinin dördüncü fıkrasına dayanılarak
+hazırlanmıştır.
+       Tanımlar
+       MADDE 3 – (1) Bu Yönetmelikte geçen;
+       a) Bakanlık: Bayındırlık ve İskân Bakanlığını,
+       b) Bağımsız bölüm: Tamamlanmış bir binanın kat, daire, büro, dükkân, mağaza, mahzen, depo ve benzeri bölümlerinden ayrı ayrı ve başlı başına
+kullanılmaya elverişli olan birimlerini,
+       c) Bina: Kendi başına kullanılabilen, üstü örtülü, insanların içine girebilecekleri ve insanların oturma, çalışma, eğlenme veya dinlenmelerine veya
+ibadet etmelerine yarayan, hayvanların ve eşyaların korunmasına yarayan yapıyı,
+       ç) Bina sahibi: Binanın maliki, varsa intifa hakkı sahibi, ikisi de yoksa binaya malik gibi tasarruf edeni,
+       d) Bina yöneticisi: Kat Mülkiyeti Kanununa göre atanmış olan ve bina yönetimini sağlayan kişiyi,
+       e) Bina yönetim kurulu: Kat Mülkiyeti Kanununa göre atanmış olan ve bina yönetimini sağlayan kurulu,
+       f) Bölgesel ısı dağıtım ve satış şirketleri: Bir merkezde elde ettikleri ısı enerjisinin ısıtma veya sıhhî sıcak su elde etmek amacıyla bölge içindeki
+binalara dağıtımını, ölçüm ve satış işlemlerini yapan şirketleri,
+       g) Bölgesel ısıtma sistemi: Bir merkezden elde edilen ısıtma enerjisinin bölge içerisindeki binalara dağıtılmasını ve bağımsız bölümlerin ısıtılmasını
+sağlayan sistemi,
+       ğ) Bölgesel sıhhî sıcak su sistemi: Bir merkezden elde edilen sıhhî sıcak suyun bölge içerisindeki binalara ve bağımsız bölümlere dağıtılması ve
+kullanılmasını sağlayan sistemi,
+       h) Enerji yöneticisi: Binalarda enerji yönetimi ile ilgili faaliyetleri yerine getirmekle sorumlu ve enerji yöneticisi sertifikasına sahip kişiyi,
+       ı) Gider paylaşım belgesi: Bu Yönetmelik kapsamındaki binaların ısı veya sıhhî sıcak su kullanım enerjisi için ödeyeceği toplam tutarın kullanım
+miktarlarına göre bağımsız bölümlere paylaştırıldığı belgeyi,
+       i) Isı ölçer: Üzerine veya giriş hattına yerleştirildiği radyatör ve benzeri ısıtıcı cihazların harcadığı enerjiyi ölçerek hafızasına kaydeden cihazı,
+       j) Isı sayacı: Üzerine yerleştirildiği ısıtma hattından geçen ısı enerjisi miktarını debi ve sıcaklık farkına göre ölçen cihazı,
+       k) Muayene ve kalibrasyon: 21/1/1989 tarihli ve 3516 sayılı Ölçüler ve Ayar Kanununa göre yapılan muayene ve kalibrasyonu,
+       l) Merkezî ısıtma sistemi: Bir merkezden elde edilen ısıtma enerjisinin binalara dağıtılmasını ve bağımsız bölümlerin ısıtılmasını sağlayan sistemi,
+       m) Merkezî sıhhî sıcak su sistemi: Bir merkezden elde edilen sıhhî sıcak suyun binalara ve bağımsız bölümlere dağıtılması ve kullanılmasını
+sağlayan sistemi,
+       n) Ölçüm ekipmanları: Isı ve sıcak su sayacı, ısı ölçer, ölçüm okuma ve faturalandırma cihazlarını,
+       o) Ön ödemeli ısı sayacı sistemi: Üzerine yerleştirildiği ısıtma giriş hattından geçen ısı enerjisi miktarını debi ve sıcaklık farkına göre ölçerek
+bedelinin önceden ödenmesi prensibine göre çalışan sistemi,
+       ö) Sıcak su sayacı: Üzerine yerleştirildiği sıhhî sıcak su giriş hattından geçen sıcak su miktarını ölçen cihazı,
+       p) Yetkilendirilmiş ölçüm şirketleri: Bina sahibi, bina yöneticisi, bina yönetim kurulu veya enerji yöneticisinin ölçümleri yapabilecek yeterli
+personel ve donanıma sahip olmadığı durumlarda ölçüm yapmak üzere Bakanlık tarafından yetki belgesi verilmiş tüzel kişileri,
+       ifade eder.
+
+                                                                     İKİNCİ BÖLÜM
+                                                          Görev, Yetki, Sorumluluk ve Uygulamalar
+       Görev, yetki ve sorumluluklar
+       MADDE 4 – (1) Bu Yönetmelik hükümlerinin uygulanması hususunda;
+       a) Yapı ruhsatı ve yapı kullanma izni vermeye yetkili idareler,
+       b) Yetkilendirilmiş ölçüm şirketleri,
+       c) Bölgesel ısı dağıtım ve satış şirketleri,
+       ç) Bina sahipleri,
+       d) Bina yöneticileri veya bina yönetim kurulları,
+       e) Enerji yöneticileri,
+       f) Tasarım ve uygulamada görevli mimar ve mühendisler ile uygulayıcı yükleniciler ve imalatçılar,
+       g) Binanın yapılmasında ve kullanımında görev alan müşavir, danışman, proje kontrol ve işletme yetkilileri,
+       görevli, yetkili ve sorumludur.
+       (2) Yönetmelik hükümlerine göre inşaa edilmemiş binalardan; projenin eksik veya hatalı olması veyahut Standardlara uygun olmaması hâlinde
+proje müellifleri; yapımın eksik veya hatalı olması veya Standardlara uygun olmaması hâlinde ise varsa yapı denetim kuruluşu ve müteahhit firma
+sorumludur. Sistemin uygun çalışmaması işletmeden kaynaklanıyor ise, bina sahibi, bina yöneticisi, bina yönetim kurulu, enerji yöneticisi, yetkilendirilmiş
+ölçüm şirketleri ve bölgesel ısı dağıtım ve satış şirketleri doğrudan sorumlu olur.
+       (3) Yapı ruhsatı vermeye yetkili idareler, projelerin ve uygulamaların bu Yönetmelik hükümlerine uygun olup olmadığını denetler.
+       (4) Bakanlık, ölçüm ve gider paylaşım belgesi düzenleyecek şirketlere yetki belgesi verir ve bu yetkilendirilmiş şirketleri denetler.
+        (5) Ölçüm ve gider paylaşım belgesi düzenleyecek şirketlere yetki belgesi verilmesi ve yetkilendirilen ölçüm şirketlerinin denetlenmesine ait usul
+ve esaslar Bakanlık tarafından yürürlüğe konulacak tebliğ ile düzenlenir.
+       Uygulamalar
+       MADDE 5 – (1) Bu Yönetmelik aşağıdaki giderlerin ısı veya sıhhî sıcak su sağlanmış bağımsız bölüm kullanıcılarına paylaştırılmasında
+uygulanır.
+       a) Merkezî ısıtma sistemlerinin işletme giderleri,
+       b) Isının ve sıhhî sıcak suyun bağımsız bölümlerce kullanım giderleri.
+       (2) Isıtma ve sıhhî sıcak su tüketimlerini ölçmek için mahaller ölçüm ekipmanları ile donatılır. Bağımsız bölüm kullanıcıları bu maksatla yapılacak
+iş ve işlemlere izin vermek mecburiyetindedir. Arıza ve bakım halleri hariç olmak üzere bağımsız bölüm kullanıcıları ölçüm ekipmanlarına müdahale
+
+edemez.
+       (3) Bina sahibi, bina yöneticisi, bina yönetim kurulu, enerji yöneticisi, yetkilendirilmiş ölçüm şirketleri ve bölgesel ısı dağıtım ve satış şirketleri, ısı
+veya sıhhî sıcak suya ilişkin tüketimleri aylık veya belirli dönemlerde ölçer ve bağımsız bölüm kullanıcılarına ait gider paylaşım belgelerini düzenler.
+       (4) Merdiven sahanlığı, giriş holü, ısıtma merkezleri ve benzeri ortak kullanım mahallerinde, tüketim ölçülmez. Kullanıma bağlı ısı veya sıhhî sıcak
+su tüketimi çok olan yüzme havuzu, sauna, kapıcı dairesi ve benzeri mahaller için ise tüketimin ölçülmesi mecburidir.
+       (5) Tüketilen enerjiyi sınırlandırabilmek için merkezî ısıtma sistemi kullanılan binalarda TS EN 215’e uygun termostatik radyatör vanası kullanılır.
+       (6) Merkezî sistemlerle ısıtma yapılan bağımsız bölümlerdeki mahal sıcaklıklarının asgari 15 °C olacak şekilde ayarlanır.
+       (7) Bağımsız bölüm ısıtma veya sıhhî sıcak su gider paylaşım bildirimlerinde aşağıdaki bilgilere yer verilir:
+       a) Bağımsız bölüm kullanıcısının adı-soyadı ve adres bilgileri,
+       b) Bağımsız bölüm mahalleri ve alanları ile ilgili bilgiler,
+       c) Paylaşım bildirimi dönemi bilgileri,
+       ç) Ölçüm okuma tarih bilgileri,
+       d) Paylaşım bildirimi düzenleme tarihi bilgileri,
+       e) Son ödeme tarih bilgileri,
+       f) Isı ölçerlerdeki veya ısı sayaçlarındaki önceki ölçüm değerleri ve son tüketim ölçüm değerleri ile fark tüketim değerleri,
+       g) Isıtma sistemi gider hesaplama çizelgesi,
+       ğ) Sıhhî sıcak su sistemi gider hesaplama çizelgesi,
+       h) Toplam gider hesaplama çizelgesi,
+       ı) Bina ısıtma sistemi aylık toplam gideri tutarı,
+       i) Bina ısıtma sistemi aylık toplam gideri tutarının ısıtma ve sıhhî sıcak su hazırlama olarak paylaştırılmış tutarları,
+       j) Bina ısıtma giderinin sarfiyat ve sabit paylaşım oranları ile bu oranlara karşılık gelen tutarları, bu tutarlar üzerinden ilgili bağımsız bölüm
+kullanıcısına düşen tutarlar,
+       k) Gerekli durumlar için açıklayıcı bilgi satırı.
+       (8) Aylık veya belirli dönemlerde hazırlanan ısıtma veya sıhhî sıcak su giderlerine ait bağımsız bölüm paylaşım bildirimleri icmali, bina sahibi, bina
+yöneticisi, bina yönetim kurulu, enerji yöneticisi veya yetkilendirilmiş ölçüm şirketleri tarafından bina girişindeki ilan panosundan asgari üç gün süre ile
+liste halinde ilan edilir.
+
+                                                                       ÜÇÜNCÜ BÖLÜM
+                                                             Ölçüm Ekipmanları ve Gider Paylaşımı
+       Tüketimi ölçmek için kullanılacak ekipmanlar
+       MADDE 6 –(1) Isı tüketimini ölçmek için ilgili standardları sağlayan ısı sayaçları veya ısı ölçerler kullanır. Bu ekipmanların, Ölçüler ve Ayar
+Kanununa uygun olması gerekir.
+       (2) Sıhhî sıcak su tüketimini ölçmek üzere, ilgili standardlara ve Ölçüler ve Ayar Kanununa uygun, sıcak su sayaçları veya diğer ekipmanlar
+kullanır.
+       (3) Isı ve sıhhî sıcak su tüketiminin ölçülmesinde kullanılacak ekipmanların muayene ve kalibrasyonları, Ölçüler ve Ayar Kanunu hükümlerine
+göre yetkili kurum veya kuruluşlarca yapılır. Ölçüm ekipmanının muayene ve kalibrasyonlarının düzenli bir şekilde yapılmasının kontrolünden bina sahibi,
+bina yöneticisi veya bina yönetim kurulu veya enerji yöneticisi sorumludur.
+       (4) Ölçüm ekipmanının ısıtma sistemi için uygun olması ve teknik bakımdan doğru çalışabilecek şekilde kurulması gerekir. Ölçümler, Ölçüler ve
+Ayar Kanununa uygun olarak yapılır.
+       Tüketime bağlı gider paylaşımı
+       MADDE 7 –(1) Bina sahibi veya bina yöneticisi veya bina yönetim kurulu, ısı ve sıhhî sıcak su giderlerinin tüketim ölçümlerine ve 8 inci
+maddeye uygun olarak bağımsız bölüm kullanıcılarına paylaştırılmasını sağlar.
+        (2) Ortak kullanım mahallerinden, sistem kayıplarından ve işletme giderlerinden kaynaklı ısı giderleri, bağımsız bölüm kullanıcılarına kapalı
+kullanım alanları oranında paylaştırılır.
+        (3) Tüketim ölçümlerinde ısı ölçerlerin kullanılması halinde; bağımsız bölümlerde kullanılan her bir radyatör grubuna ısı ölçer takılması ve
+ölçümlerin bütün ısı ölçerlerden yapılarak bağımsız bölümlerin tüketimleri bulunur.
+         (4) Tüketim ölçümlerinde ısı sayacı kullanılması halinde; bağımsız bölümlerde ölçümlerin ısı sayaçlarından yapılarak bağımsız bölümlerin
+tüketimleri bulunur.
+        (5) Bina veya site kullanıcılarının tüketim ölçümlerinde farklı ölçüm ekipmanlarının kullanılması halinde; önce bütün tüketimi ölçmek suretiyle,
+tüketimleri aynı ekipman ile ölçülmüş kullanıcı gruplarının payları ölçülür.
+       Isıtma ve sıhhî sıcak su gider paylaşımı hesaplaması
+       MADDE 8 –(1) Merkezî ısıtma sistemlerinde toplam ısıtma giderlerinin % 70’i bağımsız bölümlerin ölçülen ısı tüketimlerine göre paylaştırılır.
+Toplam ısıtma giderlerinin % 30’u ortak kullanım mahalleri, sistem kayıpları, asgari ısınma ve işletme giderlerinden kaynaklı ısı giderleri olarak bağımsız
+bölümlerin kullanım alanlarına göre paylaştırılır.
+       (2) Bölgesel ısıtma sistemlerinde toplam ısıtma giderlerinin % 20’si asgari ısınma, ortak kullanım mahalleri, sistem kayıpları ve işletme
+giderlerinden kaynaklı ısı giderleri olarak bağımsız bölümlerin kullanım alanlarına göre paylaştırılır.
+       (3) Merkezî ısıtma sistemlerinin ısı giderleri aşağıdaki hesaplamalara göre paylaştırılır.
+       a) Isı ölçerlerin kullanılması durumunda hesaplama:
+
+                   M : Binanın toplam ısı tüketim tutarı (TL)
+                   P : Bağımsız bölümün toplam tüketim tutarı (TL)
+                   P1 : Bağımsız bölümün toplam ısı ölçer tüketim tutarı (TL)
+
+                  P2 : Bağımsız bölümün ortak tüketim tutarı (TL)
+                  S1,2,...n : Bağımsız bölümde bulunan her bir ısı ölçerde okunan değer
+                  St : Binada bulunan bütün ısı ölçerlerde okunan değerlerin toplamı
+                  A : Bağımsız bölümün kapalı kullanım alanı (m2)
+                  At : Binadaki bağımsız bölümlerin kapalı kullanım alanları toplamı (m2).
+      b) Isı sayaçlarının kullanılması durumunda hesaplama:
+
+                  M : Binanın toplam ısı tüketim tutarı (TL)
+                  P : Bağımsız bölümün toplam tüketim tutarı (TL)
+                  P1 : Bağımsız bölümün ısı sayacına göre tüketim tutarı (TL)
+                  P2 : Bağımsız bölümün ortak tüketim tutarı (TL)
+                  S : Bağımsız bölümde bulunan ısı sayacında okunan değer
+                  St : Binada bulunan bütün bağımsız bölümlerdeki ısı sayaçlarından okunan
+      değerlerin toplamı
+                  A : Bağımsız bölümün kapalı kullanım alanı (m2)
+                  At : Binadaki bağımsız bölümlerin kapalı kullanım alanları toplamı (m2).
+      (4) Merkezî sıhhî sıcak su sistemlerinde toplam sıhhî sıcak su giderleri, kullanıcıların ölçülen sıcak su tüketimlerine göre paylaştırılır.
+      (5) Merkezî sıhhî sıcak su sistemlerinin sıhhî sıcak su giderleri, aşağıdaki şekilde paylaştırılır.
+      a) Sıhhî sıcak su üretimini sağlayan ısıtma sisteminin, merkezî ısıtma sisteminden bağımsız olması ve sıcak su sayaçlarının kullanılması halinde
+hesaplama:
+
+                 M : Binanın toplam sıcak su tüketim tutarı (TL)
+                 P : Bağımsız bölümün toplam tüketim tutarı (TL)
+                 S : Bağımsız bölümde bulunan sıcak su sayacında okunan değer (litre)
+                 St : Binada bulunan bütün bağımsız bölümlerdeki sıcak su sayaçlarından okunan değerlerin toplamı (litre).
+      b) Binanın toplam sıhhî sıcak su tüketim maliyetinin (M) hesaplanmasında, sıhhî sıcak su üretimini sağlayan ısıtma sistemi, merkezî ısıtma
+sistemine bağımlı olduğu durumda; merkezî ısıtma sisteminin payı merkezî sıhhî sıcak su sisteminin tüketimi çıkartıldıktan sonra kalan bütün tüketim
+miktarıdır. Merkezî sıhhî sıcak su sisteminin yakıt tüketim miktarı (By);
+
+      şeklinde hesaplanır. Bu durumda binanın toplam sıhhî sıcak su tüketim tutarı (M);
+      M = By x F (TL)
+      şeklinde hesaplanır.
+        Burada;
+                   F : Yakıt birim fiyatı (TL)
+                   By : Merkezî sıcak su yakıt tüketim miktarı (katı ve sıvı yakıtlar için kg, gaz yakıtlar için m3 olarak alınır.)
+                   M : Binanın toplam sıcak su tüketim tutarı (TL)
+                   V : Tüketilen sıcak su hacmi (litre)
+                   tw : Sıcak su sıcaklığı (°C)
+                      HU : Tüketilen yakıtın alt ısıl değeri (katı ve sıvı yakıtlar için kcal/kg, gaz yakıtlar için kcal/m3 olarak Hu değerleri yakıtı sağlayan
+kuruluşlardan alınır.)
+      Gider paylaşımının farklı hesaplandığı haller
+      MADDE 9 – (1) Ön ödemeli ısı sayacı sistemi kullanılması hallerinde; 5 inci maddenin yedinci fıkrası ile 8 inci madde uygulanmayabilir.
+      (2) Jeotermal kaynaklı ısıtma sistemine dahil binalarda, bina ana ısı sayacı ile bağımsız bölüm süzme ısı sayaçları kullanılması halinde, bina ısıtma
+ortak gider tutarı; ana ısı sayacı ile bağımsız bölüm ısı sayaçları toplamı arasındaki farkın bağımsız bölüm kapalı kullanım alanları oranında bağımsız
+bölümlere paylaştırılması suretiyle hesaplanır.
+
+                                                                        DÖRDÜNCÜ BÖLÜM
+                                                              Yetkilendirilmiş Kuruluşların Özellikleri
+        Yetkilendirilmiş ölçüm şirketleri ve bölgesel ısı dağıtım ve satış şirketleri
+        MADDE 10 –(1) (Değişik:RG-8/7/2019-30825 Mükerrer) Ölçüm ve gider paylaşım belgesi düzenleyecek şirketin aşağıdaki şartları
+taşıması gerekmektedir:
+        a) Şirketin Ticaret veya Sanayi Odası sicil kaydı olması.
+        b) Türk Ticaret Sicili Gazetesinde, şirketin faaliyet konuları arasında ısı veya sıhhî sıcak suya ilişkin cihaz ve ekipmanlarının satışı,
+projelendirilmesi, kurulumu ve uygulaması ile ısıtma enerjisi ve sıhhî sıcak su tüketimlerinin aylık veya belirli dönemlerde ölçülmesi ve ısıtma ve sıhhî
+sıcak su giderlerinin kullanıcılara paylaştırılması konularının yer alması.
+        c) Şirketin, en az 1000 bağımsız bölüm kullanıcısına ait ısı gider paylaşım cihazlarının bir aylık tüketim değerlerini en fazla 5 iş günü içinde okuyup,
+ısı gider paylaşım bilgilerini bina yöneticisi, bina sahibi veya enerji yöneticisine teslim edebilir kabiliyette olması.
+        ç) Şirketin, bina ısıtma gider paylaşımı hizmeti kapsamında bağımsız bölüm kullanıcılarına yönelik tespit edilen, ölçülen verileri en az 5 yıl süre ile
+dijital ortamda veri kaybına imkan vermeyecek şekilde saklayacak imkana sahip olması.
+        d) Şirketin, bünyesinde en az bir adedi makine mühendisi olmak üzere, üniversitelerin mühendislik fakültelerinden mezun olan en az üç adet
+teknik personel ile ölçüm ve gider paylaşım belgesi düzenleyecek kadar eğitimli bir personel bulunması.
+
+         (2) Şirket tarafından yetki belgesi müracaatı yapılmasını müteakip, Bakanlığın görevlendireceği heyet tarafından, kuruluşun faaliyet göstereceği
+ofis ve kuruluşun asgari şartları taşıyıp taşımadığı hakkında bir rapor düzenlenir. Yetki belgesi verilmesi safhasında bu rapor dikkate alınır. Rapor
+hazırlanırken, çalışanlara ait uygun çalışma ortamlarının, düzenli arşiv bölümünün ve proje bölümünün bulunup bulunmadığı göz önüne alınır.
+         (3) Şirket, yetki belgesini aldıktan sonra, ISO 9001: 2000 Kalite Yönetim Sistemi’ne sahip olduğunu gösteren belgeyi en geç 18 ay içerisinde
+alarak onaylı örneğini Bakanlığa sunar. Bu süre sonunda Bakanlığın yazılı talebine rağmen, Kalite Yönetim Sistemi ile ilgili belgenin onaylı örneğini
+Bakanlığa sunulmaması halinde, yetki belgesi iptal edilir.
+         (4) Yetkilendirilmiş ölçüm şirketleri, yetkilendirildikleri il sınırları içerisinde ticarî faaliyetlerini sürdürürler. Yetkilendirilmiş şirket bulunmayan
+illerde, herhangi bir şirket yetkilendirilinceye kadar, başka bir ilde yetkilendirilmiş şirket, aynı yetki belgesi ile şube açarak ticari faaliyetlerini
+sürdürebilir. Yetkilendirilmiş şirket bulunmayan illerde açılan şubeler ile ilgili bilgiler faaliyete başlanılan tarihten itibaren bir ay içerisinde Bakanlığa
+bildirilir.
+         (5) Yetkilendirilmiş ölçüm şirketleri; şirkete ait hisse devrinin gerçekleşmesi ve tebligat adresinde ve yukarıdaki fıkralarda belirtilen bilgi ve
+belgelerden herhangi birinde değişiklik olması halinde, durumu en geç bir ay içerisinde Bakanlığa bildirir.
+         (6) Bu maddede belirtilen belgelerin gerçeğe aykırı düzenlendiğinin anlaşılması halinde, düzenleyenler veya bu tür belgeleri kullananlar hakkında
+suç duyurusunda bulunulur ve yetki belgesi verilmiş ise iptal edilir.
+
+                                                                       BEŞİNCİ BÖLÜM
+                                                                    Çeşitli ve Son Hükümler
+                                                                           Özel durumlar
+       Isı ve sıcak su payları belirlenemeyen ve gider paylaşım belgesi düzenlenemeyen haller
+       MADDE 11 –(1) Bağımsız bölümlerin ısı veya sıhhî sıcak su payları, gider paylaşım belgesi düzenlenmesi döneminde bir ekipmanın
+arızalanması veya benzer bir sebepten dolayı doğru bir şekilde ölçüm yapamaması yüzünden belirlenemiyor ise paylar, söz konusu bağımsız
+bölümlerin daha önceki benzer gider paylaşım belgesi düzenlenen dönemlerindeki tüketimleri veya o gider paylaşım belgesi düzenlenmesi dönemindeki
+diğer benzer bağımsız bölümlerin tüketimleri esas alınarak bina yöneticisi, bina yönetim kurulu, enerji yöneticisi, bölgesel ısı dağıtım ve satış
+şirketlerince veya yetkilendirilmiş ölçüm şirketlerince belirlenir.
+       (2) Gider paylaşım belgesi düzenleme dönemi içerisinde bağımsız bölüm kullanıcısının değişmesi halinde;
+       a) Bina yöneticisi, bina yönetim kurulu, enerji yöneticisi, bölgesel ısı dağıtım ve satış şirketleri veya yetkilendirilmiş ölçüm şirketlerince değişim
+tarihinde ara okumada bulunularak, dönem sonunda iki ayrı gider paylaşım belgesi düzenlenir.
+       b) Ara okuma mümkün değilse veya bağımsız bölüm kullanıcısının değişim zamanından kaynaklanan veya teknik sebeplerden dolayı ara okuma
+yapılamamış ise, bağımsız bölümün kullanım gün sayısına göre dönem sonunda iki ayrı gider paylaşım belgesi düzenlenir.
+       Bina ile ilgili iş ve işlemlerde Yönetmeliğe uygunluk
+       MADDE 12 – (1) Yeni bina tasarımında, mevcut binaların proje değişikliği gerektiren esaslı onarım ve tadilat projelerinde, ısıtma veya sıhhi
+sıcak su sistemlerine ait mekanik tesisat değişikliklerinde binanın özelliklerine göre bu Yönetmelikte öngörülen esaslar göz önüne alınır.
+       (2) Binanın;
+       a) Merkezi ısıtma ve sıhhi sıcak su tesisat projeleri konu ile alakalı olarak diğer kanunlarda yer alan hükümlere ve bu Yönetmelikte öngörülen
+şartlara uygun değil ise, yapı ruhsatı verilmez.
+       b) Bu Yönetmelikte öngörülen esaslara uygun projesine göre, imalat yapılmadığının tespit edilmesi halinde, bu eksiklikler giderilinceye kadar
+binaya yapı kullanma izin belgesi veya çalışma ruhsatı verilmez.
+       Yönetmelikte hüküm bulunmayan ve hakkında tereddüde düşülen hususlar
+       MADDE 13 – (1) Bu Yönetmelikte hüküm bulunmayan hususlar hakkında Türk Standardları; Türk Standardının olmaması halinde, Avrupa
+Standardları esas alınır. Türk Standardlarında veya Avrupa Standardlarında düzenlenmeyen hususlar hakkında, milletlerarası geçerliliği kabul edilen
+standardlar da kullanılır.
+       (2) Bu Yönetmeliğin uygulanmasında tereddüde düşülen hususlar hakkında Bakanlıktan yazılı görüş alınarak bu görüşe göre işlem yapılır.
+       Yönetim planının ve sözleşmelerin Yönetmeliğe aykırı hükümlerinin değiştirilmesi
+       MADDE 14 – (1) Merkezi ısıtma veya sıhhi sıcak su sistemine sahip binaların yönetim planının ve bölgesel ısı dağıtım ve satış şirketlerinin
+bağımsız bölüm kullanıcıları ile yaptıkları sözleşmelerin, bu Yönetmeliğe aykırı olan hükümleri üç ay içinde bu Yönetmeliğe uygun hale getirilir.
+       Mevcut binalarda alınacak tedbirlerin yapım süresi
+       GEÇİCİ MADDE 1 –(1) Bu Yönetmelik hükümlerinin merkezî ısıtma veya sıhhî sıcak su sistemine sahip mevcut binalar, inşaatı devam edip
+henüz yapı kullanım izni almamış binalar ve proje değişikliği gerektiren esaslı onarımlar ile mekanik tesisat değişikliği gerektiren binalar için
+uygulanabilir olan maddeleri uyarınca yapılması gereken iş ve işlemler, bina sahibi veya yöneticisi, bina yönetim kurulu, enerji yöneticisi ile işletmecisi
+tarafından, 5627 sayılı Enerji Verimliliği Kanununun 7 nci maddesinin birinci fıkrasının (c) bendi ve geçici 6 ncı maddesi gereğince 2/5/2007 tarihi itibari
+ile beş yıl içinde yerine getirilir.
+       Para birimi
+       GEÇİCİ MADDE 2 –(1) 28/1/2004 tarihli ve 5083 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun hükümleri gereğince
+tedavülde bulunan paranın YTL (Yeni Türk Lirası ) olarak adlandırıldığı sürece, bu Yönetmelikte geçen TL ibareleri YTL olarak anlaşılır.
+       Yürürlük
+       MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+       Yürütme
+       MADDE 16 – (1) Bu Yönetmelik hükümlerini Bayındırlık ve İskân Bakanı yürütür.
+
+                                                             Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+                                                             Tarihi                                Sayısı
+                                                            14/4/2008                        26847 (mükerrer)
+                                                   Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+                                                                           Gazete’lerin
+                                                             Tarihi                                Sayısı
+                                      1                     31/7/2009                              27305
+                                      2
+                                                               8/7/2019                                   30825 Mükerrer
+                                      3

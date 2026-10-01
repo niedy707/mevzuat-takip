@@ -1,0 +1,49 @@
+--- y-uzaktan-calisma (eski 83297029)
++++ y-uzaktan-calisma (yeni 06e67d7f)
+@@ -1,7 +1,7 @@
+ UZAKTAN ÇALIŞMA YÖNETMELİĞİ
+ 
+-                                                                   BİRİNCİ BÖLÜM
+-                                                            Amaç, Kapsam, Dayanak ve Tanımlar
++                                                                  BİRİNCİ BÖLÜM
++                                                           Amaç, Kapsam, Dayanak ve Tanımlar
+         Amaç
+         MADDE 1 – (1) Bu Yönetmeliğin amacı, uzaktan çalışmanın yapılamayacağı işleri, verilerin korunması ve paylaşılmasına ilişkin işletme
+ kurallarının uygulanmasını ve uzaktan çalışmanın usul ve esaslarını belirlemektir.
+@@ -42,6 +42,8 @@
+         MADDE 9 –(1) Uzaktan çalışmanın yapılacağı zaman aralığı ve süresi iş sözleşmesinde belirtilir. Mevzuatta öngörülen sınırlamalara bağlı
+ kalmak koşuluyla taraflarca çalışma saatlerinde değişiklik yapılabilir. Fazla çalışma işverenin yazılı talebi üzerine, işçinin kabulü ile mevzuat hükümlerine
+ uygun olarak yapılır.
++        ( 2 ) (Ek:RG-25/9/2026-33381) İş görme ediminin bir kısmının işyerinde, bir kısmının uzaktan çalışma usulüyle yerine getirilmesi
++kararlaştırılabilir. Bu durumda işçinin işyerinde ve uzaktan çalışacağı günler ile çalışma saatleri iş sözleşmesinde belirlenir.
+         İletişim
+         MADDE 10 – (1) Uzaktan çalışmada iletişimin yöntemi ve zaman aralığı uzaktan çalışan ile işveren tarafından belirlenir.
+         Verilerin korunması
+@@ -67,14 +69,23 @@
+         c) Talep değerlendirilirken, işin ve işçinin niteliği gereği uzaktan çalışmaya uygunluğu ile işverence belirlenecek diğer kıstaslar kullanılır.
+         (3) Talebe ilişkin değerlendirme sonucunun otuz gün içinde işçiye talebin yapıldığı usulle bildirilmesi esastır.
+         (4) Talebin kabul edilmesi halinde 5 inci maddede belirtilen hususlara uygun şekilde sözleşme yapılır.
+-        (5) Uzaktan çalışmaya geçen işçi, ikinci fıkrada belirtilen usulle tekrar işyerinde çalışma talebinde bulunabilir. İşveren, söz konusu talebi öncelikli
++
++      (5) Uzaktan çalışmaya geçen işçi, ikinci fıkrada belirtilen usulle tekrar işyerinde çalışma talebinde bulunabilir. İşveren, söz konusu talebi öncelikli
+ olarak değerlendirir.
+-
+       (6) Uzaktan çalışmanın mevzuatta belirtilen zorlayıcı nedenlerle işyerinin tamamında veya bir bölümünde uygulanacak olması halinde uzaktan
+ çalışmaya geçiş için işçinin talebi veya onayı aranmaz.
+-                                                                  ÜÇÜNCÜ BÖLÜM
+-                                                                     Son Hükümler
++                                                                     ÜÇÜNCÜ BÖLÜM
++                                                                         Son Hükümler
+       Yürürlük
+       MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+       Yürütme
+       MADDE 16 – (1) Bu Yönetmelik hükümlerini Aile, Çalışma ve Sosyal Hizmetler Bakanı yürütür.
++
++                                                         Yönetmeliğin Yayımlandığı Resmî Gazete’nin
++                                                         Tarihi                                Sayısı
++                                                        10/3/2021                              31419
++                                               Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
++                                                                       Gazetelerin
++                                                         Tarihi                                Sayısı
++                            1.                          25/9/2026                              33381
++                            2.

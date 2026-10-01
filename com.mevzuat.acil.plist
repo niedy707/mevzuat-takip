@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.mevzuat.acil</string>
+
+  <!-- Cekirdek belgelerin gun ici denetimi + ACIL bildirim (acil_is.py).
+       Kullanici karari 26.09.2026: 07-22 arasi 3 saatte bir.
+       yayin.py ACIL_SAATLER ile ayni tutulur. -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/python3</string>
+    <string>__PROJE_YOLU__/acil_is.py</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>__PROJE_YOLU__</string>
+
+  <!-- StartCalendarInterval: Mac uykudaysa uyaninca kacan kosu BIR kez telafi edilir. -->
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>10</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>13</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>16</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>22</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+
+  <key>RunAtLoad</key><false/>
+
+  <key>StandardOutPath</key>
+  <string>__PROJE_YOLU__/kayit/acil.log</string>
+  <key>StandardErrorPath</key>
+  <string>__PROJE_YOLU__/kayit/acil-hata.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <!-- pdftotext ve node (vercel CLI) /opt/homebrew/bin'de. -->
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>LANG</key><string>tr_TR.UTF-8</string>
+  </dict>
+
+  <key>ProcessType</key><string>Background</string>
+  <key>LowPriorityIO</key><true/>
+</dict>
+</plist>

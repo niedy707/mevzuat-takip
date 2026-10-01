@@ -1,0 +1,130 @@
+--- y-ayakta-teshis (eski f987572a)
++++ y-ayakta-teshis (yeni 7b6789b3)
+@@ -108,9 +108,8 @@
+ içinde Müdürlüğe bildirilmesi zorunludur.
+        (7) 1219 sayılı Kanunun 28 inci maddesinde sayılan suçlar ile cinsel dokunulmazlığa karşı işlenen suçlardan hüküm giymiş gerçek kişiler, kamu
+ görevinden yasaklı gerçek kişiler ile ortaklık yapısında bu kişilerin bulunduğu tüzel kişiler adına tıp merkezi, poliklinik ve müessese açılmasına izin
+-verilmez. Bu kişiler; tıp merkezi, poliklinik ve müessesenin ruhsatını devralamaz, (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve
+-E.:2025/3055 sayılı kararı ile yürütmesi durdurulan ibare: adına tıp merkezi, poliklinik ve müessese ruhsatı bulunan tüzel kişilerin ortaklık
+-yapısında yer alamaz.)
++verilmez. Bu kişiler; tıp merkezi, poliklinik ve müessesenin ruhsatını devralamaz, adına tıp merkezi, poliklinik ve müessese ruhsatı bulunan tüzel kişilerin
++ortaklık yapısında yer alamaz.
+        (8) Sahipliğinde ruhsat iptali gerçekleşen gerçek kişiler ve özel hukuk tüzel kişileri adına, beş yıl boyunca yeni sağlık kuruluşu ruhsatı
+ düzenlenmez.
+                                                                       ÜÇÜNCÜ BÖLÜM
+@@ -143,8 +142,8 @@
+ alan sınırları içinde ise ilgili belediye, mücavir alan dışında ise valilik tarafından onaylanarak Müdürlük vasıtasıyla Bakanlığa gönderilir. Müdürlük ve
+ Bakanlıkça teslim alınan evraklar, dizi pusulasına göre kabul edilir.
+        (4) Ön izin başvurusu, bu maddede sayılan belgelerde eksiklik veya bu Yönetmeliğe uygunsuzluk bulunmaması kaydıyla, Bakanlığa intikal ettiği
+-
+ tarihten itibaren en geç otuz gün içinde sonuçlandırılarak ön izin belgesi düzenlenir veya ön izin başvuru belgelerinde tespit edilen eksiklik veya
++
+ uygunsuzluk başvuru sahibine yazılı olarak bildirilir.
+         (5) Ön izin belgeleri devredilemez ancak taşınma amaçlı düzenlenmiş ön izin belgesine sahip ruhsatlı tıp merkezi/poliklinik/müessesenin, ruhsat
+ devri yapması durumunda yeni ruhsat sahibi adına mevcut süresi korunarak ön iznin devam etmesine izin verilir.
+@@ -200,8 +199,7 @@
+         (5) Ruhsatı askıda olan sağlık kuruluşunun ruhsatı askı süresince sadece bir kez devredilebilir.
+         (6) Bu madde hükmünce devralınan sağlık kuruluşu iki yıl içinde yeniden devredilemez.
+         Birleşme, taşınma ve dönüşüm
+-        MADDE 12-(1) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4199 sayılı kararı ile yürütmesi durdurulan fıkra:Tıp
+-merkezi, poliklinik ve müessese, Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir.)
++        MADDE 12- (1) Tıp merkezi, poliklinik ve müessese, Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir.
+         (2) Birinci fıkrada yer alan sağlık kuruluşunun taşınmak istenmesi halinde, Bakanlığa başvurulur. Taşınma işlemlerinde aşağıdaki hususlara
+ uyulur:
+         a) Tıp merkezi taşınmalarında iki yıl içinde ön izin belgesi almak ve ön izin tarihinden itibaren iki yıl içinde ruhsatlandırılmak suretiyle toplam dört
+@@ -216,9 +214,9 @@
+ yalnızca bulunduğu il içinde tıp merkezi bünyesinde birleşebilir. Birleşen kuruluşların ruhsatlarında kayıtlı tabip kadroları, planlama kapsamındaki
+ cihazlar, ünite ve merkezler birleştiği kuruluşun ruhsatına işlenir. Birleşme işlemi iki yıl içinde tamamlanır. Ancak tıp merkezinde birleşerek taşınma söz
+ konusu ise birleşme işlemi ikinci fıkrada yer alan süre içinde tamamlanır. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir
+-
+ veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.
+-         (5) Aynı il içindeki iki veya daha fazla polikliniğin birleşerek tıp merkezinde aranan kadro ve bina şartlarını sağlaması halinde tıp merkezi olarak
++        (5) Aynı il içindeki iki veya daha fazla polikliniğin birleşerek tıp merkezinde aranan kadro ve bina şartlarını sağlaması halinde tıp merkezi olarak
++
+ ruhsatlandırılmalarına izin verilir. Birleşen ruhsat sayısı kadar Bakanlıkça planlama kapsamında uygun görülen uzman tabip kadroları kuruluş ruhsatına
+ eklenir.
+          (6) Planlamaya uygun olmak kaydıyla tıp merkezi, özel hastane bünyesinde birleşebilir.
+@@ -289,9 +287,9 @@
+          (2) Personel çalışmasında aşağıdaki şartlara uyulur:
+          a) Sağlık personeli, muayenehane hariç sağlık kuruluşu kadrosunda sözleşme ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+ Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı olarak EKİP üzerinden personel çalışma belgesi düzenlenerek
+-
+ çalışır. Personel çalışma belgesi gerektiğinde EKİP üzerinden ibraz ve kontrol edilir.
+-        b) Muayenehanede Bakanlık tarafından belirlenen ünvanda sağlık personeli ve ayrıca sekreter istihdam edilebilir. Tabip harici sağlık personeli,
++         b) Muayenehanede Bakanlık tarafından belirlenen ünvanda sağlık personeli ve ayrıca sekreter istihdam edilebilir. Tabip harici sağlık personeli,
++
+ muayenehanede personel çalışma belgesi düzenlenerek çalışır.
+         (3) Sağlık kuruluşunda, hasta kabul ve tedavi edilen uzmanlık dalları için Ek-5’te yer alan nitelikte ve asgari sayıda tabip ve tabip harici sağlık
+ personeli istihdam edilmek zorundadır.
+@@ -362,9 +360,9 @@
+         (2) Sağlık personeli tarafından kullanılan önlük veya üniforma, söz konusu sağlık kuruluşunda görev yapan sağlık personeli haricindeki kişiler
+ tarafından kullanılamaz.
+         (3) Bütün personelin yakasına; personelin adını, soyadını, mesleğini ve ünvanını belirten ve mesul müdürlükçe onaylanmış olan fotoğraflı bir kimlik
+-
+ kartı takması şarttır. Kimlik kartlarının Bakanlığın elektronik sistemi ile uyumlu karekod içermesi zorunludur.
+-                                                                      BEŞİNCİ BÖLÜM
++                                                                        BEŞİNCİ BÖLÜM
++
+                                                       Sağlık Kuruluşunun Çalışma Usul ve Esasları
+        Tıp merkezi
+        MADDE 18-(1) Tıp merkezi, ruhsatında yazılı olmak kaydıyla çalışma günlerinde sekiz saatten az olmamak üzere belirlenen sürede hizmet
+@@ -435,9 +433,9 @@
+        MADDE 22-(1) Yalnızca, bina kapalı alanı en az 3000 m2 olan ve 10 uzman tabip kadrosunu bünyesinde bulunduran tıp merkezi, acil ünitesi
+ kurar ve kesintisiz hizmet vermek üzere ruhsatlandırılır.
+        (2) Tıp merkezinde, nöbetçi tabip, hem gözlem altındaki hastalara yönelik hem de acil hizmeti aksatmayacak şekilde acil ünitesi tabibi olarak
+-
+ görev yapabilir. Acil ünitesindeki gözlem odasında bulunan yataklar, hasta gözlem yatağı sayısına dahil değildir.
+-        (3) Poliklinik, müessese ile birinci fıkra kapsamı dışında yer alan tıp merkezi, asgari malzeme ve ilaçların bulunduğu bir acil odasını faaliyet
++       (3) Poliklinik, müessese ile birinci fıkra kapsamı dışında yer alan tıp merkezi, asgari malzeme ve ilaçların bulunduğu bir acil odasını faaliyet
++
+ gösterdikleri süreler içinde kullanıma hazır bulundurur.
+         (4) Acil ünitesi veya odasında bulundurulması zorunlu ve diğer acil hizmetler için kullanılacak ilaçlar bir dolap içinde bulunur. Yeşil ve kırmızı
+ reçeteye tabi ilaçlar kilitli bir ortamda tutulur.
+@@ -508,9 +506,9 @@
+         (3) Raporlara ilişkin yapılacak itirazlar ile raporların şekil şartlarına ilişkin hususlar, Bakanlık tarafından belirlenir.
+         Bilgilendirme ve tanıtım
+         MADDE 26-(1) Sağlık kuruluşu tarafından yapılacak bilgilendirme ve tanıtım faaliyetleri, 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de
+-
+ yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümlerine uygun olarak yürütülür.
+-       Sağlık kuruluşunun isimleri
++        Sağlık kuruluşunun isimleri
++
+        MADDE 27-(1) Sağlık kuruluşunun tabelasına veya basılı evrakına veya internet ortamında, ruhsatında yer alan mevcut isim ve ünvanı veya
+ tescil edilmiş isimleri dışındaki diğer isim ve ünvanı ile faaliyet izin belgesinde belirtilen uzmanlık dalları haricinde başka uzmanlık dalı yazılamaz.
+        (2) Sağlık kuruluşu isimlendirilmesinde; kişilerin yanlış algılaması ve karışıklığın önlenmesi amacıyla, hangi ilde olduğuna bakılmaksızın ülke
+@@ -581,9 +579,9 @@
+ halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya
+ çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar sağlık
+ kuruluşunun ilgili biriminde veya tamamında tıbbi endikasyon ve uygulama denetim komisyonu tespiti ve Müdürlüğün teklifi ile Bakanlık kararı üzerine
+-
+ Valilik tarafından faaliyet durdurulur.
+-        (7) Bu madde kapsamında yaptırım uygulanan sağlık kuruluşuna komisyonca uygun görülen sürede kontrol denetimi yapılır.
++       (7) Bu madde kapsamında yaptırım uygulanan sağlık kuruluşuna komisyonca uygun görülen sürede kontrol denetimi yapılır.
++
+         Ruhsatın askıya alınması
+         MADDE 31-(1) Çalışan uzman tabip sayısı beşin altına düşen tıp merkezinin altı ay içinde uzman eksikliğini giderememesi halinde ruhsatı en
+ fazla iki yıl süreyle askıya alınır. Bu durumda;
+@@ -654,9 +652,9 @@
+ kurulur. Bu ünitede; Ek-14’te belirtilen asgari ilaç ve malzemeler bulunur.
+         b) Acil sağlık ünitesi, aynı il içinde faaliyet gösteren Bakanlıkça ruhsatlı planlama kapsamındaki bir özel sağlık tesisi ile iş birliği yapılarak, iş birliği
+ yapılan özel sağlık tesisinin mevcut tabip kadro ve kapasiteleri kullanılarak açılır.
+-
+-         c) Konaklama tesisleri bünyesindeki acil sağlık ünitesinde tam zamanlı çalışan asgari bir tabip ile bir sağlık personeli bulunur. Acil sağlık
++        c) Konaklama tesisleri bünyesindeki acil sağlık ünitesinde tam zamanlı çalışan asgari bir tabip ile bir sağlık personeli bulunur. Acil sağlık
+ ünitesinde sadece acil durumlarda müdahale, muayene ve sevk işlemleri yapılır, bunun haricinde acil olmayan poliklinik hizmeti verilemez. Bu ünitelerde
++
+ çalışacak personelin isimleri ve çalışma programları ilgili sağlık müdürlüğüne bildirilir. Müdürlük tarafından, bildirilen personeller için çalışma belgesi
+ düzenlenir. Çalışma belgeleri acil sağlık ünitesinde görülecek bir yere asılır.
+          ç) Acil sağlık ünitesinin tüm sorumluluğu bağlı olduğu sağlık tesisine aittir.
+@@ -727,9 +725,9 @@
+ muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.
+          Poliklinik ve müessesenin durumu
+          GEÇİCİ MADDE 5- (1) 5 inci maddenin birinci fıkrası kapsamında halihazırda bir tabip/uzman tabip kadrosu bulunan polikliniklere, Bakanlıkça
+-
+ ek olarak bir tabip kadrosu verilir.
+-       (2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış müessese ve poliklinik, 5 inci maddenin dördüncü fıkrası hükmü hariç olmak
++         (2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış müessese ve poliklinik, 5 inci maddenin dördüncü fıkrası hükmü hariç olmak
++
+ üzere mevcut haliyle faaliyetine devam eder.
+        Muayenehane şartları
+        GEÇİCİ MADDE 6-(1) Ek-15/B’de yer alan asansör şartı ve aynı dairede en fazla üç tabibin muayenehane faaliyeti gösterebileceğine ilişkin

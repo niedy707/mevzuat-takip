@@ -1,0 +1,424 @@
+ELEKTRİK PİYASASI TARİFELER YÖNETMELİĞİ
+
+                                   BİRİNCİ BÖLÜM
+                      Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+        Amaç
+        MADDE 1 – (1) Bu Yönetmeliğin amacı; elektrik piyasasında düzenlemeye tabi tarifelerin
+hazırlanması, incelenmesi, değerlendirilmesi, belirlenmesi, onaylanması, yayımlanması ve
+revizyonuna ilişkin usul ve esasların belirlenmesidir.
+        Kapsam
+        MADDE 2 – (1) Bu Yönetmelik; iletim, toptan satış, dağıtım, bağlantı, perakende satış,
+piyasa işletim ve son kaynak tedarik tarifelerine ilişkin usul ve esasları kapsar.
+        Dayanak
+        MADDE 3 – (1) Bu Yönetmelik, 20/2/2001 tarihli ve 4628 sayılı Enerji Piyasası
+Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanun ile 14/3/2013 tarihli ve 6446sayılı
+Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.
+        Tanımlar ve kısaltmalar
+        MADDE 4 – (1) Bu Yönetmelikte geçen;
+        a) Bağlantı bedeli: Tüketicilerin iç tesisatının dağıtım şebekesine bağlanması için inşa edilen
+ve 28/1/2014 tarihli ve 28896 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Bağlantı ve
+Sistem Kullanım Yönetmeliği kapsamında belirtilen mesafe sınırları dahilinde olan bağlantı hattı
+kapsamında katlanılan masraflar ile sınırlı olan bedeli,
+        b) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+        c) Dağıtım: Elektrik enerjisinin gerilim seviyesi 36 kV ve altındaki hatlar üzerinden naklini,
+        ç) Dağıtım bölgesi: Bir dağıtım şirketinin lisansında tanımlanan bölgeyi,
+        d) Dağıtım sistemi: Bir dağıtım şirketinin, lisansında belirlenmiş dağıtım bölgesinde işlettiği
+elektrik dağıtım tesisleri ve şebekesini,
+        e) Dağıtım sisteminin kullanımına ilişkin bedeller: Dağıtım hizmetinin sunulması sırasında
+oluşan maliyetlerden mevzuat kapsamında uygun görülenler dikkate alınarak hesaplanan bedelleri,
+        f) Dağıtım şebekesi: Tüketicilerin iç tesisatını dağıtım sistemine bağlamak üzere tesis edilen
+bağlantı hatları hariç dağıtım tesisini,
+        g) Dağıtım şirketi: Lisansında tanımlı bölgede elektrik dağıtımı ile iştigal eden dağıtım lisansı
+sahibi tüzel kişiyi,
+        ğ) Düzeltme bileşeni: Tarife hesaplamalarına esas öngörülen değerler ile gerçekleşen
+değerler arasında oluşan farkların güncellenmiş parasal etkilerinin tarifelere yansıtılması için
+kullanılan kalemleri,
+        h) EPİAŞ: Enerji Piyasaları İşletme Anonim Şirketini,
+        ı) EÜAŞ: Elektrik Üretim Anonim Şirketini,
+        i) Fiyat: Düzenlemeye tabi tarifeler kapsamında belirlenmiş olan bedel veya ücreti,
+        j) Gelir düzenlemesi: Tarifeleri düzenlemeye tabi tüzel kişilerin, ilgili mevzuat uyarınca bir
+tarife uygulama dönemi için öngörülen gelir ve/veya fiyat tavanlarının belirlenmesi amacıyla
+Kurum tarafından yapılan düzenlemeyi,
+        k) Gelir düzenleme takvimi: Tarife uygulama dönemi süresince geçerli olan parametrelerin
+belirlenmesine dair çalışmalara ilişkin ilgili tebliğde tanımlanan takvimi,
+        l) Görevli tedarik şirketi: Dağıtım ve perakende satış faaliyetlerinin hukuki ayrıştırması
+kapsamında kurulan veya lisansında tanımlanmış bölgede faaliyet göstermek üzere son kaynak
+tedariki yükümlüsü olarak Kurul tarafından yetkilendirilen tedarik şirketini,
+        m) İkili anlaşmalar: Gerçek ve tüzel kişiler arasında özel hukuk hükümlerine tabi olarak,
+elektrik enerjisi ve/veya kapasitenin alınıp satılmasına dair yapılan ve Kurul onayına tabi olmayan
+ticari anlaşmaları,
+        n) İletim: Elektrik enerjisinin gerilim seviyesi 36 kV üzerindeki hatlar üzerinden naklini,
+        o) İletim ek ücreti: İletim tarifesi üzerinden Kurum adına tahsil edilebilecek ücreti,
+        ö) İletim sistemi işletim bedeli: TEİAŞ bünyesindeki Milli Yük Tevzi Merkezi tarafından
+sunulan hizmet maliyetleri ve yan hizmetler gibi sistem işletimine ilişkin olarak ilgili mevzuat
+kapsamında uygun görülen maliyetler dikkate alınarak hesaplanan bedeli,
+        p) İletim sistemi kullanım bedeli: İletim hizmetinin sunulması sırasında oluşan maliyetlerden
+mevzuat kapsamında uygun görülenler dikkate alınarak hesaplanan bedeli,
+        r) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, yönetmelik, tebliğ, genelge, Kurul
+kararları ve lisansları,
+        s) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununu,
+        ş) Kullanıcı: İletim veya dağıtım sistemine bağlanan ya da bu sistemleri veya
+enterkonneksiyon hatlarını kullanan gerçek veya tüzel kişiyi,
+        t) Kullanıcı grubu: Benzer özelliklere sahip olmaları nedeniyle Kurul kararı ile tarife
+uygulamaları kapsamında bir grup olarak dikkate alınan kullanıcıları,
+        u) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+        ü) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+        v) Lisans: Tüzel kişilere piyasada faaliyet gösterebilmeleri için ilgili mevzuat uyarınca
+verilen izin belgesini,
+        y) Makul getiri: Tarifeleri düzenlemeye tabi tüzel kişilerin tarife konusu faaliyetleri
+kapsamında uygun görülen ve Kurul tarafından belirlenen getiriyi,
+        z) Parametre: Tarife hesaplamalarında ilgili mevzuat uyarınca uygulanan formüllerde yer
+alan ve tarife uygulama dönemi süresince geçerli olan değerleri,
+        aa) Perakende satış: Elektriğin tüketicilere satışını,
+
+        bb) Perakende satış fiyatı: Serbest tüketici niteliğini haiz olmayan tüketicilere enerji tedariki
+kapsamında uygulanan fiyatı,
+        cc) Piyasa: Üretim, iletim, dağıtım, piyasa işletimi, toptan satış, perakende satış, ithalat ve
+ihracat faaliyetleri ile bu faaliyetlere ilişkin iş ve işlemlerden oluşan elektrik enerjisi piyasasını,
+        çç) Piyasa işletim ücreti: Piyasa işletim faaliyetlerinin sürdürülebilmesi için gereken gelir
+ihtiyacının karşılanabilmesi kapsamında belirlenen bedeli,
+        dd) Serbest tüketici: Kurul tarafından belirlenen elektrik enerjisi miktarından daha fazla
+tüketimi bulunduğu veya iletim sistemine doğrudan bağlı olduğu veya organize sanayi bölgesi tüzel
+kişiliğini haiz olduğu için tedarikçisini seçme hakkına sahip gerçek veya tüzel kişiyi,
+        ee) Son kaynak tedariki: Serbest tüketici niteliğini haiz olduğu halde elektrik enerjisini, son
+kaynak tedarikçisi olarak yetkilendirilen tedarik lisansı sahibi şirket dışında bir tedarikçiden temin
+etmeyen tüketicilere elektrik enerjisi tedarikini,
+        ff) Son kaynak tedarik fiyatı: Son kaynak tedariki kapsamında elektrik enerjisi tedarik edilen
+tüketicilere uygulanan Kurul onaylı bedeli,
+        gg) Son kaynak tüketici grubu: Son kaynak tedariki kapsamında enerji tüketen tüketicilerin
+Kurul tarafından belirlenecek esaslara göre ayrılması sonucu ortaya çıkan tüketici gruplarını,
+        ğğ) Tarife: Elektrik enerjisinin ve/veya kapasitenin iletimi, dağıtımı ve satışı ile bunlara dair
+hizmetlere ilişkin fiyat, hüküm ve şartları içeren düzenlemeleri,
+        hh) Tarifeleri düzenlemeye tabi tüzel kişiler: EPİAŞ, EÜAŞ, TEİAŞ, dağıtım lisansı sahibi
+tüzel kişiler ile görevli tedarik şirketlerini,
+        ıı) Tarife uygulama dönemi: Kurul tarafından onaylanarak belirlenen ve ilgili tarifenin
+yürürlükte olacağı süreyi,
+        ii) Tedarikçi: Elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri ile tedarik lisansına
+sahip şirketleri,
+        jj) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+        kk) Teknik ve teknik olmayan kayıp: Dağıtım sistemine giren enerji ile dağıtım sisteminde
+tüketicilere tahakkuk ettirilen enerji miktarı arasındaki farkı oluşturan ve maliyeti etkileyen; teknik
+kayıp ve/veya kaçak kullanım gibi sebeplerden kaynaklanan ve teknik bir sebebe dayanmayan
+kaybı,
+        ll) Toptan satış: Elektrik enerjisinin ve/veya kapasitesinin tekrar satışı için satışını,
+        mm) TÜFE: Türkiye İstatistikKurumu tarafından aylık olarak ilan edilen Tüketici Fiyat
+Endeksini,
+        nn) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
+        oo) Tüketici grubu: Benzer özelliklere sahip olmaları sebebiyle Kurul kararı ile tarife
+uygulamaları kapsamında bir grup olarak dikkate alınan tüketicileri,
+        öö) Verimlilik hedefi: Tarifeleri düzenlemeye tabi tüzel kişilerin verimliliğinin arttırılmasının
+teşvik edilmesi için; yurt içi ve/veya yurt dışı benzer uygulamalar göz önüne alınarak yüzde
+cinsinden tespit edilen parametre kapsamında belirlenebilecek hedefi,
+        ifade eder.
+        (2) Bu Yönetmelikte geçmekle birlikte tanımlanmamış diğer terim ve kavramlar ilgili
+mevzuattaki anlam ve kapsama sahiptir.
+                                             İKİNCİ BÖLÜM
+                                      Düzenlemeye Tabi Tarifeler
+        Düzenlemeye tabi tarife türleri
+        MADDE 5 – (1) Düzenlemeye tabi tarife türleri şunlardır:
+        a) Bağlantı tarifesi.
+        b) İletim tarifesi.
+        c) Toptan satış tarifesi.
+        ç) Dağıtım tarifesi.
+        d) Perakende satış tarifesi.
+        e) Piyasa işletim tarifesi.
+        f) Son kaynak tedarik tarifesi.
+        Bağlantı tarifesi
+        MADDE 6 – (1) Bağlantı tarifesi; dağıtım sistemine bağlantı yapılması sebebiyle oluşan ve
+eşit taraflar arasında ayrım yapılmaması esasına dayalı olarak uygulanacak bağlantı bedeli ile
+tarifenin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+        (2) Bağlantı bedeli, şebeke yatırım maliyetlerini kapsamaz; tüketicilerin iç tesisatının dağıtım
+şebekesine bağlanması için inşa edilen ve Elektrik Piyasası Bağlantı ve Sistem Kullanım
+Yönetmeliği kapsamında belirtilen mesafe sınırları dâhilinde olan bağlantı hattı kapsamında
+katlanılan masraflar ile sınırlıdır.
+        (3) Bağlantı bedeli, elektrik piyasasında bağlantı tarifesinin düzenlenmesine ilişkin olarak
+Kurum tarafından çıkarılan tebliğ hükümleri esas alınarak hesaplanır.
+        İletim tarifesi
+        MADDE 7 – (1) İletim tarifesi; üretilen, ithal veya ihraç edilen elektrik enerjisinin iletim
+sistemi üzerinden naklinden yararlanan kullanıcılara eşit taraflar arasında ayrım gözetmeksizin
+uygulanacak iletim sistemi kullanım bedeli, iletim sistemi işletim bedeli ile tarifenin uygulanmasına
+ilişkin hüküm ve şartlardan oluşur.
+        (2) İletim tarifesi içerisinde yer alan bedeller TEİAŞ’ın faaliyetlerini yürütebilmesi için
+gerekli olan sabit ve değişken maliyetlerinin karşılanması ve yatırımların sürdürülmesi için makul
+bir getiri elde edilmesine izin verecek şekilde iletim tarifesinin düzenlenmesine yönelik olarak
+Kurum tarafından çıkarılan tebliğ hükümleri esas alınarak hesaplanır.
+        (3) İletim ek ücreti iletim tarifesinde yer alır. İletim ek ücretine esas oran, Kurul tarafından
+
+yıllık olarak tespit edilir ve yürürlük tarihi ile birlikte, her yılın 15 Ekim tarihine kadar Resmî
+Gazete’de yayımlanır. İletim ek ücreti, ödeme bildirimlerinde ayrı olarak gösterilir.
+        Toptan satış tarifesi
+        MADDE 8 – (1) Toptan satış tarifesi; dağıtım şirketlerinin teknik ve teknik olmayan
+kayıpları ile genel aydınlatma kapsamında EÜAŞ’tan temin edecekleri elektrik enerjisi ve görevli
+tedarik şirketleri tarafından tarifesi düzenlemeye tabi tüketiciler için EÜAŞ’tan tedarik edilecek
+elektrik enerjisinin toptan satış fiyatı ile tarifenin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+        (2) Toptan satış fiyatı, EÜAŞ’ın mali yükümlülükleri esas alınarak Kurul tarafından
+belirlenir.
+        (3) Dağıtım şirketlerinin teknik ve teknik olmayan kayıpları, genel aydınlatma, görevli
+tedarik şirketlerinin ise tarifesi düzenlemeye tabi tüketicilere yapacakları satışlar kapsamında
+EÜAŞ’tan tedarik edecekleri elektrik enerjisi için Kurultarafından farklı toptan satış fiyatları
+belirlenebilir.
+        (4) EÜAŞ’ın düzenlemeye tabiolmayan elektrik enerjisi tedariki kapsamındaki toptan ve
+perakende satış fiyatları Kurul onayına tabi olmayıp ilgili taraflar arasında serbestçe belirlenir.
+        Dağıtım tarifesi
+        MADDE 9 – (1) Dağıtım tarifesi; elektrik enerjisinin dağıtım sistemi üzerinden naklinden
+yararlanan kullanıcılara eşit taraflar arasında ayrım gözetmeksizin uygulanacak dağıtım sisteminin
+kullanımına ilişkin bedeller ile tarifenin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+        (2) Dağıtım sisteminin kullanımına ilişkin bedeller; ilgili dağıtım şirketi için belirlenen
+verimlilik hedefine ulaşılması ölçüsünde, dağıtım faaliyetinin yürütülmesi kapsamında gerekli olan
+yatırım harcamaları ile yatırım harcamalarına ilişkin makul bir getiri, sistem işletim maliyeti, teknik
+ve teknik olmayan kayıp maliyeti, kesme-bağlama hizmet maliyeti, sayaç okuma maliyeti, reaktif
+enerji maliyeti ve iletim tarifesi kapsamında ödenen tutarlar gibi dağıtım faaliyetinin yürütülmesi
+kapsamındaki tüm maliyet ve hizmetler dikkate alınarak belirlenir.
+        (3) Teknik ve teknik olmayan kayıplara ilişkin maliyetler, Kurulca belirlenen hedef
+oranlarını geçmemek kaydı ile dağıtım tarifelerinde yer alır ve tüketicilere yansıtılır.
+        (4) Dağıtım sisteminin kullanımına ilişkin bedellerin belirlenmesi, teknik ve teknik olmayan
+kayıplara ilişkin hedef oranlarının tespiti ve değiştirilmesi ile oluşacak maliyetin tarifelerde yer
+alması ve tüketicilere yansıtılmasına ilişkin usul ve esaslar Kurum tarafından çıkarılan tebliğ ile
+düzenlenir.
+        (5) Dağıtım sisteminin kullanımına ilişkin bedeller; bağlantı durumu, tüketim miktarı ve
+kullanım amacı gibi ölçütler esas alınarak farklı seviyelerde belirlenebilir.
+        (6) Dağıtım tarifesinin uygulanmasına ilişkin usul ve esaslar dağıtım şirketlerinin önerileri de
+değerlendirilerek Kurul tarafından belirlenir. Söz konusu usul ve esaslar tüm dağıtım bölgeleri için
+ortak belirlenebileceği gibi her bir dağıtım bölgesi için ayrı ayrı da belirlenebilir.
+        Perakende satış tarifesi
+        MADDE 10 – (1) Perakende satış tarifesi, görevli tedarik şirketleri tarafından serbest
+olmayan tüketicilere yapılan elektrik enerjisi ve/veya kapasite satışı için eşit taraflar arasında
+ayrım gözetmeksizin uygulanacak perakende satış fiyatı ile tarifenin uygulanmasına ilişkin hüküm
+ve şartlardan oluşur.
+        (2) Perakende satış fiyatı; ilgili görevli tedarik şirketi için belirlenen verimlilik hedefine
+ulaşılması ölçüsünde ve faaliyetin sürdürülebilmesi için makul bir getiri elde edilmesine izin
+verilecek şekilde; enerji tedarik maliyeti, faturalama ve tüketici hizmetleri maliyeti, perakende satış
+hizmeti maliyeti gibi perakende satış faaliyetinin yürütülmesi kapsamındaki tüm maliyet ve
+hizmetler dikkate alınarak belirlenir.
+        (3) Perakende satış tarifesi, konu ile ilgili olarak Kurum tarafından çıkarılan tebliğ
+kapsamında düzenlenir.
+        (4) Perakende satış fiyatı; tüketicilerin bağlantı durumu, tüketim miktarı ve kullanım amacı
+gibi esaslar dikkate alınarak farklı seviyelerde belirlenebilir.
+        (5) Perakende satış tarifesinin uygulanmasına ilişkin usul ve esaslar görevli tedarik
+şirketlerinin önerileri de değerlendirilerek Kurul tarafından belirlenir. Söz konusu usul ve esaslar
+tüm görevli tedarik şirketleri için ortak belirlenebileceği gibi her bir görevli tedarik şirketi için ayrı
+ayrı da belirlenebilir.
+        Piyasa işletim tarifesi
+        MADDE 11 – (1) Piyasa işletim tarifesi, piyasa işletim ücreti ile uygulamaya ilişkin hüküm
+ve şartlardan oluşur.
+        (2) Piyasa işletim ücreti, EPİAŞ’ın piyasa işletim faaliyetlerini sürdürebilmesi için gerekli
+olan sabit ve değişken maliyetlerinin karşılanması ve makul bir getiri elde edilmesine izin verecek
+şekilde mali sürdürülebilirlik esasına göre hazırlanır.
+        (3) Piyasa işletim tarifesi, konu ile ilgili olarak Kurum tarafından çıkarılan tebliğ kapsamında
+düzenlenir.
+        Son kaynak tedarik tarifesi
+        MADDE 12 – (1) Son kaynak tedarik tarifesi, görevli tedarik şirketi tarafından son kaynak
+tüketici grubuna yapılan elektrik enerjisi satışı için uygulanacak son kaynak tedarik fiyatı ile
+tarifenin uygulanmasına ilişkin hüküm ve şartlardan oluşur.
+        (2) Son kaynak tedarik fiyatı; son kaynak tedarik tarifesine tabi tüketicilerin rekabetçi
+piyasaya geçmesini teşvik edecek ve son kaynak tedarikçisinin makul bir kâr etmesine imkân
+verecek şekilde; enerji tedarik maliyeti, faturalama ve tüketici hizmetleri maliyeti, perakende satış
+hizmeti maliyeti gibi son kaynak tedariki kapsamındaki tüm maliyet ve hizmetler dikkate alınarak
+belirlenir.
+        (3) Kurul, sosyal ve ekonomik durumlar gözetilerek belirlenecek bir miktarın altında elektrik
+
+enerjisi tüketen tüketiciler için ayrı bir son kaynak tedarik fiyatı belirleyebilir; söz konusu tüketim
+miktarını piyasadaki gelişmelere paralel olarak gerekli gördüğü hallerde değiştirebilir.
+        (4) Son kaynak tedarik tarifesi, konu ile ilgili olarak Kurum tarafından çıkarılan tebliğ
+kapsamında düzenlenir.
+                                           ÜÇÜNCÜ BÖLÜM
+                                            Gelir Düzenlemesi
+        Gelir düzenleme esasları
+        MADDE 13 – (1) Gelir düzenlemesinde aşağıda belirtilen hususlar esas alınır:
+        a) Elektriğin tüketicilere güvenilir, yeterli, kaliteli, sürekli ve düşük maliyetli bir şekilde
+sunulması.
+        b) Eşit taraflar arasında ayrım gözetmeyen, teşvik esaslı bir düzenleme yapılması.
+        c) Hizmet kalitesi ile iletim ve dağıtımda arz güvenliği gözetilerek verimliliğin artırılması.
+        ç) Verimliliğe ilişkin düzenlemeler saklı kalmak kaydıyla tarifeleri düzenlemeye tabi tüzel
+kişilerin mali açıdan sürdürülebilirliklerinin sağlanması.
+        d) Yatırımlarda uzun dönemli verimliliğin sağlanması.
+        e) Piyasada rekabetin gelişiminin desteklenmesi.
+        f) Artan verimlilik ve rekabet koşullarına bağlı olarak sağlanan faydaların tüketicilere
+yansıtılmasının sağlanması.
+        g) Faaliyetler arasında çapraz sübvansiyona yer verilmemesi.
+        (2) Gelir düzenlemesinde, tüzel kişilerin piyasa faaliyetleri ile doğrudan ilişkili olmayan hiçbir
+unsura yer verilmez.
+        (3) Tarifesi düzenlemeye tabi tüzel kişilere uygulanan idari para cezaları, kullanıcılara
+ödenen hizmet kalitesi tazminatları gibi maliyet unsurları gelir düzenlemesinde yer almaz.
+        Gelir düzenlemesi için sunulması gereken bilgi ve belgeler
+        MADDE 14 – (1) Tarifeleri düzenlemeye tabi tüzel kişiler tarafından gelir düzenlemesi
+çalışmalarına esas olmak üzere, gelir düzenleme takvimi kapsamında ve ilgili mevzuattaki
+hükümlere uygun olarak hazırlanan aşağıdaki bilgi ve belgelerin tarife türü bazında ilgisine göre
+Kuruma sunulması zorunludur:
+        a) Geçmiş yıllara ait mali tablolar.
+        b) Bir sonraki tarife uygulama dönemine ilişkin gelir-gider ve maliyet tahminleri.
+        c) Geçmiş yıllara ait tüketim ve satış gerçekleşmeleri ile satışlara ilişkin tahakkuk ve tahsilat
+tutarları.
+        ç) Bir sonraki tarife uygulama dönemine ilişkin tüketim ve satış öngörüleri.
+        d) İletilen veya dağıtılan enerji miktarları.
+        e) Geçmiş yıllara ait yatırım gerçekleşmeleri.
+        f) Bir sonraki tarife uygulama dönemine ilişkin yatırım planları ve gerekçe raporları.
+        g) Hizmet kalitesine ilişkin veriler.
+        ğ) Geçmiş yıllara ilişkin gerçekleşen ve bir sonraki tarife uygulama dönemine ait ihtiyaç
+duyulan fiziksel büyüklüklere ilişkin veriler.
+        (2) Kurum gelir düzenlemesi çalışmalarına esas olmak üzere, birinci fıkrada sayılanlara
+ilave olarak ihtiyaç duyduğu her türlü bilgi ve belgeyi isteyebilir.
+        Gelir düzenlemesi kapsamındaki parametrelerin belirlenmesi
+        MADDE 15 – (1) Her bir tarife türüne ilişkin parametreler ile bu parametrelerin tespitinde
+dikkate alınacak ve alınmayacak harcamalar, gelirler ve diğer unsurlar ilgili mevzuattaki
+hükümlere uygun olarak belirlenir.
+        (2) Kurul tarafından belirlenen parametre değerleri düzenlemeye tabi tüzel kişilerin
+lisanslarına dercedilmiş sayılır.
+        Olağandışı haller
+        MADDE 16 – (1) Aşağıdaki hallerde, tarifeleri düzenlemeye tabi tüzel kişilerin talebi
+üzerine veya Kurum tarafından gerekli görülmesi halinde tarife uygulama dönemi için gelir
+düzenlemesi kapsamında belirlenmiş olan parametrelerde yaratılan etkinin tespiti için inceleme
+yapılır:
+        a) İlgili veya diğer mevzuat hükümlerinde tarifeleri açık olarak etkileyebilecek değişikliklerin
+olması.
+        b) Lisans tadillerinin tarifeleri açıkça etkileyebilecek değişikliklere yol açması.
+        c) Mücbir sebep halleri veya bu hallerin sona ermesi.
+        ç) Parametre değerlerine esas verilerde tarifeleri açıkça etkileyebilecek nitelikte önemli
+değişiklikler meydana gelmesi.
+        (2) Yapılan incelemeler sonucunda, birinci fıkrada sayılan hallerin gelir düzenlemesi
+kapsamında belirlenmiş parametreleri etkilediğinin tespit edilmesi ve Kurul tarafından uygun
+görülmesi halinde etkilenen parametrelerde gerekli değişiklik yapılır. Parametrelerde yapılan
+değişikliklerin etkisi ilgili mevzuat kapsamında içinde bulunulan tarife uygulama döneminde
+ve/veya sonraki tarife uygulama dönemlerinde tarifelere yansıtılır.
+                                         DÖRDÜNCÜ BÖLÜM
+                         Tarife Önerilerinin Hazırlanmasına İlişkin Esaslar
+        Tarife başvurusu ve onayı
+        MADDE 17 – (1) Tarifeleri düzenlemeye tabi tüzel kişiler, tarife önerilerini ilgili mevzuat
+uyarınca ve Kurum tarafından istenen formatta hazırlayarak Kuruma sunar.
+        (2) İlgili mevzuatta yer aldığı takdirde, düzeltme bileşenlerine ilişkin hesaplamalar ile bu
+hesaplamalara temel teşkil eden bilgi ve belgeler de tarife önerisi ile birlikte Kuruma sunulur.
+        (3) Tarife önerilerinin inceleme ve değerlendirilmesi ilgili mevzuatta belirtilen yürürlük
+tarihinden önce Kurum tarafından sonuçlandırılarak Kurul onayına sunulur.
+
+        (4) Kurum, tarife önerilerinin inceleme ve değerlendirilmesi sırasında ihtiyaç duyduğu her
+türlü ek bilgi ve belgeyi lisans sahibi tüzel kişilerden isteyebilir ve ilgili tüzel kişileri doğrudan
+görüşmeye çağırabilir.
+        (5) İlgili mevzuata uygun olarak yapılmadığı tespit edilen tarife başvuruları, eksiklikler
+giderilene kadar işleme konulmaz ve başvuru sahibine yazılı olarak bildirimde bulunularak
+eksikliklerin giderilmesi amacıyla süre verilir. Tüzel kişinin başvurusunu zamanında yapmaması
+ve/veya eksiklikleri öngörülen sürede gidermemesi halinde tarifeler Kurul tarafından resen
+belirlenebilir. Ayrıca, ilgili tüzel kişi hakkında Kanunun 16 ncı maddesi hükümleri uygulanır.
+        (6) Mücbir sebeplerin gerçekleşmesi halinde, mücbir sebeplerin tarife önerisinin
+sunulmasına ilişkin yükümlülüklerin yerine getirilmesine olan etkileri giderilene kadar Kurul
+tarafından resen revizyon yapılmaması halinde yürürlükte olan tarifelerin uygulanmasına yeni
+tarifeler onaylanıncaya kadar devam edilir.
+        (7) Tarifeleri düzenlemeye tabi tüzel kişiler, Kurul tarafından onaylanan güncel ve geçmiş
+tarifelerini internet sayfalarında sürekli şekilde yayımlamakla yükümlüdür.
+        (8) Onaylanan tarifelerin hüküm ve şartları, bu tarifelere tabi olan tüm gerçek ve tüzel
+kişileri bağlar.
+        Gelir düzenlemesi ve ilgili mevzuata uygunluk
+        MADDE 18 – (1) Tarife önerisinde yer alan fiyatların, gelir düzenlemesine ilişkin
+parametrelerin ve ilgili mevzuat hükümleri uyarınca öngörülen gelirlerin dikkate alınması suretiyle
+hesaplanmış olması zorunludur.
+        Tarife önerisi fiyat yapısı
+        MADDE 19 – (1) Tarife önerisine esas fiyat yapısı sabit ve/veya değişken bileşenlerden
+oluşabilir.
+        (2) Fiyat yapısı içerisinde değişken olarak enerji (aktif-reaktif), kilovat (kW) cinsinden güç
+veya bağlantı kapasitesi gibi bileşenler yer alabilir.
+        (3) Tarife önerisine esas fiyatlar;
+        a) Bölgesel özellikler,
+        b) Gerilim ve güç seviyeleri,
+        c) Gün içi ve yıl içi dönemler,
+        ç) Farklı kullanıcı grupları,
+        dikkate alınarak düzenlenebilir.
+        (4) Kurul tarafından üçüncü fıkrada sayılanlara ilave olarak farklı bileşenler de belirlenebilir.
+        (5) Tarife önerisinde dikkate alınabilecek kullanıcı grupları Kurulca resen veya tarifeleri
+düzenlemeye tabi tüzel kişilerin önerileri değerlendirilerek belirlenebilir. Kullanıcı grupları alt
+gruplara ayrılabilir. Ancak aynı gruba dâhil edilen kullanıcıların benzer maliyet yapılarına ve/veya
+benzer tüketim veya talep eğilimlerine sahip olmaları zorunludur.
+        İletim ve dağıtım tarife önerilerinin hazırlanması
+        MADDE 20 – (1) İletim ve dağıtım faaliyetlerine ilişkin tarife önerilerinin, tarife başvurusu
+sırasında sunulan ve aşağıdaki işlemler dâhilinde yapılmış bir maliyet analizi ile oluşturulması
+esastır:
+        a) Tarife önerisi kapsamında farklı fiyat uygulamasına tabi tutulması öngörülen yeni
+kullanıcı grubu olması halinde söz konusu kullanıcı grubunun belirlenmesinde dikkate alınan
+esasların tanımlanmış olması.
+        b) Şebekenin kullanımına ve genişletilmesine ilişkin maliyet unsurlarının belirlenmiş olması.
+        c) Her bir kullanıcı grubu ile her bir maliyet unsuru için, iletimi ve/veya dağıtımı yapılan ve
+yapılması planlanan elektrik enerjisi miktarı ve sunulan hizmetin standardının mevcut ve
+gelecekteki maliyetlere etkisinin incelenmiş olması.
+        ç) Mevcut ve gelecekteki maliyetlerin kullanıcı grupları bazında dağıtılmak suretiyle
+fiyatlara dönüştürülmüş olması.
+        Perakende satış tarife önerilerinin hazırlanması
+        MADDE 21 – (1) Perakende satış faaliyetine ilişkin tarife önerilerinin, tarife başvurusu
+sırasında sunulan ve aşağıdaki işlemler dâhilinde yapılmış bir maliyet analizi ile oluşturulması
+esastır:
+        a) Tarife önerisi kapsamında farklı fiyat uygulamasına tabi tutulması öngörülen yeni tüketici
+grubu olması halinde söz konusu tüketici grubunun belirlenmesinde dikkate alınan esasların
+tanımlanmış olması.
+        b) Her bir tüketici grubu ve her bir maliyet unsuru için, satışı yapılan ve yapılması planlanan
+elektrik enerjisi ve/veya kapasite miktarı ile sunulan hizmet standardının mevcut ve gelecekteki
+maliyetlere etkisinin incelenmiş olması.
+        c) Mevcut ve gelecekteki maliyetlerin tüketici grupları bazında dağıtılmak suretiyle fiyatlara
+dönüştürülmüş olması.
+        Son kaynak tedarik tarife önerilerinin hazırlanması
+        MADDE 22 – (1) Son kaynak tedarik faaliyetine ilişkin tarife önerilerinin, tarife başvurusu
+sırasında sunulan ve aşağıdaki işlemler dâhilinde yapılmış bir maliyet analizi ile oluşturulması
+esastır:
+        a) Her bir tüketici grubu ve her bir maliyet unsuru için, satışı yapılan ve yapılması planlanan
+elektrik enerjisi ve/veya kapasite miktarı ile sunulan hizmet standardının mevcut ve gelecekteki
+maliyetlere etkisinin incelenmiş olması.
+        b) Mevcut ve gelecekteki maliyetlerin son kaynak tüketici grupları bazında dağıtılmak
+suretiyle fiyatlara dönüştürülmüş olması.
+        Toptan satış tarife önerilerinin hazırlanması
+        MADDE 23 – (1) Dağıtım şirketlerinin teknik ve teknik olmayan kayıpları ile genel
+
+aydınlatma kapsamında temin edeceği elektrik enerjisi ve görevli tedarik şirketleri tarafından
+tarifesi düzenlemeye tabi tüketicilere yapılacak elektrik enerjisi satışı için EÜAŞ’tan tedarik
+edilecek elektrik enerjisinin toptan satış tarife önerisinin EÜAŞ’ın mali yükümlülüklerini yerine
+getirebilme kapasitesi dikkate alınarak oluşturulması esastır.
+                                           BEŞİNCİ BÖLÜM
+                                            Ortak Hükümler
+         Enflasyon oranı
+         MADDE 24 – (1) Tarife hesaplamalarında enflasyon oranı olarak TÜFE esas alınır.
+Bununla sınırlı olmamak üzere Kurul tarafından uygun bulunan farklı güncelleme endeksleri de
+kullanılabilir.
+         Vergi, fon, pay ve benzeri yasal yükümlülükler
+         MADDE 25 – (1) İlgili tüzel kişiler, tahsilatına aracı oldukları tüm vergi, fon, pay ve
+benzeri yasal yükümlülükleri ödeme bildirimlerinde ayrı ayrı olacak şekilde gösterirler.
+         Düzenlemeye tabi tarifelerin uygulanması
+         MADDE 26 – (1) Düzenlemeye tabi tarifelerin uygulanmasına ilişkin usul ve esaslar ilgili
+mevzuat hükümleri çerçevesinde belirlenir.
+         (2) İletim ve dağıtım tarifelerinde yer alan fiyatlar, doğrudan kullanıcıya veya kullanıcıya
+yansıtılmak üzere ilgili kullanıcıya enerji tedarik eden lisans sahibi tüzel kişilere fatura edilir.
+         (3) Kurul tarafından onaylanmış bir tarifenin fiyat yapısına hiçbir surette müdahale
+edilemez.
+         İlk lisans başvurusunda tarife önerilerinin sunulması
+         MADDE 27 – (1) Tarife yoluyla düzenlemeye tabi bir faaliyette bulunmak üzere ilk defa
+lisans başvurusunda bulunacak tüzel kişilerin, lisans başvuruları kapsamındaki tarife önerileri için
+hangi bilgi ve belgelerin isteneceği hususunda bilgi edinmek üzere, lisans başvurusunda
+bulunacakları tarihten en az otuz gün önce Kuruma başvuruda bulunmuş olmaları zorunludur.
+         Lisansların sona ermesi veya iptali halinde düzeltme bileşenleri toplam tutarı
+         MADDE 28 – (1) Lisansların sona ermesi veya iptali durumunda ilgili mevzuattaki
+hükümler uyarınca hesaplanan ve tanımlanan düzeltme bileşenleri için yapılacak uygulamalara
+ilişkin gerekli düzenlemeler Kurulca yapılır.
+                                           ALTINCI BÖLÜM
+                                        Çeşitli ve Son Hükümler
+         Portföy değişiklikleri kapsamındaki fiyatlar
+         MADDE 29 – (1) Perakende satış fiyatı oluşumunda dikkate alınan düzenlemeye tabi
+tüketici tüketimlerinin düşmesine bağlı olarak görevli tedarik şirketlerinin perakende satış gelir
+tavanının karşılanmasını sağlamak ve serbest tüketici hakkını kullanan ve kullanamayan
+tüketicilerin aralarında perakende satış gelir tavanı ve fiyat farkı kaynaklı piyasa bozukluklarının
+oluşmasını engellemek amacıyla Kurulca uygun görülmesi halinde, perakende satış gelir tavanının
+Kurul tarafından belirlenecek oranına tekabül eden tutar, EPİAŞ tarafındanpiyasa işletim ücreti
+ile birlikte serbest tüketicilere yansıtılmak üzere tedarikçilere yansıtılabilir. Serbest tüketici hakkını
+kullanan tüketicilerden bu kapsamda elde edilen gelirler ilgili görevli tedarik şirketine aktarılır.
+         (2) Serbest tüketici hakkını kullanan tüketicilere piyasa işletim ücreti yanında yansıtılacak
+tutar, görevli tedarik şirketlerinin son kaynak tedariki yükümlüsü olmaları nedeniyle perakende
+satış faaliyetlerini emreamade olarak yürütebilmeleri için gerekli olan maliyetler çerçevesinde
+Kurul tarafından belirlenir.
+         (3) Görevli tedarik şirketlerinin emreamade durumlarının sürdürülmesi için gerekli olan
+maliyetler dikkate alınarak belirlenecek fiyatın hesaplanması ve uygulanmasına ilişkin usul ve
+esaslar görevli tedarik şirketlerinin önerileri de değerlendirilerek Kurul tarafından belirlenir. Söz
+konusu usul ve esaslar tüm görevli tedarik şirketleri için ortak belirlenebileceği gibi her bir görevli
+tedarik şirketi için ayrı ayrı da belirlenebilir.
+         Yürürlükten kaldırılan yönetmelik ve atıflar
+         MADDE 30 – (1) 22/8/2015 tarihli ve 29453 sayılı Resmî Gazete’de yayımlanan Elektrik
+Piyasası Tarifeler Yönetmeliği yürürlükten kaldırılmıştır.
+         (2) Birinci fıkra ile yürürlükten kaldırılan mülga Elektrik Piyasası Tarifeler Yönetmeliğine
+yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+         Yürürlük
+         MADDE 31 – (1) Bu Yönetmelik 1/1/2021 tarihinde yürürlüğe girer.
+         Yürütme
+         MADDE 32 – (1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu
+Başkanı yürütür.

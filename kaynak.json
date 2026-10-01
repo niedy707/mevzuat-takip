@@ -1,0 +1,1270 @@
+{
+  "_aciklama": "TEK KAYNAK — izlenen mevzuat listesi. ELLE düzenlenir. Yeni kayıt eklemeden önce `python3 mevzuat.py ara \"<ifade>\" <tur>` ile numara/tertibi DOĞRULA, tahmin etme.",
+  "_kaynak_politikasi": "Hukuk metninin tek kaynağı mevzuat.gov.tr'dir. Arama sonucu özeti, blog, hukuk sitesi ya da modelin hafızası madde alıntısına dayanak olamaz.",
+  "_tur_no": {
+    "Kanun": 1,
+    "KHK": 4,
+    "KurumVeKurulusYonetmeligi": 7,
+    "BakanlarKuruluYonetmeligi": 21,
+    "Teblig": 9
+  },
+  "_url_kalibi": {
+    "statik": "https://www.mevzuat.gov.tr/MevzuatMetin/{tur_no}.{tertip}.{no}.pdf  (Kanun/KHK — byte-kararlı)",
+    "yonetmelik_statik": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/{tur_no}.{tertip}.{no}.pdf",
+    "uretilen": "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo={no}&mevzuatTur={tur}&mevzuatTertip={tertip}  (anlık üretilir — PDF byte'ı kararsız, METİN hash'i kullanılır)",
+    "sayfa": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo={no}&MevzuatTur={tur_no}&MevzuatTertip={tertip}"
+  },
+  "_sinif": {
+    "cekirdek": "Bir hesaba veya bir belgenin lafzına doğrudan girer. Değişikliği MUTLAKA incelenir.",
+    "destek": "Bir belgede atıf var ya da olası bir itirazda gerekir.",
+    "yan": "İhtimale bağlı. Denetlenir ama değişikliği dosyayı doğrudan etkilemeyebilir."
+  },
+  "_alanlar": {
+    "kritik_madde": "Bu maddelerdeki DEĞİŞİKLİK 'kritik' şiddetle işaretlenir ve bildirim üretir.",
+    "anahtar": "İlk sayfada geçmesi beklenen ifade — yanlış belge indirme koruması. Yoksa doğrulama atlanır.",
+    "url_adaylari": "Sırayla denenecek PDF adresleri. Türden türetilenlerden ÖNCE denenir.",
+    "kesfet": "Doğrudan PDF yoksa: mevzuat sayfasının HTML'inden GeneratePdf bağlantısı ayıklanır.",
+    "iframe": "Son çare: fihrist iframe'i belgenin tam metnini sunucu tarafında render eder, HTML'den düz metin çıkarılır.",
+    "dayanak": "Ö-6: bu yönetmelik hangi kanuna dayanıyor. Dayanağı değişince yönetmelik 'yakında değişebilir' diye işaretlenir ve bir sonraki denetimde öncelikli izlenir."
+  },
+  "_kapsam_disi": {
+    "_aciklama": "Bilerek izlenmeyenler. Listenin unutulmuş değil, akıl yürütülmüş olduğunu gösterir.",
+    "854 Deniz İş Kanunu": "İşyeri gemi değil.",
+    "5953 Basın İş Kanunu": "Çalışan gazeteci değil.",
+    "657 Devlet Memurları Kanunu": "İşçi memur değil; işverenin hastanedeki sıfatı da 4/a'dır, memur değildir.",
+    "4054 Rekabetin Korunması": "Rekabet yasağı TBK m.444-447'den doğar, rekabet hukukundan değil.",
+    "6102 Türk Ticaret Kanunu": "İşveren Ltd. Şti. ama uyuşmazlık iş hukukudur; şirketler hukuku boyutu yoktur.",
+    "Asgari Ücret Tespit Komisyonu Kararı": "mevzuat.gov.tr'de değil, RG'de yayımlanır. Kıdem tavanı da Hazine ve Maliye Bakanlığı genelgesiyle duyurulur — bu iki sayı notlar/TAKVIM.md'nin GİRDİLER bloğundan gelir.",
+    "5326 Kabahatler Kanunu": "Gürültü/çevreyi kirletme idari para cezaları buradan; ancak metin çok geniş ve site yönetimini yalnız m.36-42 ilgilendiriyor. Gerekirse eklenir.",
+    "6306 Kentsel Dönüşüm Kanunu": "Site için gündemde bir dönüşüm süreci yok. Gündeme gelirse çekirdek sınıfla eklenmelidir.",
+    "EPDK Kurul Kararları (tarife tabloları, 4.000 kWh eşiği, serbest tüketici limiti)": "mevzuat.gov.tr'de DEĞİL, yalnız Resmî Gazete'de yayımlanır — bu yüzden madde envanteri motoruyla izlenemez. rg.py'ye ENERJI süzgeci eklendi (20.09.2026): eşik ve tarife kararları yayım günü yakalanır. İlgili kararlar: KK 13912 (RG 31.10.2025-33063, 2026 için 4.000 kWh/yıl), KK 14039 (RG 23.12.2025-33116, 2026 serbest tüketici limiti 500 kWh), KK 14461 (RG 04.04.2026-33214, 04.04.2026'dan geçerli tarife tabloları).",
+    "İSKİ Genel Kurulu tarife kararı / İSKİ Abone Hizmetleri Tarife ve Uygulama Yönetmeliği": "Belediye mevzuatıdır, mevzuat.gov.tr'de yayımlanmaz. Kademe sınırları (15/30 m³) ve İnsani Su Hakkı oranı buradan gelir; iski.istanbul üzerinden elle kontrol edilir."
+  },
+  "mevzuat": [
+    {
+      "slug": "4857-is-kanunu",
+      "ad": "İş Kanunu",
+      "no": "4857",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "24",
+        "25",
+        "27",
+        "32",
+        "41",
+        "46",
+        "53",
+        "54",
+        "56",
+        "57",
+        "59",
+        "63",
+        "68",
+        "120",
+        "Ek 3"
+      ]
+    },
+    {
+      "slug": "1475-eski-is-kanunu",
+      "ad": "İş Kanunu (mülga — yalnız m.14 yürürlükte)",
+      "no": "1475",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "14"
+      ]
+    },
+    {
+      "slug": "6098-turk-borclar-kanunu",
+      "ad": "Türk Borçlar Kanunu",
+      "no": "6098",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "393",
+        "394",
+        "396",
+        "399",
+        "400",
+        "407",
+        "417",
+        "420",
+        "425",
+        "432",
+        "434",
+        "435",
+        "437",
+        "438",
+        "440",
+        "444",
+        "445",
+        "446",
+        "447"
+      ]
+    },
+    {
+      "slug": "5510-sosyal-sigortalar",
+      "ad": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "no": "5510",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "4",
+        "8",
+        "9",
+        "80",
+        "82",
+        "88",
+        "102"
+      ]
+    },
+    {
+      "slug": "4447-issizlik-sigortasi",
+      "ad": "İşsizlik Sigortası Kanunu",
+      "no": "4447",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "46",
+        "47",
+        "48",
+        "50",
+        "51",
+        "52"
+      ]
+    },
+    {
+      "slug": "7036-is-mahkemeleri",
+      "ad": "İş Mahkemeleri Kanunu",
+      "no": "7036",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "15"
+      ]
+    },
+    {
+      "slug": "193-gelir-vergisi",
+      "ad": "Gelir Vergisi Kanunu",
+      "no": "193",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "4",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "23",
+        "25",
+        "32",
+        "61",
+        "63",
+        "94",
+        "103"
+      ]
+    },
+    {
+      "slug": "6325-arabuluculuk",
+      "ad": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu",
+      "no": "6325",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "1",
+        "15",
+        "17",
+        "18"
+      ]
+    },
+    {
+      "slug": "6698-kvkk",
+      "ad": "Kişisel Verilerin Korunması Kanunu",
+      "no": "6698",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "slug": "6331-is-sagligi-guvenligi",
+      "ad": "İş Sağlığı ve Güvenliği Kanunu",
+      "no": "6331",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "4",
+        "5",
+        "6",
+        "10",
+        "11",
+        "15",
+        "16",
+        "17",
+        "19",
+        "26",
+        "38"
+      ]
+    },
+    {
+      "slug": "488-damga-vergisi",
+      "ad": "Damga Vergisi Kanunu",
+      "no": "488",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "1",
+        "3",
+        "4",
+        "24"
+      ]
+    },
+    {
+      "slug": "6356-sendikalar-tis",
+      "ad": "Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "no": "6356",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "25",
+        "79"
+      ]
+    },
+    {
+      "slug": "6100-hmk",
+      "ad": "Hukuk Muhakemeleri Kanunu",
+      "no": "6100",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "189",
+        "190",
+        "191",
+        "199",
+        "200",
+        "201",
+        "202",
+        "222"
+      ]
+    },
+    {
+      "slug": "4721-turk-medeni-kanunu",
+      "ad": "Türk Medeni Kanunu",
+      "no": "4721",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "2",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "slug": "4632-bes",
+      "ad": "Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu",
+      "no": "4632",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "6"
+      ]
+    },
+    {
+      "slug": "1219-tababet",
+      "ad": "Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun",
+      "no": "1219",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "3",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "12"
+      ]
+    },
+    {
+      "slug": "y-yillik-ucretli-izin",
+      "ad": "Yıllık Ücretli İzin Yönetmeliği",
+      "no": "5451",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "9",
+        "10",
+        "11",
+        "15",
+        "20"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-calisma-sureleri",
+      "ad": "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+      "no": "5447",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-fazla-calisma",
+      "ad": "İş Kanununa İlişkin Fazla Çalışma ve Fazla Sürelerle Çalışma Yönetmeliği",
+      "no": "6249",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-uzaktan-calisma",
+      "ad": "Uzaktan Çalışma Yönetmeliği",
+      "no": "38393",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-analik-kismi-sureli",
+      "ad": "Analık İzni veya Ücretsiz İzin Sonrası Yapılacak Kısmi Süreli Çalışmalar Hakkında Yönetmelik",
+      "no": "23024",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-haftalik-bolunemeyen",
+      "ad": "Haftalık İş Günlerine Bölünemeyen Çalışma Süreleri Yönetmeliği",
+      "no": "6251",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "3",
+        "4",
+        "5"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-postalar-halinde",
+      "ad": "Postalar Halinde İşçi Çalıştırılarak Yürütülen İşlerde Çalışmalara İlişkin Özel Usul ve Esaslar Hakkında Yönetmelik",
+      "no": "6252",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "4",
+        "5",
+        "7"
+      ],
+      "dayanak": [
+        "4857-is-kanunu"
+      ]
+    },
+    {
+      "slug": "y-kisa-calisma",
+      "ad": "Kısa Çalışma ve Kısa Çalışma Ödeneğine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+      "no": "40836",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "dayanak": [
+        "4447-issizlik-sigortasi"
+      ]
+    },
+    {
+      "slug": "y-isg-hizmetleri",
+      "ad": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
+      "no": "16924",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "12"
+      ],
+      "dayanak": [
+        "6331-is-sagligi-guvenligi"
+      ]
+    },
+    {
+      "slug": "y-isg-risk-degerlendirmesi",
+      "ad": "İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği",
+      "no": "16925",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "12"
+      ],
+      "dayanak": [
+        "6331-is-sagligi-guvenligi"
+      ]
+    },
+    {
+      "slug": "y-acil-durumlar",
+      "ad": "İşyerlerinde Acil Durumlar Hakkında Yönetmelik",
+      "no": "18493",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "8",
+        "9",
+        "11",
+        "12",
+        "13"
+      ],
+      "dayanak": [
+        "6331-is-sagligi-guvenligi"
+      ]
+    },
+    {
+      "slug": "y-isg-egitim",
+      "ad": "Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik",
+      "no": "45087",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "11",
+        "12"
+      ],
+      "dayanak": [
+        "6331-is-sagligi-guvenligi"
+      ]
+    },
+    {
+      "slug": "y-sosyal-sigorta-islemleri",
+      "ad": "Sosyal Sigorta İşlemleri Yönetmeliği",
+      "no": "13973",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "25",
+        "97",
+        "102",
+        "105"
+      ],
+      "dayanak": [
+        "5510-sosyal-sigortalar"
+      ]
+    },
+    {
+      "slug": "y-arabuluculuk",
+      "ad": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği",
+      "no": "24638",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "dayanak": [
+        "6325-arabuluculuk"
+      ]
+    },
+    {
+      "slug": "y-kisisel-saglik-verileri",
+      "ad": "Kişisel Sağlık Verileri Hakkında Yönetmelik",
+      "no": "32610",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "dayanak": [
+        "6698-kvkk"
+      ]
+    },
+    {
+      "slug": "y-ozel-hastaneler",
+      "ad": "Özel Hastaneler Yönetmeliği",
+      "no": "41265",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "10",
+        "11",
+        "12",
+        "23",
+        "24",
+        "28"
+      ],
+      "dayanak": [
+        "1219-tababet"
+      ]
+    },
+    {
+      "slug": "y-ayakta-teshis",
+      "ad": "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+      "no": "42369",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "2",
+        "7",
+        "12",
+        "16",
+        "17",
+        "38"
+      ],
+      "dayanak": [
+        "1219-tababet"
+      ]
+    },
+    {
+      "slug": "2429-ulusal-bayram-genel-tatiller",
+      "ad": "Ulusal Bayram ve Genel Tatiller Hakkında Kanun",
+      "no": "2429",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "is-hukuku"
+      ],
+      "kritik_madde": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "slug": "634-kat-mulkiyeti",
+      "ad": "Kat Mülkiyeti Kanunu",
+      "no": "634",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "18",
+        "19",
+        "20",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "Ek 3"
+      ],
+      "anahtar": "KAT MÜLKİYETİ"
+    },
+    {
+      "slug": "3194-imar",
+      "ad": "İmar Kanunu",
+      "no": "3194",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "21",
+        "22",
+        "28",
+        "30",
+        "31",
+        "32",
+        "39",
+        "40",
+        "42"
+      ],
+      "anahtar": "İMAR KANUNU"
+    },
+    {
+      "slug": "6502-tuketici",
+      "ad": "Tüketicinin Korunması Hakkında Kanun",
+      "no": "6502",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "66",
+        "68",
+        "70",
+        "73"
+      ],
+      "anahtar": "TÜKETİCİNİN KORUNMASI"
+    },
+    {
+      "slug": "587-dask-khk",
+      "ad": "Zorunlu Deprem Sigortasına Dair KHK (DASK)",
+      "no": "587",
+      "tur": "KHK",
+      "tur_no": 4,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "2",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "anahtar": "DEPREM SİGORTASI"
+    },
+    {
+      "slug": "y-yapi-denetimi",
+      "ad": "Yapı Denetimi Uygulama Yönetmeliği",
+      "no": "11951",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "9",
+        "16",
+        "17"
+      ],
+      "anahtar": "YAPI DENETİMİ",
+      "dogrulama": "19.09.2026: numara 12452→11951 olarak DÜZELTİLDİ (resmî arama API'si ile doğrulandı).",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-merkezi-isitma",
+      "ad": "Merkezi Isıtma ve Sıhhi Sıcak Su Giderlerinin Paylaştırılması Yönetmeliği",
+      "no": "12084",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "anahtar": "ISITMA",
+      "dogrulama": "GeneratePdf → 27.040 krk (19.09.2026)",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-yangin",
+      "ad": "Binaların Yangından Korunması Hakkında Yönetmelik",
+      "no": "200712937",
+      "tur": "BakanlarKuruluYonetmeligi",
+      "tur_no": 21,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "24",
+        "25",
+        "26",
+        "30",
+        "31",
+        "34",
+        "36",
+        "38",
+        "39",
+        "40",
+        "62",
+        "63",
+        "64",
+        "65",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "96",
+        "97",
+        "98"
+      ],
+      "anahtar": "YANGINDAN KORUNMASI",
+      "kesfet": true,
+      "iframe": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=21&MevzuatNo=200712937&MevzuatTertip=5",
+      "dogrulama": "19.09.2026: GeneratePdf HTTP 600 veriyor, ama statik yol MevzuatMetin/21.5.200712937.pdf ÇALIŞIYOR (105 s. · 178 madde · 340k krk). iframe yedek olarak duruyor, kullanılmıyor.",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-siginak",
+      "ad": "Sığınak Yönetmeliği",
+      "no": "4883",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "14",
+        "15",
+        "16"
+      ],
+      "anahtar": "SIĞINAK",
+      "url_adaylari": [
+        "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.4883.pdf",
+        "https://www.mevzuat.gov.tr/MevzuatMetin/7.5.4883.pdf"
+      ],
+      "dogrulama": "statik yonetmelik/7.5.4883.pdf → 32.349 krk (19.09.2026)",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-asansor-bakim",
+      "ad": "Asansör İşletme, Bakım ve Periyodik Kontrol Yönetmeliği",
+      "no": "31394",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "anahtar": "ASANSÖR",
+      "iframe": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31394&MevzuatTertip=5",
+      "dogrulama": "GeneratePdf → 41.035 krk (19.09.2026)",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-enerji-performansi",
+      "ad": "Binalarda Enerji Performansı Yönetmeliği (BEP-TR)",
+      "no": "13594",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "13",
+        "14",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "anahtar": "ENERJİ PERFORMANSI",
+      "iframe": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13594&MevzuatTertip=5",
+      "dogrulama": "GeneratePdf → 77.727 krk (19.09.2026)",
+      "dayanak": [
+        "3194-imar"
+      ]
+    },
+    {
+      "slug": "y-gurultu",
+      "ad": "Çevresel Gürültü Kontrol Yönetmeliği",
+      "no": "39864",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "5",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "33",
+        "34"
+      ],
+      "anahtar": "GÜRÜLTÜ",
+      "iframe": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39864&MevzuatTertip=5",
+      "dogrulama": "GeneratePdf → 28.912 krk (19.09.2026)"
+    },
+    {
+      "slug": "24339-sktt-tebligi",
+      "ad": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ",
+      "no": "24339",
+      "tur": "Teblig",
+      "tur_no": 9,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "anahtar": "SON KAYNAK TEDARİK"
+    },
+    {
+      "slug": "y-elektrik-tuketici-hizmetleri",
+      "ad": "Elektrik Piyasası Tüketici Hizmetleri Yönetmeliği",
+      "no": "24630",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "cekirdek",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "13",
+        "14",
+        "15",
+        "20",
+        "41"
+      ],
+      "anahtar": "TÜKETİCİ HİZMETLERİ"
+    },
+    {
+      "slug": "6446-elektrik-piyasasi",
+      "ad": "Elektrik Piyasası Kanunu",
+      "no": "6446",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "3",
+        "10",
+        "17"
+      ],
+      "anahtar": "ELEKTRİK PİYASASI"
+    },
+    {
+      "slug": "y-elektrik-tarifeler",
+      "ad": "Elektrik Piyasası Tarifeler Yönetmeliği",
+      "no": "36105",
+      "tur": "KurumVeKurulusYonetmeligi",
+      "tur_no": 7,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "5"
+      ],
+      "anahtar": "TARİFELER YÖNETMELİĞİ"
+    },
+    {
+      "slug": "2464-belediye-gelirleri",
+      "ad": "Belediye Gelirleri Kanunu",
+      "no": "2464",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "mükerrer 44"
+      ],
+      "anahtar": "BELEDİYE GELİRLERİ"
+    },
+    {
+      "slug": "2560-iski-kanunu",
+      "ad": "İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun",
+      "no": "2560",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "yan",
+      "grup": [
+        "fatura"
+      ],
+      "kritik_madde": [
+        "13",
+        "23"
+      ],
+      "anahtar": "SU VE KANALİZASYON"
+    },
+    {
+      "slug": "3071-dilekce-hakki",
+      "ad": "Dilekçe Hakkının Kullanılmasına Dair Kanun",
+      "no": "3071",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "anahtar": "DİLEKÇE HAKKI"
+    },
+    {
+      "slug": "4982-bilgi-edinme",
+      "ad": "Bilgi Edinme Hakkı Kanunu",
+      "no": "4982",
+      "tur": "Kanun",
+      "tur_no": 1,
+      "tertip": "5",
+      "sinif": "destek",
+      "grup": [
+        "5levent"
+      ],
+      "kritik_madde": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "11",
+        "12",
+        "13",
+        "26",
+        "27"
+      ],
+      "anahtar": "BİLGİ EDİNME"
+    }
+  ],
+  "_dogrulama_notu": "19.09.2026: 11 yeni kaydın adres çözümlemesi tek tek ÖLÇÜLDÜ. Üç kayıt 'doğrudan PDF'i yok' diye işaretliydi ama GeneratePdf ile geldiler; y-yapi-denetimi'nin numarası yanlıştı (12452→11951); yalnız y-yangin gerçekten PDF vermiyor, fihrist iframe'i ile çekiliyor. AYRICA: sunucu yığın isteği kısıtlar ve kısıtlarken HTTP 200 ile HTML hata sayfası döndürür — bu yüzden '%PDF-' sihirli baytı kontrolü ve geri çekilmeli yeniden deneme ZORUNLUDUR.",
+  "_notlar_dosyasi": "Kişisel `neden` alanları ve taranacak proje kökleri `kaynak-notlar.json` dosyasındadır (git dışı). Bu depo public olduğu için ayrıldı; araç o dosya olmadan da tam çalışır."
+}

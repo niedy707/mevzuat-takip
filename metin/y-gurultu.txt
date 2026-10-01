@@ -1,0 +1,280 @@
+ÇEVRESEL GÜRÜLTÜ KONTROL YÖNETMELİĞİ
+
+                                                                    BİRİNCİ BÖLÜM
+                                                                   Başlangıç Hükümleri
+       Amaç
+       MADDE 1-(1) Bu Yönetmeliğin amacı; çevresel gürültünün çevre ve insan sağlığı üzerindeki olumsuz etkilerinin önlenmesi, gürültü haritaları
+ve gürültü eylem planlarının hazırlanması, çevresel gürültünün azaltılması için gürültü kontrol tedbirlerinin uygulanması ve çevresel gürültü yönetimi
+çalışmaları hakkında kamuoyunun bilgilendirilmesidir.
+       Kapsam
+       MADDE 2-(1) Bu Yönetmelik; endüstriyel faaliyetler, ulaşım, inşaat, müzik yayını ve işyerlerinden kaynaklanan çevresel gürültü ve titreşimin
+kontrolüne yönelik usul ve esasları kapsar.
+       (2) Bu Yönetmelik; evsel faaliyetlerden kaynaklanan gürültüleri, komşular tarafından oluşturulan gürültüleri, işyerlerinde çalışanların maruz
+kaldığı gürültüleri, ulaşım araçları içindeki gürültüyü ve askeri alanlar içindeki askeri faaliyetlerden kaynaklanan gürültüleri kapsamaz.
+       Dayanak
+       MADDE 3-(1) Bu Yönetmelik; 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 14 üncü maddesi, 1 sayılı Cumhurbaşkanlığı Teşkilatı
+Hakkında Cumhurbaşkanlığı Kararnamesinin 97 nci maddesinin birinci fıkrasının (c) bendi ile 103 üncü maddesinin birinci fıkrasının (b) bendine
+dayanılarak hazırlanmıştır.
+       Tanımlar
+       MADDE 4- (1) Bu Yönetmelikte geçen;
+       a) Akustik planlama: Çevresel gürültü düzeyinin arazi kullanımı, trafik düzenlenmesi, gürültü kaynaklarının kontrolü ve ses yalıtım tedbirleri
+kullanılarak planlanmasını,
+       b) Akustik rapor: Öngörülen çevresel gürültü düzeylerinin belirlendiği ve sınır değerlerin aşılıp aşılmadığını gösteren raporu,
+       c) Ana kara yolu: Yılda üç milyondan fazla aracın geçtiği kara yolunu,
+       ç) Ana demir yolu: Yılda otuz binden fazla trenin geçtiği demir yolunu,
+       d) Ana havalimanı: Hafif uçaklarla tamamen eğitim amacıyla yapılanlar hariç olmak üzere, yılda elli binden fazla kalkış ve inişin gerçekleştiği sivil
+havalimanını,
+       e) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+       f) Çevresel gürültü: Endüstriyel faaliyetler, ulaşım araçları, eğlence ve rekreasyon, inşaat ve işyerlerinden kaynaklanan istenmeyen sesleri,
+       g) Çevresel titreşim: Maden ve taş ocakları, ulaşım araçları, sanayi ve inşaat makineleri gibi işlemlerden doğan ve yapılarda kullanım alanı dışında
+başka maksatlarla kullanılan hacimlerdeki faaliyetler sırasında oluşan genellikle katı, sıvı ve gaz ortamlarda yayılan ve insan vücudunca hissedilen
+mekanik salınım hareketlerini,
+       ğ) Değerlendirme: Bir gürültü göstergesi veya ilgili tehlikeli etkilerin değerini hesaplamak, tayin etmek, ön görmek, tahmin etmek veya ölçmek
+için kullanılan her türlü yöntemi,
+       h) Gürültü göstergesi: Gürültünün olumsuz etkisinin tanımlanmasında kullanılan fiziksel bir ölçek olup, ölçüm sonuçlarını belirli ağırlıklar
+uygulanarak tek bir sayı ile ifade etmeye yarayan değerlendirme birimlerini,
+       ı) İl Müdürlüğü: Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünü,
+       i) İlgili idare: İkinci bölümde belirtilen idareler ile bu Yönetmeliğin uygulanmasında görev alan kurum ve kuruluşları,
+       j) Kamuoyu: Bir veya daha fazla gerçek veya tüzel kişi ile bunların mevzuata uygun olarak oluşturduğu dernek, kuruluş, birlik veya grupları,
+       k) Müzik yayın izni: Bu Yönetmelik kapsamında müzik yayını yapan işyerlerine akustik rapor değerlendirmesi sonucunda verilen izni,
+       l) Müzik yayını: Gerçek enstrüman ve/veya seslerle, banttan ya da elektronik olarak yükseltilmiş ses kaynağı kullanılarak yapılan müzik
+faaliyetlerini,
+       m) Müzik yayını yapan işyeri: Bir konaklama tesisi bünyesinde veya müstakil olarak faaliyet gösteren 14/7/2005 tarihli ve 2005/9207 sayılı
+Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik ve/veya turizm mevzuatı kapsamında yer alan
+müzik yayını yapan işyerini,
+       n) Ölçüm noktası: Bir çevresel gürültünün ölçümünü yapmak üzere belirlenmiş olan noktayı,
+       o) Rahatsızlık: Saha çalışmaları ile tespit edilen, bir toplumun gürültü veya titreşim için hassasiyet derecesini,
+       ö) Rekreasyon alanı: Kentin açık ve yeşil alan ihtiyacı başta olmak üzere; eğlence, dinlenme, piknik ihtiyaçlarının karşılanabildiği, kent içinde ve
+çevresinde günübirlik kullanıma yönelik olarak imar planı ile belirlenmiş yerleri,
+       p) Sessiz alan: Bakanlık ve/veya yetkili idare tarafından belirlenmiş; kırsal alanda trafik, endüstri veya rekreasyon faaliyetlerinden kaynaklanan
+her türlü gürültü rahatsızlığına maruz kalmayacak şekilde ayrılan alanı, şehirleşmiş alanda ise belirlenmiş bir çevresel gürültü gösterge değerinin
+üzerinde etkilenmenin olmadığı alanı,
+       r) Stratejik gürültü eylem planları: Çevresel gürültünün ve etkilerinin yönetilmesi için stratejik gürültü haritalarının sonuçlarına göre gürültü azaltım
+tedbirlerini içeren planları,
+       s) Stratejik gürültü haritaları: İl genelini kapsayacak şekilde farklı gürültü kaynakları bazında mevcut veya gelecekte ortaya çıkabilecek gürültü
+durumunun, gürültüden etkilenen kişi ve konut sayısı da dâhil olmak üzere, gürültü göstergesi kullanılarak standartlara uygun olacak şekilde fiziksel
+haritalar ile görselleştirilmesine imkân veren haritaları,
+       ş) Yerleşim alanı: İmar planı sınırı içindeki yerleşik ve gelişme alanlarını, imar planı bulunmayan mevcut yerleşmeleri de içine alan ve sınırları
+belediye meclislerince karara bağlanan alanları,
+       ifade eder.
+       (2) Bu Yönetmelikte geçen diğer teknik terimler Ek-1’de yer almaktadır.
+                                                                        İKİNCİ BÖLÜM
+                                                                  Görev, Yetki ve Sorumluluklar
+       Görev, yetki ve sorumluluklar
+       MADDE 5- (1) Bakanlık;
+       a) Çevresel gürültüyü azaltacak program ve politikaları belirlemekle, bu program ve politikaların uygulanmasını kolaylaştırıcı belge ve dokümanı
+hazırlamakla,
+       b) Bu Yönetmelik hükümlerinin uygulanmasında kurum ve kuruluşlar arasında işbirliği ve eşgüdümü sağlamakla,
+       c) Stratejik gürültü haritaları hazırlanacak yerleşim alanları ile ana ulaşım kaynaklarını ilgili kurum ve kuruluşlarla işbirliği içinde belirlemekle,
+       ç) Stratejik gürültü haritaları ve stratejik gürültü eylem planlarını onaylamakla, stratejik gürültü haritaları ve stratejik gürültü eylem planlarında yer
+alan bilgileri ve verileri bir merkezde toplamakla, stratejik gürültü eylem planlarının uygulanmasını izlemekle,
+       d) Akustik raporları, stratejik gürültü haritaları ve stratejik gürültü eylem planları hazırlama kriterlerini ve hazırlayacak kurum ve kuruluşların
+sağlaması gereken esasları belirlemekle,
+
+       e) Akustik raporları, stratejik gürültü haritalarını ve stratejik gürültü eylem planlarını incelemek ve değerlendirmekle,
+       f) Bu Yönetmelik hükümlerinin uygulanmasına yönelik çevresel gürültü kaynaklarını denetlemekle, ihlalin tespiti halinde idari yaptırım
+uygulamakla,
+       g) Hazırlanan akustik raporların, stratejik gürültü haritalarının ve stratejik gürültü eylem planlarının yer aldığı veri tabanını oluşturmak ve veri giriş
+sürecini takip etmekle,
+       ğ) Bu Yönetmelik hükümlerinin uygulanmasından sorumlu kurum ve kuruluş temsilcilerinin uzmanlaşmasını sağlayıcı eğitim programlarını
+uygulamak/uygulatmak ve izlemekle,
+       h) Tarihi ve doğal yapılar için izin verilen çevresel gürültü ve titreşim düzeyinin belirlenmesi çalışmalarını yapmak/yaptırmakla,
+       yetkili ve sorumludur.
+       (2) İl Müdürlükleri;
+       a) Bu Yönetmeliğin uygulanmasına yönelik işbirliği ve koordinasyonu sağlamak, izleme ve denetim faaliyetlerini gerçekleştirmekle,
+       b) İllerde endüstri tesisleri, müzik yayını yapan deniz araçları ile işyerleri için akustik rapor hazırlatmak, bu raporları incelemek ve
+değerlendirmekle,
+       c) Müzik yayını yapan işyerleri ve deniz araçlarına müzik yayın izni vermekle,
+       ç) Bu Yönetmelik hükümlerinin ihlalinin tespiti halinde idari yaptırım uygulamakla,
+       d) İllerde, bu Yönetmelik hükümlerinin uygulanmasında, çevresel gürültünün kontrolü ve yönetimi amacıyla il özelinde karar verilmesi gereken
+hallerde İl Mahalli Çevre Kurulu toplantılarını düzenlemekle,
+       e) İllerde stratejik gürültü haritalarının hazırlanmasında koordinasyonu sağlamakla,
+       f) Stratejik gürültü eylem planlarının uygulanmasını izlemek, uygulamaya yönelik sorunları, çözüm önerilerini ve faydalı bilgileri Bakanlığa
+bildirmekle,
+       g) Akustik raporlar, stratejik gürültü haritaları ve stratejik gürültü eylem planlarının Bakanlıkça oluşturulan veri tabanına giriş sürecini koordine ve
+kontrol etmekle,
+       yetkili ve sorumludur.
+       (3) Büyükşehir, il, ilçe, belde belediyeleri ve il özel idareleri;
+       a) İlgili kurum ve kuruluşlarla işbirliği yaparak stratejik gürültü haritaları ve stratejik gürültü eylem planlarını hazırlamak/hazırlatmak ve stratejik
+gürültü eylem planlarını uygulamakla,
+       b) Stratejik gürültü eylem planlarını kamuoyu görüşüne açmakla, stratejik gürültü haritalarının ve stratejik gürültü eylem planlarının nihai halini
+kamuoyuna bildirmekle ve Bakanlığa göndermekle,
+       c) Stratejik gürültü haritalarının, stratejik gürültü eylem planlarının Bakanlıkça oluşturulan veri tabanına girişini yapmakla,
+       ç) İmar planı çalışmalarında ve ruhsatlandırma aşamasında gürültü yönetimine ilişkin hususları dikkate almakla,
+       d) Çevre Kanunu uyarınca yetki devri yapılması halinde Bakanlıkça belirlenen usuller çerçevesinde bu Yönetmeliğin uygulanmasına yönelik
+izleme ve denetim faaliyetlerini gerçekleştirmekle,
+       e) Çevre Kanunu uyarınca yetki devri yapılması halinde bu Yönetmeliğin ihlalinin tespiti durumunda idari yaptırım uygulamak ve yapılan denetim
+ve idari yaptırım sonuçlarını il müdürlüklerine iletmekle,
+       ilgili hususlarda gerekli tedbirleri alır.
+       (4) Ulaştırma ve Altyapı Bakanlığı ile ulaşım kaynaklarını işleten özel kurumlar;
+       a) Ana kara yollarını, ana demir yollarını ve ana havalimanlarını belirleyip listesini Bakanlığa bildirmekle,
+       b) Sorumluluğu dâhilinde olan ana kara yollarının, demir yolları, havalimanlarının ve deniz limanlarının gürültü haritalarını hazırlamakla,
+       c) Gürültü haritalarının nihai halini Bakanlığa göndermekle,
+       ç) Ana havalimanları için çevresel gürültü düzeyini tespit etmek amacıyla gürültü ölçüm/kontrol/izleme sistemi kurmakla,
+       d) İllere ait stratejik gürültü eylem planları çalışmalarında kullanılmak üzere, gürültü haritalarının sonuçlarını ilgili belediyeye iletmekle,
+       e) Planlanan kara yolları, demir yolları ve havalimanları güzergâhı için, gürültü yönetimine ilişkin hususları dikkate almak, akustik rapor
+hazırlamak/hazırlatmakla,
+       f) Eylem planlarında yer alan gürültü kontrol tedbirlerine yönelik olarak ilgili kurum ve kuruluşlar ile işbirliği yapmakla,
+       ilgili hususlarda gerekli tedbirleri alır.
+       (5) Kültür ve Turizm Bakanlığı; tarihi ve doğal yapılar için izin verilen çevresel gürültü ve titreşim düzeyinin belirlenmesi çalışmalarında işbirliği
+yapma hususunda gerekli tedbirleri alır.
+       Endüstri tesisleri ve işyerlerinin sorumlulukları
+       MADDE 6- (1) Endüstri tesisleri ve işyerleri;
+       a) Çevresel gürültü ve titreşime asgari düzeyde neden olacak şekilde faaliyetlerini yürütmekle,
+       b) İl Müdürlüğü tarafından istenen akustik raporları hazırlatmakla ve Bakanlıkça oluşturulan veri tabanına girişini yapmakla,
+       c) Akustik raporlar kapsamında belirlenen gürültü azaltım tedbirlerine uymakla,
+       ç) İlgili idarenin talebine istinaden gürültü haritaları hazırlanması için gerekli olan verileri vermekle,
+       d) İl Müdürlüğünün talebine istinaden çevresel gürültü seviyesinin tespiti amacıyla sürekli gürültü ölçüm/kontrol/izleme sistemi ve ses gücü
+sınırlayıcı sistemler kurmakla,
+       e) Bu Yönetmeliğin uygulanmasına yönelik ilgili kurum ve kuruluşlar ile işbirliği yapmakla,
+       sorumludur.
+                                                                        ÜÇÜNCÜ BÖLÜM
+                                  Stratejik Gürültü Haritaları, Stratejik Gürültü Eylem Planları ve Akustik Raporlar
+       Stratejik gürültü haritaları
+       MADDE 7- (1) Stratejik gürültü haritaları Ek-3’te yer alan usul ve esaslar çerçevesinde hazırlanır.
+       (2) Farklı gürültü kaynaklarından yayılan gürültü etkilerinin il bazında toplu olarak değerlendirilmesi için stratejik gürültü haritaları hazırlanır.
+       (3) Stratejik gürültü haritaları beş yılda bir güncellenir.
+       (4) Stratejik gürültü haritaları uygun iletişim araçlarından yararlanılarak yayımlanır.
+       Stratejik gürültü eylem planları
+       MADDE 8-(1) Gürültü azaltım ve kontrol tedbirlerini belirlemek üzere, stratejik gürültü eylem planları Ek-4’te belirtilen usul ve esaslar
+çerçevesinde hazırlanır.
+       (2) Hazırlanan stratejik gürültü eylem planları kapsamında sessiz alanlar korunur ve azaltım tedbirleri uygulanır.
+       (3) Stratejik gürültü eylem planları kapsamında belirlenen gürültü azaltım tedbirlerine yönelik olarak eylem planları hazırlamakla görevli ilgili idare
+tarafından kamuoyunun görüşü alınır.
+       (4) Stratejik gürültü haritaları hazırlandıktan sonra en geç bir yıl içerisinde stratejik gürültü eylem planları hazırlanır ve beş yılda bir güncellenir.
+Eylemlerin uygulama durumları, altı aylık dönemler halinde, Bakanlıkça oluşturulan veri tabanına giriş yapılarak Bakanlığa bildirilir.
+
+       (5) Stratejik gürültü haritaları ve stratejik gürültü eylem planları, her türlü planlamada dikkate alınır.
+       Akustik raporlar
+       MADDE 9- (1) Planlanan ve mevcut çevresel gürültü kaynakları için akustik rapor hazırlama usul ve esasları Ek-5’te yer almaktadır.
+       (2) İlgili idarece ihtiyaç halinde kaynağa özgü akustik raporlar istenebilir.
+       (3) Akustik raporlar kapsamında çevresel gürültü düzeyi ve gürültü azaltım tedbirleri belirlenir.
+       (4) İlgili idarenin talep etmesi halinde gürültü modelleme çalışmaları yapılır.
+       (5) Gürültü kaynağında veya gürültü azaltım koşullarında değişiklik olması durumunda akustik raporlar güncellenir.
+                                                                     DÖRDÜNCÜ BÖLÜM
+                                                           Çevresel Gürültü ve Titreşimin Yönetimi
+       Ulaşım kaynakları için çevresel gürültü kriterleri
+       MADDE 10- (1) Ulaşım kaynaklarından çevreye yayılan çevresel gürültü düzeyi, Ek-2’de yer alan hükümleri ve sınır değerleri sağlar.
+       (2) Ulaşım araçları, çevresel gürültünün azaltılması için mevcut en iyi teknolojilerden faydalanır.
+       (3) Motorlu taşıtların korna ve egzozlarında yer alan gürültü azaltım ekipmanı üzerinde değişiklik yapılamaz, çalışmaz hale getirilemez.
+       (4) Motorlu taşıtların üzerinde veya içinde; korna veya ses çıkaran cihazlar zorunlu haller dışında gürültü rahatsızlığına neden olacak şekilde
+çalınamaz.
+       Müzik yayını yapan işyerleri ve deniz araçları için çevresel gürültü kriterleri
+       MADDE 11- (1) Yerleşim alanlarında çevresel gürültüye neden olan müzik yayını yapan işyerleri ve deniz araçları Ek-2’de yer alan hükümleri
+sağlar.
+       (2) İl Müdürlüğü tarafından müzik yayını yapan işyerlerine ve deniz araçlarına akustik rapor hazırlattırılır, değerlendirilir, müzik yayın izni verilir.
+       (3) Müzik yayın izin belgesine ilişkin usul ve esaslar Bakanlıkça belirlenir.
+       (4) Müzik yayını yapan deniz araçlarının, müzik yayını yapabileceği sahaların sınır koordinatları İl Mahalli Çevre Kurulu Kararı ile belirlenir.
+       (5) Müzik yayını yapan deniz araçlarının belirlenen koordinatlar dışında faaliyet göstermesi durumunda idari yaptırım uygulanır.
+       (6) Müzik yayını yapan deniz araçlarından yayılan çevresel gürültü düzeyi, İl Müdürlüğü tarafından kıyıda belirlenen noktalarda, sürekli izleme
+sistemi ile ölçülür.
+       (7) İl Müdürlüğü tarafından müzik yayını yapan işyerlerinin bulunduğu alanlarda Ek-2’deki Tablo 1’de yer alan sınır değerlerin sağlandığını tespit
+etmek üzere, ilgili idarenin elektronik olarak bilgilendirileceği çevresel gürültü sürekli izleme sistemi kurdurulur.
+       (8) İlgili idare ses basıncı düzeyini kontrol altında tutmak amacıyla akustik planlama yaptırabilir ve ses gücü sınırlayıcı sistemler kurdurabilir.
+       (9) Birden fazla müzik yayını yapan işyerinin veya müzik yayını yapan deniz aracının bir arada ve aynı anda faaliyet gösterdiği alanlarda, ilave
+gürültü kontrol tedbirleri belirlenebilir.
+       (10) Kurulması planlanan müzik yayını yapan işyerlerinin ilgili mevzuatta belirtilen yer seçimi ve planlamasında, stratejik gürültü haritaları ve
+stratejik gürültü eylem planları dikkate alınır.
+       (11) Aynı takvim yılı içinde üç defa bu Yönetmelik hükümlerinin ihlalinin tespiti halinde İl Müdürlüğü tarafından müzik yayın izni iptal edilir.
+Müzik yayın izni iptal edilen işyeri iki takvim yılından sonra müzik yayın izni için tekrar başvurabilir.
+       Endüstri tesisleri ile işyerleri için çevresel gürültü kriterleri
+       MADDE 12- (1) Yerleşim alanlarında çevresel gürültüye neden olan endüstri tesisleri ve işyerleri Ek-2’de yer alan hükümleri sağlar.
+       (2) Endüstri tesisleri, 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliği hükümleri kapsamında
+değerlendirilir.
+       (3) Endüstri tesislerinden ve işyerlerinden çevreye yayılan gürültü düzeyinin azaltılması için mevcut en iyi teknikler uygulanır.
+       (4) Yerleşim alanlarında kurulması planlanan işyerleri için, ruhsat verme aşamasında, gürültü yönetimine ilişkin bu Yönetmelikte yer alan
+hususlara uyulur.
+       (5) Endüstri tesisleri ve işyerlerine ilişkin ilave gürültü kontrol tedbirleri akustik raporlarda belirlenir.
+       (6) Endüstri tesisleri ve işyerlerinde çevresel gürültü kaynağı olan ekipmanların mümkün olduğunca kapalı ortamda olması sağlanır. Açık ortamda
+bulunması zorunlu olan soğutma fanı, klima, havalandırma, jeneratör gibi çevresel gürültü kaynaklarından hava aracılığıyla iletimi azaltmak üzere gerekli
+tedbirler alınır/aldırılır.
+       Şantiye alanları için çevresel gürültü kriterleri
+       MADDE 13- (1) Yerleşim alanlarında çevresel gürültüye neden olan şantiye faaliyetleri Ek-2’de yer alan hükümler çerçevesinde yürütülür.
+       (2) Şantiye faaliyetlerinden çevreye yayılan gürültünün kontrolü için gürültü azaltım tedbirleri uygulanır.
+       (3) Tatil beldelerinde ve turistik alanlarda gerçekleştirilen tüm şantiye faaliyetlerinden kaynaklanan çevresel gürültünün yönetimine ilişkin ilave
+kontrol tedbirleri, ilgili idare tarafından belirlenir.
+       Diğer faaliyetler için çevresel gürültü kriterleri
+       MADDE 14-(1) Yerleşim alanlarında, açık havada gerçekleştirilen ve çevresel gürültüye neden olan etkinlikler Ek-2’de belirtilen hükümler
+çerçevesinde yürütülür.
+       (2) Açık havada müzik yayını yapılan etkinliklerin düzenlemesine izin verilen alanlar, bu alanlarda düzenlenebilecek yıllık azami etkinlik sayısı ile
+etkinliğin peş peşe düzenlenebileceği gün sayısı İl Mahalli Çevre Kurulu Kararı ile belirlenir. Bu sayıları aşan etkinlikler için 11 inci maddede yer alan
+hükümler uygulanır.
+       (3) Havai fişek kullanımı için zaman ve mekan bildirilerek mahallin mülki amirliğinden izin alınması zorunludur.
+       (4) Meteorolojik koşulların değiştirilmesi için olan her türlü dış müdahale (ses frekansları ve benzeri) zaman ve mekan bildirilerek valilik izni ve
+Bakanlık uygun görüşüyle yapılabilir.
+       (5) Çok hafif hava araçlarının (Microlight ve benzeri) iniş, kalkış ve seyir esnasında çevresel gürültü seviyelerinin azaltılmasına yönelik gerekli
+tedbirler alınır. Bu araçların uçuş güzergahları Bakanlık uygun görüşü ile belirlenir.
+       Çevresel titreşim değerlendirme yöntemleri
+       MADDE 15-(1) Maden ve taş ocakları ile benzeri faaliyette bulunulan alanlardaki patlatmalarda; oluşacak hava şoku, taş savrulması, titreşim
+gibi çevresel etkilerin asgari düzeyde tutulacağı bir patlatma paterni uygulanır. Ek-2’deki Tablo 3’te yer alan usul ve esaslara göre, patlatma yapılan
+alanın yakınındaki bina ve yapıların korunması için alınan tedbirler hazırlanan akustik raporlar içerisinde detaylı olarak açıklanır.
+       (2) Maden ve taş ocakları ile benzeri faaliyette bulunulan alanlardaki patlatmaların, çevredeki yapılarda oluşturduğu zemin titreşim düzeyi Ek-
+2’deki Tablo 3’te yer alan sınır değerleri sağlar.
+       (3) Demir yolu ve kara yolu ulaşım araçları, işyerleri ve endüstri tesislerinin en yakın yapıda oluşturacağı titreşim düzeyi ile konut ve ofis olarak
+kullanılan binalarda, bina içindeki makine ve teçhizatın oluşturacağı zemin titreşim düzeyi Ek-2’deki Tablo 4’te yer alan sınır değerleri sağlar.
+       (4) Şantiyelerde gerçekleşen faaliyetlerin çevredeki yapılarda oluşturacağı zemin titreşim düzeyi Ek-2’deki Tablo 5’te yer alan sınır değerleri
+sağlar.
+       (5) Titreşim düzeylerinin sınır değerleri sağlamasını teminen başta titreşim yalıtımı olmak üzere gerekli teknik tedbirler alınır/aldırılır.
+                                                                       BEŞİNCİ BÖLÜM
+
+                                                  Kamuoyunun Bilgilendirilmesi, Eğitimler ve Yeterlik
+       Kamuoyunun bilgilendirilmesi
+       MADDE 16- (1) İlgili idare çevresel gürültünün azaltılmasına yönelik çalışmalara ilişkin olarak kamuoyunu uygun iletişim araçlarıyla bilgilendirir.
+       (2) İlgili idarece yayımlanan bilgilerin tam, anlaşılabilir ve rahat erişilir nitelikte olması sağlanır.
+       (3) İlgili idare çevresel gürültü oluşturabilecek eylemlere ilişkin olarak kamuoyunu bilinçlendirme ve farkındalık oluşturma amacıyla bilgilendirme
+çalışmaları yapabilir.
+       Eğitimler
+       MADDE 17- (1) Bakanlık, bu Yönetmeliğin etkin bir şekilde uygulanmasını sağlamak, teknik altyapıyı güçlendirmek amacıyla Ek-8’de yer alan
+eğitim programlarının usul ve esaslarını belirler.
+       (2) Bakanlık, bu Yönetmeliğin uygulanması için gerekli olan eğitimleri düzenler veya düzenlettirir. Bakanlık onayıyla; başka kurum/kuruluşlarca
+düzenlenen eğitim programlarına Bakanlık gözlemci olarak katılım sağlar.
+       (3) Eğitim programını başarı ile tamamlayanlara Bakanlık tarafından yetkinlik belgesi verilir.
+       (4) Bu Yönetmelik çerçevesinde alınan yetkinlik belgeleri beş yıl geçerlidir.
+       Yeterlik
+       MADDE 18-(1) Çevresel gürültü ve titreşim konularının değerlendirilmesi ve ölçümlerinde görev alan kişiler ile akustik raporlar, stratejik
+gürültü haritaları, stratejik gürültü eylem planları hazırlayacak kişilerin Bakanlık tarafından düzenlenen/düzenlettirilen eğitimler kapsamında alınan
+yetkinlik belgelerine sahip olmaları gerekir.
+       (2) Akustik raporları ve gürültü haritalarını hazırlayacak kurumların, Ek-7’de yer alan ölçüm standartlarına göre Bakanlıktan alınan yeterlik
+belgesine sahip olmaları gerekir.
+                                                                       ALTINCI BÖLÜM
+                                                             İzleme, Denetim ve İdari Yaptırım
+       İzleme ve denetim
+       MADDE 19-(1) Çevresel gürültü yönetimi çalışmalarında kullanılmak üzere yerleşim alanlarında çevresel gürültü düzeyi Ek-2’deki Tablo 6’da
+yer alan formata göre izlenir.
+       (2) İzleme ve denetim faaliyetleri programlı veya programsız olarak Çevre Kanunu kapsamında yetki devri yapılan kurum ve kuruluşlarca, yetki
+devri yapılmadığı takdirde ise İl Müdürlüklerince gerektiğinde diğer mevzuat kapsamında yetkili kılınan kurum ve kuruluşlar ile işbirliği ve koordinasyon
+içinde yapılır.
+       (3) Bu Yönetmelik kapsamında yer alan hükümlerin uygulanmasına yönelik denetimleri gerçekleştiren kurum ve kuruluşlar Ek-6’da yer alan
+şartları sağlar.
+       İdari yaptırım
+       MADDE 20-(1) Bu Yönetmelik hükümlerine aykırı davrananlar hakkında, Çevre Kanununun 20 nci maddesinde öngörülen idari yaptırımlar
+uygulanır.
+                                                                       YEDİNCİ BÖLÜM
+                                                                    Çeşitli ve Son Hükümler
+       Yürürlükten kaldırılan yönetmelik
+       MADDE 21- (1) 4/6/2010 tarihli ve 27601 sayılı Resmî Gazete’de yayımlanan Çevresel Gürültünün Değerlendirilmesi ve Yönetimi Yönetmeliği
+yürürlükten kaldırılmıştır.
+       Veri tabanı oluşturulması
+       GEÇİCİ MADDE 1-(1) Bakanlık, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç yıl içerisinde; çevresel gürültü yönetimi amacıyla
+hazırlanan akustik raporların, stratejik gürültü haritaları ve stratejik gürültü eylem planlarının kayıt altına alınacağı bir veri tabanı oluşturur.
+       Stratejik gürültü haritası ve stratejik eylem planı olmayan iller
+       GEÇİCİ MADDE 2-(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren, daha önce stratejik gürültü haritaları olmayan illerde, stratejik
+gürültü haritaları ve stratejik gürültü eylem planları üç yıl içerisinde hazırlanır.
+       Geçiş hükümleri
+       GEÇİCİ MADDE 3-(1) Bu Yönetmeliğin yayımı tarihinden önce alınan eğitim sertifikaları, yetkinlik belgesi olarak Yönetmeliğin yürürlüğe
+girdiği tarihten itibaren beş yıl geçerlidir.
+       (2) Bu Yönetmeliğin yayımı tarihinden önce İl Müdürlüklerinden alınan çevresel gürültü konulu çevre izin muafiyet yazıları; mevcut çevre izin ve
+lisans belgeleri süresi sonuna kadar geçerlidir.
+       (3) Bu Yönetmeliğin yayımı tarihinden önce canlı müzik izin belgesi almış olan işyerleri iki yıl içerisinde bu Yönetmelik çerçevesinde müzik yayın
+izni almak üzere başvuruda bulunur.
+       Sürekli gürültü ölçüm cihazlarının kurulması
+       GEÇİCİ MADDE 4- (1) Sürekli gürültü ölçüm cihazları bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde kurdurulur.
+       Müzik yayın izni ve eğitim yetkinlik belgesine ilişkin usul ve esaslar
+       GEÇİCİ MADDE 5- (1) Bu Yönetmelik çerçevesinde verilecek müzik yayın izni ve eğitim yetkinlik belgesine ilişkin usul ve esaslar Bakanlıkça
+bu Yönetmeliğin yayımı tarihinden itibaren 6 ay içerisinde belirlenir.
+       Yürürlük
+       MADDE 22- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+       Yürütme
+       MADDE 23- (1) Bu Yönetmelik hükümlerini Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.
+
+Ekleri için tıklayınız.

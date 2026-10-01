@@ -1,0 +1,14 @@
+{
+  "name": "mevzuat",
+  "version": "1.0.0",
+  "description": "mevzuat.gov.tr guncellik takibi — madde duzeyinde degisiklik tespiti",
+  "private": true,
+  "scripts": {
+    "dev": "python3 sunucu.py",
+    "sunucu": "python3 sunucu.py",
+    "denetle": "python3 mevzuat.py denetle",
+    "rg": "python3 mevzuat.py rg 7",
+    "durum": "python3 mevzuat.py durum",
+    "test": "python3 -m unittest discover -s test -v"
+  }
+}

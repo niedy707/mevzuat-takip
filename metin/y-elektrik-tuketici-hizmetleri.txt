@@ -1,0 +1,1719 @@
+ELEKTRİK PİYASASI TÜKETİCİ HİZMETLERİ YÖNETMELİĞİ
+
+                                        BİRİNCİ BÖLÜM
+                                 Amaç, Kapsam, Dayanak ve Tanımlar
+        Amaç
+        MADDE 1 – (1) Bu Yönetmeliğin amacı; serbest, serbest olmayan ve son kaynak
+tedariki kapsamındaki tüketicilere elektrik enerjisi ve/veya kapasite satışı ile buna ilişkin
+hizmetlerin sunulmasında tüketici, tedarikçiler ve/veya dağıtım şirketleri arasındaki iş ve işlemlere
+esas asgari standart, usul ve esasların belirlenmesidir.
+        Kapsam
+        MADDE 2 – (1) Bu Yönetmelik, tüketicilere hizmetlerin yeterli, kaliteli ve sürekli olarak
+sunulması için;
+        a) Tedarikçiler ile (Değişik ibare:RG-14/1/2025-32782) yıllık tüketimi 100.000 kWh’ın
+altında olan serbest tüketiciler arasında yapılacak ikili anlaşmada yer alacak asgari usul ve
+esaslara,
+        b) Görevli tedarik şirketleri ile serbest olmayan tüketiciler ya da son kaynak tedariki
+kapsamındaki tüketiciler arasında yapılacak perakende satış sözleşmesinde yer alacak asgari usul
+ve esaslara,
+        c) Dağıtım şirketleri ile tüketiciler ve tedarikçiler arasında;
+        1) Sayaç ve sayaca erişim, okunmasına ve kontrolüne,
+        2) Kaçak ve usulsüz elektrik enerjisi kullanımının tespiti ve bu kapsamda yapılacak iş ve
+işlemlere,
+        3) Elektriğin kesilmesi ve bağlanmasına,
+        ç) Tüketici şikâyetlerinin yapılması, bu şikâyetlerin değerlendirilmesi ve sonuçlandırılması ile
+tüketicilerin bilgilendirilmesine yönelik usul ve esaslara,
+        d) Tüketicilerin hak ve yükümlülüklerine,
+        ilişkin hükümleri kapsar.
+         (2) Tedarikçiler ile (Değişik ibare:RG-14/1/2025-32782) yıllık tüketimi 100.000 kWh’ın
+altında olan serbest tüketiciler arasında 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ile
+5/1/2002 tarihli ve 4735 sayılı Kamu İhale SözleşmeleriKanunu kapsamında yapılacak ikili
+anlaşmalarda düzenlenmeyen hususlar hakkında işbu Yönetmeliğin üçüncü bölüm hükümleri
+uygulanır.
+        Dayanak
+        MADDE 3 – (1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası
+Kanununa dayanılarak hazırlanmıştır.
+        Tanımlar ve kısaltmalar
+        MADDE 4 – (1) Bu Yönetmelikte geçen;
+        a) Aktif enerji: Aktif gücün zamanla çarpımından elde edilen ve kWh birimi ile ölçülen
+enerjiyi,
+        b) Bağlantı anlaşması: Bir üretim şirketi, dağıtım şirketi ya da tüketicinin iletim sistemine ya
+da dağıtım sistemine bağlantı yapması için yapılan genel ve özel hükümleri içeren anlaşmayı,
+        c) Bağlantı gücü: Bir kullanım yerinin elektrik projesinde belirtilen kurulu gücün, kullanma
+faktörü ile çarpılması suretiyle hesaplanan güç miktarını,
+        ç) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+        d) Dağıtım: Elektrik enerjisinin 36 kV ve altındaki hatlar üzerinden naklini,
+        e) Dağıtım bölgesi: Bir dağıtım şirketinin lisansında tanımlanan bölgeyi,
+        f) Dağıtım sistemi: Bir dağıtım şirketinin, lisansında belirlenmiş dağıtım bölgesinde işlettiği
+elektrik dağıtım tesisleri ve şebekesini,
+        g) Dağıtım şirketi: Belirlenen bir bölgede elektrik dağıtımı ile iştigal eden tüzel kişiyi,
+        ğ) (Değişik:RG-20/2/2021-31401) DBS: Doğrudan Borçlandırma Sistemini,
+        h) DSİ: Devlet Su İşleri Genel Müdürlüğünü,
+        ı) Enerji Tanımlama Kodu (EIC): Oluşturulmasına ilişkin usul ve esasları ENTSO-E
+tarafından belirlenip kuruluşun resmi internet sitesinde duyurulan ve ENTSO-E’ye bağlı tüm
+ülkelerde kullanılan, enerji tanımlama kodlama sistemini,
+        i) Gecikme zammı: 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammını,
+        j) Görevli tedarik şirketi: Dağıtım ve perakende satış faaliyetlerinin hukuki ayrıştırması
+kapsamında kurulan veya son kaynak tedariği yükümlüsü olarak Kurul tarafından yetkilendirilen
+tedarik şirketini,
+        k) İkili anlaşma: Gerçek veya tüzel kişiler arasında özel hukuk hükümlerine tabi olarak,
+elektrik enerjisi ve/veya kapasitenin alınıp satılmasına dair yapılan ve Kurul onayına tabi olmayan
+ticari anlaşmaları,
+        l) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, (Ek ibare:RG-20/2/2021-31401)
+Cumhurbaşkanlığı kararnamesi, Cumhurbaşkanı kararı, yönetmelik, tebliğ, lisans, genelge ve Kurul
+kararlarını,
+        m) İlgili tüzel kişi: İlgisine göre, dağıtım lisansı sahibi tüzel kişiyi ve/veya tedarikçiyi,
+        n) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin
+amacına uygun olarak incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden
+kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik
+posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+        o) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununu,
+        ö) Kesme-bağlama bedeli: Tüketicinin elektriğinin bağlanması aşamasında uygulanan ve
+
+Kurul tarafından belirlenen bedeli,
+        p) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+        r) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+        s) Mühürleme: Sayaç ve ölçü devresi elemanlarına dışarıdan yapılacak müdahaleyi önlemek
+amacıyla dağıtım lisansı sahibi tüzel kişiler tarafından ilk enerji verme, sayaç ve ölçü devresi
+elemanlarını kontrol ve durumunu tespit etme, enerji kesme ve açma gibi işlemler yapıldıktan
+sonra mühür ile ölçü düzeneğini muhafaza altına alma ya da aldırma yöntemini,
+        ş) Ortak sayaç: Aynı tüketici grubunda birden fazla gerçek ve/veya tüzel kişinin elektrik
+enerjisi tüketimlerini ölçmek amacıyla tesis edilen tek bir sayacı,
+        t) Perakende satış: Elektriğin tüketicilere satışını,
+        u) Perakende satış sözleşmesi: Bağlantı anlaşması mevcut olan kullanım yeri için, görevli
+tedarik şirketi ile tüketiciler arasında ilgili mevzuat hükümleri çerçevesinde, perakende satış
+tarifesi veya son kaynak tedarik tarifesinden elektrik enerjisi ve/veya kapasite temini ile hizmet
+alımına yönelik olarak yapılan faaliyetlere ilişkin koşul ve hükümleri kapsayan sözleşmeyi,
+        ü) Piyasa Yönetim Sistemi (PYS): Dengelememekanizması ve uzlaştırmaya ilişkin
+işlemlerin yürütülmesi amacıyla, piyasa işletmecisi, sistem işletmecisi, piyasa katılımcıları ve
+sayaçların okunmasından sorumlu iletim ve dağıtım lisansı sahibi tüzel kişilerin kullanımına sunulan
+ve küçük istemci yapısında çalışan uygulamaları,
+        v) Reaktif güç: Elektrik akımının gerilime göre 90 derece faz farklı, iş görmeyen ve kVAr
+birimi ile ölçülen gücü,
+        y) (Mülga:RG-14/1/2025-32782)
+        z) Tüketici grubu: Benzer özelliklere sahip olmaları sebebiyle bir grup olarak dikkate alınan
+tüketicileri,
+        aa) Reaktif enerji: Reaktif gücün zamanla çarpımından elde edilen ve kVArh birimi ile
+ölçülen enerjiyi,
+        bb) Sayaç: Tüketicinin, elektrik enerjisi tüketimini ölçmek amacıyla ilgili mevzuat
+hükümlerine uygun olarak tesis edilen cihazı,
+        cc) Serbest olmayan tüketici: Elektrik enerjisi ve/veya kapasite alımlarını sadece, bölgesinde
+bulunduğu görevli tedarik şirketinden yapabilen gerçek veya tüzel kişiyi,
+        çç) Serbest tüketici: Kurul tarafından belirlenen elektrik enerjisi miktarından daha fazla
+tüketimde bulunması veya iletim sistemine doğrudan bağlı olması veya organize sanayi bölgesi
+tüzel kişiliğini haiz olduğu için tedarikçisini seçme hakkına sahip gerçek veya tüzel kişiyi,
+        dd) Son kaynak tedarikçisi: Son kaynak tedariği kapsamındaki tüketicilere enerji temin
+etmekle görevlendirilmiş olan tedarik lisansı sahibi şirketi,
+        ee) Son kaynak tedariği: Serbest tüketici niteliğini haiz olduğu hâlde elektrik enerjisini, son
+kaynak tedarikçisi olarak yetkilendirilen tedarik lisansı sahibi şirket dışında bir tedarikçiden temin
+etmeyen tüketicilere elektrik enerjisi tedariğini,
+        ff) Tarife: Elektrik enerjisinin ve/veya kapasitenin iletimi, dağıtımı ve satışı ile bunlara dair
+hizmetlere ilişkin fiyatları, hüküm ve şartları içeren düzenlemeleri,
+        gg) Tedarik: Elektrik enerjisinin ve/veya kapasitenin toptan veya perakende satışını,
+        ğğ) Tedarikçi: Elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri ile tedarik
+lisansına sahip şirketleri,
+        hh) Tedarik şirketi: Elektrik enerjisinin ve/veya kapasitenin toptan ve/veya perakende
+satılması, ithalatı, ihracatı ve ticareti faaliyetleri ile iştigal edebilen tüzel kişiyi,
+        ıı) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+        ii) Tekil kod: Dağıtım şirketleri tarafından dağıtım bölgelerindeki her bir tüketim noktası için
+belirlenen ve tüketim noktasının Piyasa Yönetim Sistemine kaydı için de kullanılan münhasır kayıt
+kodunu,
+        jj) TÜİK: Türkiye İstatistik Kurumunu,
+        kk) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
+        ll) Yeraltısuyu Kullanma Belgesi: 16/12/1960 tarihli ve 167 sayılı Yeraltı Suları Hakkında
+Kanunda belirtilen Kullanma Belgesini,
+        mm) (Ek:RG-20/2/2021-31401) Dönemsel kullanım: Okuma bölgesinde yıl içinde ardışık
+olmak üzere altı ay ve üzeri hiç tüketim olmayan kullanım yerlerindeki tüketim ile tarımsal sulama
+amaçlı tüketimleri,
+        ifade eder.
+        (2) Bu Yönetmelikte geçen diğer ifade ve kısaltmalar ilgili mevzuattaki anlam ve kapsama
+sahiptir.
+                                                 İKİNCİ BÖLÜM
+                   Elektrik Enerjisi ve/veya Kapasite Tedariği, Serbest Tüketici ve
+                                           Serbest Olmayan Tüketici
+        Elektrik enerjisi ve/veya kapasite tedariki
+        MADDE 5 – (1) Tüketici; serbest tüketici, serbest olmayan tüketici ya da son kaynak
+tedariki kapsamındaki tüketici statüsünde elektrik enerjisi ve/veya kapasiteyi tedarikçilerden temin
+eder.
+        Serbest tüketici kapsamı ve elektrik tedariki
+        MADDE 6 – (1) Aşağıdaki koşulları sağlayan tüketiciler serbest tüketici olarak kabul
+edilir;
+        a) İletim sistemine doğrudan bağlı olan gerçek veya tüzel kişiler,
+        b) Organize sanayi bölgesi tüzel kişilikleri,
+        c) Bir önceki takvim yılında veya içinde bulunulan yılda serbest tüketici limitini aşan
+miktarda elektrik tüketilen kullanım yerinin kullanım hakkına sahip ya da kullanım hakkını edinen
+
+tüketiciler.
+        (2) Elektrik enerjisi tüketimleri tek bir ortak sayaç ile ölçülebilen birden fazla gerçek
+ve/veya tüzel kişinin tükettiği toplam elektrik enerjisi miktarının serbest tüketici limitini geçmesi
+durumunda, bu kişilerin birlikte serbest tüketici niteliği kazandığı kabul edilir.
+        (3) (Değişik:RG-14/1/2025-32782) Serbest tüketiciler elektrik enerjisi ve/veya kapasite
+alımlarını tedarikçi ile ikili anlaşma yaparak temin edebilirler. Tüketicinin korunması ile rekabetin
+ve şeffaflığın artırılmasına yönelik olarak tüketicilerin tedarikçiler tarafından sunulan ikili anlaşma
+tekliflerini incelemelerine, karşılaştırabilmelerine ve tedarikçilerle ikili anlaşma kurabilmelerine
+imkân sağlayan platform, Enerji Piyasaları İşletme Anonim Şirketitarafından kurulur ve işletilir.
+Tedarikçiler tarafından söz konusu platforma teklif verilmesi hâlinde, bu teklifin ilgili tüketiciler
+tarafından kabul edilmesiyle ikili anlaşma kurulur.
+        (4) Serbest tüketiciler, ikili anlaşmalarının herhangi bir şekilde sona ermesi veya talep
+etmeleri halinde, bu Yönetmelik ve ilgili mevzuat hükümleri çerçevesinde, bölgelerindeki görevli
+tedarik şirketinden son kaynak tedariki kapsamında elektrik enerjisi ve/veya kapasite satın alabilir.
+        (5) Serbest tüketici kapsamında yer alan tüketicilerin tedarikçisini seçme hakkını
+kullanmaları halinde; sayaçların Kurum tarafından yayımlanan düzenlemelere uygun çok zaman
+dilimli ölçüm yapabilen elektronik sayaçlar olması zorunludur. Dağıtımdan bağlı tüketiciler için
+uygun olmayan sayaçlar dağıtım şirketi tarafından ilgili ay içerisinde değiştirilir ve sayacın uygun
+olmaması, tedarikçi seçme hakkının kullanılmasına engel teşkil etmez.
+        (6) Serbest tüketici niteliği ile birden fazla gerçek ve/veya tüzel kişinin aralarından
+yetkilendirdiği bir tüketici adına satın alınan tek bir ortak sayaç ile ölçülebilen elektrik enerjisinin,
+kâr amaçlı olarak tekrar satışı yapılamaz.
+        (7) (Ek:RG-20/2/2021-31401) Aynı gerçek veya tüzel kişinin aynı tüketici grubunda
+bulunan kullanım yerlerinin yıllık toplam elektrik enerjisi tüketim miktarının sözleşmenin kurulduğu
+tarihte 100.000 kWh ve üzerinde olması ve her birinin yıllık tüketiminin serbest tüketici limitini
+geçiyor olması halinde Üçüncü Bölüm hükümleri uygulanmaz.
+        Serbest olmayan tüketici kapsamı ve elektrik tedariki
+        MADDE 7 – (1) Aşağıdaki koşullara sahip tüketiciler serbest olmayan tüketici olarak
+kabul edilir;
+        a) Bir önceki takvim yılında ve içinde bulunulan yılda, kullanım hakkına sahip olduğu ya da
+kullanım hakkını edindiği kullanım yerindeki elektrik tüketimi serbest tüketici limitini aşmayan
+tüketici,
+        b) Serbest tüketici olup da bir önceki takvim yılına ait toplam elektrik enerjisi tüketiminin
+cari takvim yılı için belirlenmiş serbest tüketici limitinin altında kalan tüketici,
+        c) İlk defa bağlantı anlaşması yapılmış kullanım yerinde elektrik enerjisi tüketen tüketici.
+        (2) Serbest olmayan tüketiciler elektrik enerjisi ve/veya kapasiteyi sadece bulunduğu
+dağıtım bölgesindeki görevli tedarik şirketi ile perakende satış sözleşmesi yaparak temin eder.
+        (3) (Mülga:RG-20/2/2021-31401)
+        Son kaynak tedariki kapsamında tüketici ve elektrik tedariki
+        MADDE 8 – (1) Aşağıdaki koşullara sahip tüketiciler son kaynak tedariki kapsamındaki
+tüketici olarak kabul edilir;
+        a) Serbest tüketici niteliğini haiz olduğu hâlde elektrik enerjisini, son kaynak tedarikçisi
+olarak yetkilendirilen tedarik lisansı sahibi şirket dışında bir tedarikçiden temin etmeyen tüketici,
+        b) İkili anlaşma ile elektrik enerjisi ve/veya kapasite satın almakta olan bir serbest
+tüketicinin ikili anlaşmasının herhangi bir nedenle sona ermesi nedeniyle ilgili görevli tedarik
+şirketinden elektrik alan tüketici.
+        (2) İlgili görevli tedarik şirketi bu madde kapsamında yer alan tüketicilere son kaynak
+tedariği kapsamında elektrik enerjisi ve/veya kapasite sağlamakla yükümlüdür.
+                                               ÜÇÜNCÜ BÖLÜM
+                                                   İkili Anlaşma
+        İkili anlaşmanın tarafları
+        MADDE 9 – (1) Bu bölümde yer alan ikili anlaşmaya ilişkin usul ve esaslar, (Değişik
+ibare:RG-14/1/2025-32782) yıllık tüketimi 100.000 kWh’ın altında olan serbest tüketicilerle
+tedarikçiler arasında yapılan ikili anlaşmaları kapsar.
+        İkili anlaşma türleri ve genel esaslar
+        MADDE 10 – (1) Tedarikçiler (Değişik ibare:RG-14/1/2025-32782) 9 uncu maddenin
+birinci fıkrası kapsamındaki tüketicilere belirli süreli ya da belirsiz süreli ikili anlaşma önerebilir.
+        (2) Belirli süreli ikili anlaşmaların süresi üç yıldan fazla olamaz.
+        (3) İkili anlaşma ve ekleri ile Tüketici HaklarıBilgilendirme Formu (EK-1), İkili Anlaşma
+Ön Bilgilendirme Formu (EK-2-A)ve İkili Anlaşma Değişiklik Bildirimi (EK-3) en az on iki punto
+büyüklüğünde, anlaşılabilir bir dilde, açık, sade ve okunabilir bir şekilde düzenlenir.
+        (4) Tedarikçinin ikili anlaşmanın kurulmasına, yenilenmesine ve ikili anlaşmada değişiklik
+yapılmasına ilişkin önerisi karşısında tüketicinin susması veya açıkça reddetmemesi önerinin
+kabulü olarak yorumlanamaz ve aksi hükme ikili anlaşmada yer verilemez.
+        İkili anlaşmanın kapsamı
+        MADDE 11 – (1) İkili anlaşmada asgari aşağıdaki hususların yer alması zorunludur;
+        a) Tedarikçinin adı, unvanı, adresi MERSİSnumarası, vergi kimlik numarası, lisans
+numarası, tüketici hizmetleri merkezlerinin telefon ve faks numaraları ile internet ve elektronik
+posta adresleri,
+        b) Tüketicinin adı, soyadı, unvanı, adresi, T.C. kimlik veya vergi kimlik numarası, Türk
+vatandaşı olmayan kişiler için pasaport numarası veya uluslararası geçerliliği olan muadili belge
+numarası, bulunması halinde tüketicinin telefon numarası veya e-posta adresi,
+
+          c) İkili anlaşmanın kurulma tarihi ile elektrik enerjisi ve/veya kapasite satışının başlangıç
+tarihi,
+        ç) İkili anlaşmanın süresi,
+        d) Elektrik enerjisi ve/veya kapasite satışına esas fiyatlandırma,
+        e) Tahsilatında aracı olunan iletim ya da dağıtım bedeli ile uygulanan (Mülga ibare:RG-
+14/1/2025-32782) vergiler,
+        f) Güvence bedeli/teminat alımı ve uygulaması,
+        g) Faturanın zamanında ödenmemesi durumuna ilişkin uygulanması öngörülen gecikme faizi
+ile tarafların temerrüde düşmesinin hukuki sonuçları,
+        ğ) Faturalarda ve faturalandırmaya esas unsurlarda hata tespiti durumunda eksik veya fazla
+bedelin tahsili veya iadesine ilişkin hükümler,
+        h) İkili anlaşma kapsamında cayma hakkının kullanılmasına ve/veya ceza koşulunun
+uygulanmasına ilişkin şartlar, süre ve cayma bedeli ve/veya ceza koşulunun tutarı,
+        ı) İkili anlaşmanın yenilenmesi ya da süre uzatımı,
+        i) İkili anlaşmanın hükümlerinde değişiklik yapma,
+        j) İkili anlaşmanın sonlandırılması,
+        k) Tedarikçinin hak ve yükümlülükleri,
+        l) Tüketicilerin hak ve yükümlülükleri,
+        m) İkili anlaşmanın feshine ilişkin koşullar,
+        n) Şikâyetlerin çözümü,
+        o) İkili anlaşma uyuşmazlıklarında yetkili çözüm mercii.
+        (2) İkili anlaşma kapsamındaki hususlara ilişkin İşbu Yönetmelikte düzenlenen cayma hakkı,
+haklı fesih sebepleri, anlaşmanın yenilenmesi gibi hükümlere ikili anlaşmada açıkça yer verilir. İkili
+anlaşmada ve eklerinde ilgili mevzuata aykırı hükümlere yer verilemez. İkili anlaşmada yer alan
+ilgili mevzuata aykırı hükümler geçersizdir.
+        İkili anlaşma kurma
+        MADDE 12 – (1) Tedarikçi ikili anlaşma kurulmadan önce EK-1 ve EK-2’de yer alan
+standart formlarla açık ve anlaşılabilir bir şekilde kayıt altına almak suretiyle kağıt üzerinde veya
+kalıcı veri saklayıcısı ile tüketiciyi bilgilendirmek ve tüketicinin söz konusu bilgileri edindiğini teyit
+etmesini sağlamak zorundadır. Söz konusu bilgilendirmenin yapıldığına ve tüketici tarafından teyit
+edildiğine ilişkin ispat yükü tedarikçiye aittir. Bilgilendirmenin gereği gibi ya da hiç yapılmamış
+olması tüketici için haklı fesih sebebidir.
+        (2) (Değişik:RG-20/2/2021-31401) İ kili anlaşmalar yazılı veya mesafeli olarak
+kurulabilir. Yazılı olarak kurulan ikili anlaşma el yazısıyla atılan imza veya güvenli elektronik imza
+ile imzalanır. Tedarikçi tarafından ikili anlaşma ve eklerinin “aslının aynıdır” onaylı bir örneğinin
+anlaşmanın kurulduğu gün kağıt üzerinde veya kalıcı veri saklayıcısı ile (Değişik ibare:RG-
+14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki tüketiciye verilmesi zorunludur.
+        (3) Tedarikçi ikili anlaşma ve ekleri ile EK-1 ve EK-2’de dahil olmak üzere ikili anlaşmanın
+kurulmasına ilişkin bilgi ve belgeleri kağıt üzerinde veya kalıcı veri saklayıcısı ile ikili anlaşmanın
+sonlanmasını izleyen 3 yıl süresince saklar ve istendiğinde Kuruma ve yıl içerisinde bir defadan
+fazla olmamak üzere tüketiciye sunar. Tedarikçi bu kapsamda tüketiciden herhangi bir ücret talep
+edemez.
+        Cayma hakkı
+        MADDE 13 – (1) (De ğişik ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci
+fıkrası kapsamındaki tüketici, ikili anlaşmanın kurulduğu ya da yenilendiği tarihten itibaren 14 gün
+içerisinde herhangi bir gerekçe göstermeksizin ve cayma bedeli ödemeksizin telefonla, e-postayla
+veya yazılı olarak bildirim yapmak suretiyle anlaşmadan cayma hakkına sahiptir.
+        Belirli süreli ikili anlaşmanın süre bitiminde sona ermesi ve yenilenmesi
+        MADDE 14 – (1) Belirli süreli ikili anlaşma, anlaşmada belirlenen sürenin sonunda
+kendiliğinden sona erer. Tedarikçi ikili anlaşmanın sona ereceği tarihten en az 60 gün önce
+tüketiciyi ikili anlaşmanın sona ereceği tarih ve tüketicinin kendi portföyünden çıkartılacağı tarih
+konusunda kayıt altına almak suretiyle bilgilendirir.
+        (2) Belirli süreli ikili anlaşmada ikili anlaşmanın belirlenen süre kadar kendiliğinden
+yenileneceğine veya uzayacağına ilişkin hükümler konulamaz.
+        (3) Belirli süreli ikili anlaşmanın yenilenmesinde tedarikçi tarafından 12 nci madde
+hükümlerine göre işlem tesis edilir.
+        İkili anlaşma hükümlerinde değişiklik yapma
+        MADDE 15 –(1) Belirli süreli ikili anlaşmalarda anlaşma süresince anlaşma ve eklerinde
+tüketici aleyhine değişiklik yapılamaz.
+        (2) İkili anlaşmada tedarikçiye tüketici aleyhine tek taraflı değişiklik yapma yetkisi veren
+hükme yer verilemez. Tedarikçi ikili anlaşmaya ilişkin değişiklik önerisini kayıt altına almak
+suretiyle değişikliğin yürürlüğe gireceği tarihten en az 15 gün önce EK-3 formunu ve değişikliği
+içeren ikili anlaşmayı kayıt altına almak suretiyle tüketiciye iletir.
+        (3) Değişiklik önerisi, tüketicinin kabulüyle EK-3 formunda belirtilmiş olan tarihte yürürlüğe
+girer.
+        (4) İkili anlaşma hükümlerinde değişiklik yapma işleminin bu maddede düzenlenen şekilde
+yapıldığına ilişkin ispat yükü tedarikçiye aittir. Aksi takdirde söz konusu değişiklik yapılmamış
+sayılır.
+        Haklı fesih sebepleri
+        MADDE 16 –( 1) (De ğişik ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci
+fıkrası kapsamındaki tüketici, belirli süreli ikili anlaşmayı süresi sona ermeden önce aşağıda
+sayılanlarla sınırlı olmamakla birlikte aşağıdaki haklı sebeplerden bir veya birkaçına dayanarak
+
+cayma bedeli ve/veya ceza koşulu ödemeksizin önceden bildirim yapmak suretiyle feshedebilir;
+        a) İkili anlaşmanın kurulması, yenilenmesi ve ikili anlaşmada değişiklik yapma süreçlerinde
+tedarikçi tarafından yapılması gereken bilgilendirme veya bildirimler gereği gibi ya da hiç
+yapılmadığında,
+        b ) (Değişik ibare:RG-14/1/2025-32782) Tedarikçi, 9 uncu maddenin birinci fıkrası
+kapsamındaki tüketicinin ikili anlaşma kapsamında doğan alacağını işbu Yönetmelikte özel olarak
+düzenlenen süre içerisinde, diğer hallerde alacağın muaccel olduğu tarihten itibaren en geç 5 iş
+günü içerisinde ödemezse,
+        c) İkili anlaşmada belirtilen tedarikçinin portföyüne geçiş tarihinde tedarikçiden kaynaklanan
+nedenlerle tüketici tedarikçinin portföyüne geçirilmezse,
+        ç) (Değişik ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki
+tüketicinin başka bir kullanım yerine taşınması ya da başka bir kullanım yerine taşınmaksızın
+kullanım yerini tahliye etmesi halinde,
+        d) İlgili mevzuat kapsamında tedarikçi temerrüde düştüğünde,
+        e) İkili anlaşma kapsamındaki fatura, 32 nci maddenin üçüncü fıkrası hariç olmak üzere,
+dağıtım şirketince okunarak PYS’ye girilen endeks değerlerine göre düzenlenmezse.
+        (2) Tedarikçi, ikili anlaşmayı aşağıda sayılanlarla sınırlı olmamakla birlikte aşağıdaki haklı
+sebeplerden bir veya birkaçına dayanarak cayma bedeli ve/veya ceza koşulu ödemeksizin
+feshedebilir:
+        a) (Değişik ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki
+tüketici ikili anlaşmada belirlenen güvence bedelini süresi içerisinde ödemediğinde,
+        b) Kullanım yerinde usulsüz ya da kaçak elektrik enerjisi tüketildiğinde,
+        c) Tüketiciye ilişkin iflasının kesinleşmesi ve tasfiye memuru atanması hallerinde.
+        (3) (Değişik ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki
+tüketici belirsiz süreli ikili anlaşmayı herhangi bir gerekçe göstermeksizin ve cayma bedeli ve/veya
+ceza koşulu ödemeksizin istediği zaman feshedebilir.
+        İkili anlaşmanın sonlandırılmasına ilişkin süreç
+        MADDE 17 – (1) 16 ncı madde kapsamında feshe ilişkin bildirim 13/1/2011 tarihli ve 6102
+sayılı Türk Ticaret Kanununun 18 inci maddesinin üçüncü fıkrası saklı kalmak kaydıyla, kayıt
+altına alınmak suretiyle telefonla, e-postayla veya yazılı olarak yapılabilir. Bildirimlerin tedarikçi
+tarafından alındığı tarih bildirim yapma tarihidir.
+        ( 2) (Değişik:RG-20/2/2021-31401) İkili anlaşmanın tahliye nedeniyle sonlandırılması
+halinde tedarikçi dağıtım şirketini bilgilendirir. Dağıtım şirketi kentsel ve kentaltı dağıtım bölgesinde
+bildirimi izleyen en geç 1 gün içerisinde, kırsal dağıtım bölgesinde bildirimi izleyen en geç 2 gün
+içerisinde son endeks değerlerini alarak kullanım yerinin elektriğini keser. Endeks değerlerinin
+alınmasını izleyen gün içerisinde bu değerler tedarik şirketine bildirilir.
+        İkili anlaşma kapsamında yer alacak bedeller
+        MADDE 18 – (1) İkili anlaşma kapsamında elektrik enerjisi ve kapasite satışına ilişkin
+aktif enerji bedeli ile tahsilatına aracı olunan ilgili mevzuat gereği uygulanan dağıtım sistem
+kulanım bedeli ve diğer mevzuat gereği (Mülga ibare:RG-14/1/2025-32782) vergiler ile bunun
+dışında Kurulca onaylanmış ve tahsilinde aracı olunan bedeller de yer alır. Tahsilatına aracı olunan
+bu bedellerin neler olduğu ile bunların anlaşmanın düzenlendiği tarihteki tutarı ve değişmesi
+durumunda yeni tutarların tüketiciye ne şekilde bildirileceğine ilişkin bilgiye ikili anlaşmada yer
+verilir. (EK-2-B)
+        (2) Tedarikçi ikili anlaşma kapsamında yapacağı elektrik enerjisi ve/veya kapasite satışı için
+tek ya da çok zamanlı dilimlerinde olmak üzere aktif enerji bedelini kr/kWh olarak fiyatlandırır.
+Fiyatlandırma yönteminde düzenlemeye tabi fiyatlarla mukayese edebilirlik esas alınır. (Ek
+cümle:RG-14/1/2025-32782) Tüketici, ikili anlaşma kurulmadan önce EK-2-B’de yer alan
+Fiyat Karşılaştırma Tablosu formatlarından uygun olanı düzenlenmek suretiyle bilgilendirilir.
+        Güvence bedeli
+        MADDE 19 – (1) Tedarikçi, (Değişik ibare:RG-14/1/2025-32782) 9 uncu maddenin
+birinci fıkrası kapsamındaki tüketiciden elektrik enerjisi ve/veya kapasite satışına ait ödeme
+yükümlülüğünü yerine getirmeme riskine karşılık güvence bedelini anlaşma yapılırken nakit ya da
+teminat mektubu olarak talep edebilir. Güvence bedelinin peşin ya da taksitlendirme yoluyla alınıp
+alınmayacağı ve ne zaman talep edileceğine ilişkin hususlar ikili anlaşmada açıkça ifade edilir.
+        (2) Güvence bedeli talebinde aşağıda belirtilen hususlar dikkate alınabilir. Tüketicinin;
+        a) Geçmiş 12 aylık fatura dönemine ait ödeme bilgisinin olmaması,
+        b) Fatura ödemelerinin düzensiz olması,
+        c) Zamanında ödenmeyen borçtan elektriğinin kesilmiş olması.
+        (3) Güvence bedelinin iadesinde; kullanım yerinin son endeks okuma bilgileri tedarikçiye
+bildirildikten sonra, nakit tahsil edilen güvence bedeli asgari TÜFE oranı dikkate alınarak
+güncellenir. Güncelleme yapılmasını takiben, (Değişik ibare:RG-14/1/2025-32782) 9 uncu
+maddenin birinci fıkrası kapsamındaki tüketicinin söz konusu ikili anlaşmasına ilişkin tedarikçiye
+olan tüm borçlarının ödenmesinden sonra varsa güncellenmiş güvence bedelinin bakiyesi,
+anlaşmanın sona erme tarihinden itibaren en geç 5 iş günü içerisinde tüketicinin talep ettiği ödeme
+şekline göre iade edilir. İade için, borcun ödenmesi dışında, herhangi bir koşul ileri sürülemez ve
+belge istenemez. Zamanında iade edilmeyen güvence bedeli için bu Yönetmelikte belirtilen
+gecikme faizi uygulanır.
+        (4) Nakit güvence bedeli tahsili, şirket vezneleri ve müşteri hizmet merkezleri dışında elden
+yapılamaz.
+        Ceza koşulu/cayma bedeli
+        MADDE 20 – (1) Belirli süreli ikili anlaşmada tedarikçi ya da (Değişik ibare:RG-
+
+14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki tüketici aleyhine ceza koşulu
+ancak haksız fesih işlemleri için kararlaştırılabilir. Haksız fesih, haklı bir sebebe dayanmaksızın
+yapılan fesihtir.
+        (2) 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili ikincil
+mevzuat kapsamındaki tüketiciler ha r iç (Değişik ibare:RG-14/1/2025-32782) 9 uncu
+maddenin birinci fıkrası kapsamındaki tüketicinin ödeyeceği cayma bedeli ve/veya ceza koşulu
+cayma tarihi ya da fesih tarihi öncesi tüketicinin son 12 aylık tüketim toplamı ile cayma tarihinde
+ya da fesih tarihinde uygulanan fiyat esas alınarak hesaplanan toplam tutarın % 10’unu geçemez.
+        (3) Tedarikçi tarafından anlaşmanın haksız feshedilmesi durumunda tedarikçi (Değişik
+ibare:RG-14/1/2025-32782) 9 uncu maddenin birinci fıkrası kapsamındaki tüketiciye ikinci fıkra
+kapsamında belirlenen tutarda ceza koşulu öder.
+                                             DÖRDÜNCÜ BÖLÜM
+                                          Perakende Satış Sözleşmesi
+        Perakende satış sözleşmesi başvurusu
+        MADDE 21 – (1) (Değişik:RG-20/2/2021-31401) Perakende satış tarifesi veya son
+kaynak tedarik tarifesinden elektrik enerjisi ve/veya kapasite almak isteyen gerçek veya tüzel
+kişiler, ilgili görevli tedarik şirketine yazılı veya şirketin kurumsal iletişim kanalları ya da e-Devlet
+kapısı aracılığıyla başvuruda bulunur. Başvuru sırasında bu madde hükümlerince belirlenen bilgi ve
+belgeler sunulur. Sözleşmeye konu kullanım yeri için görevli tedarik şirketinde ve dağıtım
+şirketinde mevcut olan bilgi ve belgeler, başvuru sahibinden ayrıca istenmez. Görevli tedarik
+şirketince istenmesi halinde dağıtım şirketi kullanım yeri ile sayaç ve ölçü sistemlerine ilişkin
+bilgileri vermek zorundadır. (Değişik cümle:RG-14/1/2025-32782) Kullanım yerinde geçerli
+bir perakende satış sözleşmesi bulunan yerler için gerekli belge kontrolü ve ispat yükümlülükleri
+şirkete ait olmak üzere şirketin kurumsal iletişim kanalları ya da e-Devlet kapısı aracılığıyla
+başvuru alınabilir.
+        ( 2) (Değişik:RG-20/2/2021-31401) Birinci fıkra kapsamındaki tüm başvurular kayıt
+altına alınır. Görevli tedarik şirketi usulüne uygun olarak yapılan başvuruları, şirketin mesai
+saatleri dışında yapılması halinde en geç takip eden ilk iş günü, diğer hallerde aynı gün içerisinde
+sonuçlandırır.
+        (3) Birinci ve ikinci fıkra kapsamında yapılan başvuruda, başvuru sahibinden, perakende
+satış sözleşmesinde yer verilmek üzere;
+        a) Başvuru sahibinin gerçek kişi olması halinde T.C. kimlik numarasını, Türk vatandaşı
+olmayan kişiler için pasaport numarasını veya uluslararası geçerliliği olan muadili (Değişik
+ibare:RG-14/1/2025-32782) belge numarasını ya da Türkiye’de yasal kalış hakkı sağlayan
+belgelerin adı ve numarasını, ulusal kimlik bilgilerini, elektrik kullanılacak yerin adresi ile
+mülkiyetinin kime ait olduğunu ve kullanım yerini hangi sıfatla kullandığını,
+        b) İşyeri açan gerçek ve tüzel kişilerden, (a) bendine ek olarak, ayrıca ticaret unvanlarını,
+vergi kimlik numaralarını, bağlı bulundukları vergi dairesini, ticaret sicil numaralarını ve ticaret sicil
+kaydını yaptıkları ticaret sicil memurluğunun adını,
+        beyan etmesi istenir. Perakende satış sözleşmesi başvurusu yapan gerçek ve tüzel
+kişilerden kimlik fotokopisi, ikametgâh belgesi, tapu fotokopisi, kira sözleşmesi, daha önce
+kullanımda bulunduğu yerde elektrik borcunun olmadığını gösterir “borcu yoktur” belgesi, ticaret
+sicil gazetesi, vergi levhası veya vergi numarasını gösterir belge istenmez. Perakende satış
+sözleşmesinde bahsi geçen binanın veya tesisin mülkiyetinin kime ait olduğu konusunda da
+tüketicinin beyanı esas alınır ve bu hususta ayrıca bir belge istenmez. (Ek cümle:RG-14/1/2025-
+32782) Ancak, iş yeri açan gerçek ve tüzel kişilerden, başvuru yapılan kullanım yerinde önceki
+tüketiciye ait tüketim borcu veya kaçak elektrik tüketim borcu olması hâlinde, başvuru yapılan
+kullanım yerine ilişkin başvuru yapan kişi adına ilgili belediyeden alınan iş yeri açma ruhsatı veya iş
+koluna göre ilgili kurum ve kuruluşlardan alınan ruhsat ya da ilgili belgeleri ibraz etmesi istenebilir.
+        (4) Üçüncü fıkra kapsamında beyan edilen kimlik bilgileri, Nüfus ve Vatandaşlık İşleri
+Genel Müdürlüğünün kurumsal internet sitesi üzerinden T.C. kimlik numarası doğrulaması yoluyla
+veya başvuru sahibinin nüfus cüzdanı istenip doğrudan kontrol edilerek teyit edilebilir. İşyeri açan
+talep sahiplerinin vergi kimlik numaraları Gelir İdaresi Başkanlığınınkurumsal internet sitesi
+üzerinden e-vergi levhası sorgulaması yoluyla ticaret sicil bilgileri ise Ticaret Sicil Gazetesi
+Müdürlüğünün kurumsal internet sitesi üzerinden ticaret sicil sorgulaması ( E k ibare:RG-
+14/1/2025-32782) yoluyla veya bulunması halinde Ticaret Bakanlığı kurumsal internet sitesi
+üzerinden MERSİS numarası doğrulaması yoluyla teyit edilir. (Ek cümle:RG-14/1/2025-32782)
+Yabancılar için beyan edilen bilgilerin doğruluğunu teyit etmek amacıyla, Türkiye’de yasal kalış
+hakkına ilişkin bilgi ve belgeler talep edilir.
+        (5) Tedarikçisi ve tüketici grubu aynı kalmak kaydıyla perakende satış sözleşmesi
+kapsamında elektrik enerjisi tedarik etmekteyken, kullanım yerini değiştiren tüketicinin bir önceki
+kullanım yerine ait elektrik enerjisi tüketiminden kaynaklanan yükümlülüklerini yerine getirmesi
+zorunludur. Bu yükümlülükler yerine getirilmeden yeni bir perakende satış sözleşmesi
+imzalanamaz.
+        (6) Perakende satış sözleşmesi imzalandıktan sonra, bu madde kapsamında beyan edilen
+bilgilerin doğruluğuna ilişkin üçüncü bir şahıs tarafından görevli tedarik şirketine bir şikâyette
+bulunulması halinde, görevli tedarik şirketi tarafından tüketiciye perakende satış sözleşmesi
+yapıldığı tarihteki beyanını kanıtlayıcı bir belgeyi, bildirim tarihinden itibaren 10 iş günü içerisinde
+sunması gerektiği ve aksi halde sözleşmesinin iptal edilerek elektriğinin kesileceği (Ek ibare:RG-
+14/1/2025-32782) yazılı olarak veya tüketicinin iletişim bilgisi bulunması halinde kalıcı veri
+saklayıcısı ile bildirilir. Tüketicinin perakende satış sözleşmesi yapıldığı tarihteki beyanını kanıtlayıcı
+
+bir belgeyi bu süre içerisinde görevli tedarik şirketine sunmaması halinde, tüketicinin gerçeğe
+aykırı beyanda bulunduğu kabul edilir ve söz konusu tüketicinin perakende satış sözleşmesi iptal
+edilir. (Ek cümleler:RG-14/1/2025-32782) B u fıkra kapsamında perakende satış sözleşmesi
+sonlanan kullanım yerine, aynı tüketici tarafından yeni bir perakende satış sözleşmesi başvurusu
+yapılması halinde kişinin kullanım yerinin kullanım hakkına sahip olduğunu gösteren belge sunması
+istenir. Kullanım hakkına sahip olduğunu belgelendiren tüketiciler hakkında bu fıkra kapsamında
+yapılan itirazlar dikkate alınmaz.
+        (7) Sekizinci maddenin birinci fıkrasının (b) bendi kapsamındaki serbest tüketici ile görevli
+tedarik şirketi arasındaki perakende satış sözleşmesi son kaynak tedariki kapsamında elektrik
+enerjisi ve/veya kapasite temininin başladığı tarihte kurulur ve yürürlüğe girer. Görevli tedarik
+şirketinin veya tüketicinin isteği halinde perakende satış sözleşmesi el yazısıyla atılan imza veya
+güvenli elektronik imza ile imzalanabilir.
+        a) Görevli tedarik şirketi son kaynak tedariki kapsamında tüketiciye elektrik teminine
+başladığı tarihten itibaren 2 iş günü içinde kayıt altına almak suretiyle kısa mesaj, telefon, e-posta
+veya posta yoluyla aşağıda belirtilen hususlarda bildirimde bulunur:
+        1) Son kaynak tedariki kapsamında elektrik tedarikinin görevli tedarik şirketince yapılacağı
+ve görevli tedarik şirketine ait unvan, adres ve iletişim bilgileri,
+        2) Son kaynak tedarikinin başladığı tarih,
+        3) Tüketicinin son kaynak tedariki kapsamında elektrik tedarikinin başladığı tarih itibarıyla
+perakende satış sözleşmesinin tarafı olduğu,
+        4) Kurul onaylı son kaynak tarifesine tabi tutulacağı,
+        5) Güvence bedelini ödemek ve perakende satış sözleşmesine esas güncel kimlik, adres ve
+iletişim bilgilerini bildirmek üzere bu bildirimin yapıldığı tarihten itibaren 10 iş günü içinde görevli
+tedarik şirketine başvurmak zorunda olduğu aksi takdirde elektriğin kesilebileceği,
+        6) Tüketicinin perakende satış sözleşmesini herhangi bir gerekçe göstermeksizin ve ceza
+koşulu ödemeksizin istediği zaman feshedebileceği.
+        b) Tüketicinin ilgili görevli tedarik şirketine öngörülen süreler içinde başvurarak güvence
+bedeli ödeme ile kimlik, adres ve iletişim bilgilerini bildirmeye ilişkin yükümlülüğünü yerine
+getirmemesi halinde elektriği kesilebilir.
+        c) Perakende satış sözleşmesinin “aslının aynıdır” onaylı bir örneği perakende satış
+sözleşmesi yürürlüğe girdiği tarihten itibaren 15 iş günü içerisinde tüketiciye verilir.
+        ç) Bu madde kapsamında yapılan işlemler ayrı maliyet tabloları oluşturularak izlenir.
+        Perakende satış sözleşmesinin kurulması
+        MADDE 22- (Başlığı ile Birlikte Değişik:RG-14/1/2025-32782)
+        (1) Perakende satış sözleşmesi yazılı veya mesafeli olarak kurulabilir.
+        (2) Yazılı olarak kurulmak istenen perakende satış sözleşmesi, sözleşme ekinde yer alan
+Sözleşme Kurma Formunun el yazısıyla veya güvenli elektronik imza ile imzalanmasıyla kurulur.
+Formun bir nüshası, sözleşmenin kurulduğu gün kağıt üzerinde veya kalıcı veri saklayıcısıyla ilgili
+tüketiciye verilir. Tüketicinin talep etmesi halinde sözleşme, tamamının tüketiciye sunulması ve
+imzalanmasıyla kurulur.
+        (3) Sözleşme örneği ve ekleri, tüketici talebine göre elektronik postayla ya da sözleşme
+süresince görüntülenmek üzere kısa mesaj aracılığıyla gönderilir. İlgili sözleşme ve ekleri
+TÜBİTAK Kamu Sertifikasyon Merkezi tarafından sağlanan zaman damgası ile saklanır.
+        ( 4) Görevli tedarik şirketi kurulan sözleşmeleri kayıt altına almak suretiyle aynı gün
+içerisinde dağıtım şirketine bildirir.
+        (5) Sözleşmenin kurulmasına dair ispat yükümlülüğü görevli tedarik şirketine aittir.
+        Perakende satış sözleşmesinin kapsamı
+        MADDE 23 – (1) Perakende satış sözleşmesi, görevli tedarik şirketlerinin görüşleri
+alınmak suretiyle bu Bölüm hükümleri uyarınca standart sözleşme olarak Kurul tarafından
+belirlenir ve Kurul onayı alınmaksızın bu sözleşmede değişiklik yapılamaz. Standart sözleşme,
+görevli tedarik şirketleri ile Kurumun internet sitesinde yayımlanır. Perakende satış sözleşmesinde
+asgari aşağıdaki hususlara yer verilir:
+        a) Tüketicinin adı soyadı, unvanı, adresi, T.C. kimlik veya vergi kimlik numarası, ticaret
+siciline kayıtlı tüzel kişiyse MERSİS numarası, tekil kod veya EIC, Türk vatandaşı olmayan kişiler
+için pasaport numarası veya uluslararası geçerliliği olan muadili belge numarası,
+        b) Tüketici numarası,
+        c) Bağlantı anlaşmasında yer alan anlaşma gücü,
+        ç) Tüketici grubu,
+        d) Tarife sınıfı,
+        e) Sayaç ve ölçüm sistemi bilgileri,
+        f) Sözleşmenin kuruluş ve yürürlüğe giriş tarihi,
+        g) Ödemeye ilişkin bilgiler,
+        ğ) Güvence bedeline ilişkin bilgiler,
+        h) Tarafların hak ve yükümlülükleri,
+        ı) Bağlantı anlaşmasında yer alan tesisat numarası,
+        i) Sözleşmenin süresi,
+        j) Sözleşmenin feshine ilişkin hükümler,
+        k) Perakende satış sözleşmesinde yer verilen ve tüketicinin beyanına dayanan bilgiler ile
+ilgili olarak, gerçeğe aykırı beyanda bulunulduğunun tespit edilmesi halinde, sözleşmenin iptal
+edileceği hususu,
+        l) Bulunması halinde, ilgili gerçek veya tüzel kişinin telefon numarası ile e-posta adresi.
+        (2) Perakende satış sözleşmesinde ilgili mevzuata aykırı hükümlere yer verilemez.
+
+        Perakende satış sözleşmesinin süresi ve sona erme
+        MADDE 24 – (1) Geçici kullanım amaçlı bağlantılar için yapılan perakende satış
+sözleşmeleri hariç olmak üzere, perakende satış sözleşmesinde süre sınırı bulunmaz.
+        (2) (Değişik:RG-20/2/2021-31401) Perakende satış sözleşmesi sonlandırma başvurusu
+şirketin kurumsal iletişim kanalları ya da e-Devlet kapısı aracılığıyla, güvenli elektronik imzayla ya
+da yazılı olarak EK-4/B formu kullanılarak yapılır. EK-4/B formu, el yazısıyla atılan imza veya
+güvenli elektronik imza ile imzalanır. Şirketin kurumsal iletişim kanalları veya e-Devlet kapısı
+aracılığıyla yapılan başvurularda EK-4/B formunda imzaya yer verilmez; doğrulama kodu
+kullanılarak işlem yapılır. Görevli tedarik şirketi, perakende satış sözleşmesi sonlandırma
+başvurusunu şirketin mesai saatleri içerisinde yapılması halinde aynı gün içerisinde, şirketin mesai
+saatleri dışında yapılması halinde en geç izleyen iş günü içerisinde dağıtım şirketine bildirir.
+Dağıtım şirketi kentsel ve kentaltı dağıtım bölgesinde bildirimi izleyen en geç bir gün içerisinde,
+kırsal dağıtım bölgesinde bildirimi izleyen en geç 2 gün içerisinde son endeks değerlerini alarak
+kullanım yerinin elektriğini keser. En geç, endeks değerlerinin alınmasını izleyen gün içerisinde bu
+değerler görevli tedarik şirketine bildirilir. Sözleşme, elektriğin kesildiği tarihte sona erer.
+        (3) Tüketicinin 5 günden az olmamak üzere ileri tarihli sonlandırma talebi olması halinde
+görevli tedarik şirketi perakende satış sözleşmesinin sona erdirileceği tarihin en az 2 gün
+öncesinden, ilgili dağıtım şirketine, kayıt altına alınmak suretiyle, bilgi vermekle yükümlüdür.
+Dağıtım şirketi, ilgili kullanım yerinin sayaç değerlerini okuyarak, sözleşmenin sona erdirilmesinin
+talep edildiği tarihte kullanım yerinin elektrik enerjisini keser. Endeks değerlerinin alınmasını
+izleyen gün içerisinde bu değerler görevli tedarik şirketine bildirilir.
+        ( 4 ) (Değişik:RG-20/2/2021-31401) Tedarikçi değişikliği yapmak isteyen tüketiciler
+tarafından doldurulan EK-4/A formu tüketicinin yeni tedarikçisi veya tüketici tarafından PYS
+kesinleşme tarihinden itibaren 10 gün içerisinde görevli tedarik şirketine sunulur. EK-4/A formunu
+tedarikçinin sunması durumunda tüketicinin mevcut tedarikçisine bildirim ispatı yeni tedarikçiye
+aittir. Perakende satış sözleşmesi elektrik enerjisinin ve/veya kapasite temininin başladığı tarihte
+sona erdirilir. EK-4/A formunun görevli tedarik şirketine sunulmamasına karşın PYS üzerinden
+yeni tedarikçiye geçişin gerçekleşmesi halinde perakende satış sözleşmesi elektrik enerjisinin
+ve/veya kapasite temininin başladığı tarihte sona ermiş sayılır. İkili anlaşmanın mesafeli olarak
+kurulması halinde EK-4/A formunda imza şartı aranmaz. EK-4/A formuyazılı ya da kalıcı veri
+saklayıcısıyla görevli tedarik şirketine gönderilir.
+        (5) Bir önceki tüketicinin perakende satış sözleşmesini sonlandırmadan veya sonlandırarak
+ayrılması ve farklı bir gerçek veya tüzel kişinin, aynı kullanım yeri için yeni bir perakende satış
+sözleşmesi ya da ikili anlaşma başvurusunda bulunması halinde görevli tedarik şirketi tarafından;
+        a) Önceki tüketicinin ödenmemiş borçlarının bulunması halinde, söz konusu borçlar, ilgili
+tüketicinin güvence bedelinden düşülmek suretiyle karşılanır ve ilgili sözleşme sona erdirilir.
+        b) Güvence bedelinin ödenmemiş borçları karşılamaması halinde, (a) bendi kapsamında
+işlem yapılır ve kalan borç önceki tüketiciden tahsil edilir.
+        c) Bu Yönetmelik hükümleri uyarınca gerekli olan bilgi ve belgelerin sunulması kaydıyla,
+yeni başvuru sahibiyle perakende satış sözleşmesi düzenlenir.
+        (6) Beşinci fıkra kapsamında, bir önceki tüketicinin perakende satış sözleşmesini
+sonlandırmadan kullanım yerinden ayrılması halinde, görevli tedarik şirketi, yeni başvuru
+sahibinden söz konusu kullanım yerinin kullanım hakkına sahip olduğunu belgelemesini ister.
+        (7) Bu maddede belirtilen hususlar dışında, sözleşmenin hangi hallerde sona erdirileceği,
+perakende satış sözleşmesinde düzenlenir.
+        ( 8) (Ek:RG-14/1/2025-32782) Beşinci fıkra kapsamında, perakende satış sözleşmesi
+sonlandırılan tüketici tarafından ilgili kullanım yerinin kullanım hakkının devam ettiğinin
+belgelendirilmesi halinde, yeni perakende satış sözleşmesi sonlandırılır ve eski perakende satış
+sözleşmesinin sonlandırılması işlemi iptal edilir. Aynı kullanım yeri için aynı kişi tarafından tekrar
+perakende satış sözleşmesi başvurusunda bulunulması halinde, başvuru sahibinin kullanım
+yerindeki tüketicinin perakende satış sözleşmesini sonlandırmadan ayrıldığını belgelemesi koşulu ile
+perakende satış sözleşmesi kurulur.
+        Güvence bedelinin talep edilmesi
+        MADDE 25 –(1) Görevli tedarik şirketi, kullanım yerinin değişmesi ve/veya perakende
+satış sözleşmesinin sona ermesi veya sözleşmenin feshi halinde, tüketicinin elektrik enerjisi tüketim
+bedelini ödememesi ihtimaline karşılık olarak, borcuna mahsup etmek üzere güvence bedeli talep
+eder.
+        (2) 30 uncu maddede sayılanlar hariç olmak üzere, yapılacak yeni perakende satış
+sözleşmelerinde tüm tüketiciler güvence bedeli kapsamına dahildir.
+        Güvence bedelinin hesaplanması
+        MADDE 26 – (Değişik:RG-20/2/2021-31401)
+        ( 1 ) (Değişik ibare:RG-14/1/2025-32782) P erakende satış sözleşmesi kapsamında
+güvence bedeli, tesisin veya kullanım yerinin gücü dikkate alınarak, tüketici grupları itibarıyla kW
+başına belirlenen birim bedel üzerinden hesaplanır.
+        (2) Tüketicinin güvence bedelinin hesaplanmasına esas olacak güç (kW) miktarı, tüketicinin
+tabi olduğu tarife sınıfına göre;
+        a) Tek terimli tarife sınıfına tabi tüketicilerde bağlantı gücü,
+        b) Çift terimli tarife sınıfına tabi tüketicilerde ise sözleşme gücü (talep edilen güç),
+        dikkate alınarak belirlenir.
+        (3) İkinci fıkra kapsamında yapılan hesaplamalarda;
+        a) Kurulu güç, bir kullanım yerinin elektrik projesinde belirtilen toplam güçtür. Özel
+transformatörlü tüketicilerde transformatörlerin toplam gücüdür.
+
+        b) Bağlantı gücü, kurulu gücün kullanma faktörü ile çarpılması suretiyle hesaplanan güçtür.
+Kullanma faktörü 0,60 olarak alınır. Özel transformatörlü tüketicilerde cos φ=1 kabul edilir.
+        c) Kurulu güç ile bağlantı gücündeki ondalık kısımdaki 2 basamağa kadar olan kesirli sayılar
+da dikkate alınır.
+        ç) Bağlantı gücü, 5 kW’nın altında olamaz.
+        (4) Güvence bedelleri, TÜİK tarafından yayımlananTÜFE değişim oranları da dikkate
+alınarak, Kurul kararı ile belirlenir. Kurul gerekli görmesi halinde, her bir görevli tedarik şirketi için
+farklı güvence bedelleri belirleyebilir.
+        (5) Sözleşme gücü veya bağlantı gücü 100 kW’nın altında olup borcunu ödemediği için
+perakende satış sözleşmesi feshedilmiş olan tüketicilerden yeniden perakende satış sözleşmesi
+imzalayarak elektrik enerjisi satın alacaklara, içinde bulundukları yıla ait güvence bedelinin yüzde
+elli fazlası uygulanır.
+        (6) Bu Yönetmeliğin yürürlüğe girdiği tarihten sonra sözleşme gücü veya bağlantı gücü 100
+kW ve üzerinde olan mesken tüketici grubu dışındaki tüketicilerle;
+        a) İlk defa perakende satış sözleşmesi yapılması,
+        b) Borcunu ödemediği için perakende satış sözleşmesinin sona erdirilmesi nedeniyle yeniden
+perakende satış sözleşmesi yapılması,
+        c) İkili anlaşması herhangi bir nedenle sona eren tüketicilerle son kaynak tedariki
+kapsamında perakende satış sözleşmesi yapılması,
+          hallerinde uygulanacak güvence bedeli için, ilgili tüketicinin varsa sözleşme tarihinden
+önceki yoksa sözleşme tarihinden sonraki son 12 aydaki en yüksek 2 aylık tüketiminin günlük
+tüketim ortalaması hesaplanır. Toplam 60 günlük ortalama tüketim miktarı ve perakende satış
+sözleşmesinin kurulduğu tarihe ait düzenlemeye tabi tarifeler kapsamında onaylanan tek zamanlı
+birim fiyatlar kullanılarak, güvence bedeli bir kereye mahsus yeniden belirlenir. (Ek cümle:RG-
+14/1/2025-32782) Tüketicinin son kaynak tedarik tarifesi kapsamında yüksek tüketimli tüketici
+olması halinde perakende satış sözleşmesinin kurulduğu aydaki ilgili birim bedeller esas alınır.
+Tüketicinin sözleşme tarihinden önceki son 12 aydaki tüketim miktarına ilişkin bilgilerin görevli
+tedarik şirketinde bulunmaması halinde söz konusu bilgiler ilgili dağıtım şirketinden temin edilir.
+İlgili şirket, görevli tedarik şirketi tarafından kendisine iletilen talebi, 3 iş günü içerisinde
+cevaplamakla yükümlüdür. Tüketim bilgisinin 12 ayı içermemesi ya da ilk defa perakende satış
+sözleşmesi yapılması halinde güvence bedeli, tüketim bilgisinin temin edilmesine kadar birinci
+fıkraya göre belirlenir. Hesaplanan fark tutar, tüketim faturasından bağımsız olarak yazılı ve kalıcı
+veri saklayıcısıyla yapılan bildirimi takip eden 15 gün içerisinde tüketici tarafından görevli tedarik
+şirketine ödenir. Daha önce birinci fıkraya göre hesaplanarak tahsil edilmiş nakit güvence bedeline
+dair TÜFE güncellemesi söz konusu tutarın tüketiciye ödenmesi durumunda yapılır.
+        Güvence bedelinin verilme şekli
+        MADDE 27 – (Değişik:RG-20/2/2021-31401)
+        (1) Güvence bedeli, nakit ya da Bankacılık Düzenleme ve Denetleme Kurumu tarafından
+teminat vermesi uygun bulunmuş finans kuruluşlarınca düzenlenen süresiz ve kesin teminat
+mektubu olarak verilebilir. Ancak mesken tüketici grubundaki tüketiciler güvence bedelini sadece
+makbuz karşılığında nakit olarak verir. Fatura ödemelerini DBS ile ödemek üzere görevli tedarik
+şirketinin anlaşmalı olduğu bankalarla sözleşme yapan tüketicilerden güvence bedeli istenmez.
+Tüketicinin DBS sözleşmesinin sonlanması halinde tüketici tarafından sonlanma tarihinden itibaren
+15 gün içerisinde 26 ncı maddeye göre hesaplanan güvence bedeli nakit ya da teminat mektubu
+olarak görevli tedarik şirketine verilir.
+        (2) (Değişik:RG-14/1/2025-32782) Nakit olarak verilecek güvence bedelinin tamamının
+peşin olarak verilmesi esastır. Ancak tüketicinin talebi halinde, güvence bedeli mesken tüketici
+grubunda bulunan tüketiciler ile kamu ve özel hizmetler sektörü ile diğer tüketici grubunda yer alan
+üniversiteler, belediyeler ve tarımsal faaliyetler tüketici grubunda yer alan sulama kooperatifleri
+için aylık iki eşit taksitte, diğer tüketici grupları için ilk taksit peşin, ikinci taksit en az 30 gün sonra
+tahsil edilir. Görevli tedarik şirketi, bu fıkra kapsamında taksit talebinin olup olmadığını tüketiciye
+sormakla yükümlüdür.
+        (3) Nakit olarak verilecek güvence bedeli tahsilatı şirket veznesi, posta, elektronik fon
+transferi, havale ve benzeri yollarla ödenebilir.
+        (4) Mesken tüketici grubu dışındaki tüketicilerden, güvence bedelini daha önce nakit olarak
+vermiş olanların, talep etmeleri halinde, nakit güvence bedelleri teminat mektubuyla değiştirilir ve
+güncelleştirilen güvence bedeli 5 iş günü içerisinde tüketiciye iade edilir. Birinci fıkra kapsamında
+DBS sözleşmesi bulunantüketicilere talep etmeleri halinde 5 iş günü içerisinde teminat mektubu
+iade edilir ya da güncelleştirilen güvence bedeli aynı süre içerisinde geri ödenir.
+        (5) Güvence bedelini teminat mektubu olarak veren tüketicilerin tüketici gruplarına ait
+güvence birim bedellerinde değişiklik olması halinde, değişikliğin yürürlüğe girdiği tarihten itibaren
+şirketçe güvence bedelleri yeni birim bedeller ve bağlantı veya sözleşme gücü dikkate alınarak
+yeniden hesaplanır. Tüketiciler, tercihlerine göre, hesaplanan fark tutarı ya da toplam tutarı yazılı
+ve kalıcı veri saklayıcısıyla yapılan bildirimi takip eden 15 gün içerisinde nakit ya da teminat
+mektubu olarak görevli tedarik şirketine verir.
+        (6) Bu madde kapsamında güvence bedelinin ya da fark güvence bedelinin süresi içerisinde
+ödenmemesi halinde gecikme zammı işletilmez; 35 inci madde hükümlerine göre işlem tesis edilir.
+        Güç değişikliğinde fark güvence bedelinin verilmesi
+        MADDE 28 – (1) 25 inci ve 26 ncı madde hükümleri dikkate alınarak kullanım yerindeki
+güç artırımı karşılığında alınması öngörülen fark güvence bedeli tüketicinin bağlı olduğu tüketici
+grubunun yürürlükteki güvence birim bedeli üzerinden hesaplanır.
+        ( 2 ) (Değişik:RG-20/2/2021-31401) 26 ncı maddenin altıncı fıkrası kapsamındaki
+
+kullanım yerleri için yapılan güç artırımı sonrasında fark güvence bedeli, güç artırımı sonrasındaki
+ilk on iki aydaki en yüksek 2 aylık tüketimin ortalama günlük tüketimine göre 26 ncı maddenin
+altıncı fıkrasında belirtilen yöntem dikkate alınarak yeniden hesaplanır.
+        (3) Güç artırımı yapıldığının dağıtım şirketi tarafından görevli tedarik şirketine bildirilmesi
+halinde, hesaplanan fark güvence bedeli, yapılacak bildirimi takip eden otuz gün içerisinde tüketici
+tarafından görevli tedarik şirketine verilir.
+        (4) Çift terimli tarifeye tabi tüketicinin;
+        a) Sözleşme gücünü düşürmesi durumunda fark güvence bedeli iadesi yapılmaz.
+        b) Sözleşme gücünü düşürdükten sonra tekrar sözleşme gücünü ilk değerine yükseltmesi
+halinde, bu değişiklikten dolayı fark güvence bedeli talep edilemez.
+        (5) (Değişik:RG-20/2/2021-31401) Mesken tüketici grubundaki tüketiciler fark güvence
+bedelini nakit olarak verir. Diğer tüketici gruplarındaki tüketiciler tercihlerine göre, hesaplanan
+fark tutar ya da toplam tutarı yazılı ve kalıcı veri saklayıcısıyla yapılan bildirimi takip eden 15 gün
+içerisinde nakit ya da teminat mektubu olarak görevli tedarik şirketine verir.
+        Güvence bedelinin iadesi
+        MADDE 29 – (1) Perakende satış sözleşmesinin feshi veya sona ermesi veya eski
+sayacın ön ödemeli sayaçla değiştirilmesi durumunda güvence bedeli iade edilir ve iade işlemini
+gerçekleştirmek üzere tüketiciden kimlik bilgileri, güncel iletişim bilgileri ve tüketicinin iadenin
+elden yapılmasını tercih etmemesi halinde güvence bedelinin iade edileceği hesap bilgileri istenir.
+Bu kapsamda;
+        a) Güvence bedelinin tespitinde, görevli tedarik şirketinin işletme kayıtları veya tüketicinin
+güvence bedeli makbuzu esas alınır. Söz konusu kayıt veya belgenin bulunmadığı hallerde;
+sözleşmenin güvence bedeli alınmadan yapıldığına dair somut bulgu ve belgenin bulunması
+haricinde, kullanım yerinin işletme kayıtlarındaki bağlantı gücü ve sözleşme başlangıç tarihi dikkate
+alınarak tespit edilir. İşletme kayıtlarında projenin ya da bağlantı gücünün bulunmaması halinde;
+kullanım yerinin mevcut bağlantı gücü ile sözleşmenin başlangıcındaki birim bedeller göz önünde
+bulundurulmak suretiyle belirlenir. Sözleşme başlangıç tarihi tespit edilemeyen tüketiciler için
+31/12/2006 tarihi, sözleşme başlangıcı olarak kabul edilir.
+        b) Tespit edilen nakit güvence bedeli, güncelleme oranı kullanılarak güncellenir. Güncelleme
+yapılmasını takiben, tüketicinin sonlandırılan perakende satış sözleşmesi kapsamında görevli
+tedarik şirketine olan tüm borçların ödenmesinden sonra varsa güncellenmiş güvence bedelinin
+bakiyesi, sözleşmenin sona erme tarihinden itibaren en geç 5 iş günü içerisinde şirket veznesi,
+posta, elektronik fon transferi veya havale gibi tüketicinin talep ettiği ödeme şekline göre iade
+edilir. İade için, borcun ödenmesi dışında, herhangi bir koşul ileri sürülemez ve belge istenemez.
+        c ) (Değişik:RG-20/2/2021-31401) Güncelleme oranının hesaplanmasında, başlangıç
+endeksi olarak güvence bedelinin tahsil edildiği aydan iki önceki ay için TÜİK tarafından
+açıklanan TÜFE,sonlandırma endeksi olarak ise sözleşmenin feshedildiği, sona erdiği veya ön
+ödemeli sayacın takıldığı günün içinde bulunduğu aydan iki önceki aya ilişkin TÜİK tarafından
+açıklanmış olan TÜFE dikkate alınır. Güncellemeoranı; sonlandırma endeksi, başlangıç endeksine
+bölünerek bulunur. ( E k cümle:RG-14/1/2025-32782) Güncellemeye konu sözleşmenin
+başlangıç ve sonlanma tarihi arasındaki sürenin 30 günün altında olması halinde ilgili tutara
+gecikme zammı uygulanmasıyla güncelleme yapılır.
+        (2) 1/1/2007’den önce sözleşme yapmış ve güvence bedeli ödemiş olan tüketicilerin
+güvence bedellerinin iadesinde 1/1/2007 tarihindeki güncellenmiş güvence bedelleri dikkate alınır.
+1/1/2007 tarihli güncellenmiş güvence bedelleri, söz konusu tarihten iade tarihine kadar olan süre
+dikkate alınmak suretiyle, TÜFE oranında güncellenerek iade edilir.
+        (3) Güvence bedeli, banka teminat mektubu olarak alınmış ise, sözleşmenin feshi veya sona
+ermesi veya ön ödemeli sayaç takılma tarihi itibariyle, tüketicinin görevli tedarik şirketine olan tüm
+borçlarının ödenmesi halinde, teminat mektubu tüketiciye iade edilir.
+        (4) (Ek:RG-20/2/2021-31401) Birinci fıkra kapsamında EK-4/A ve EK-4/B formunda
+güncel iletişim bilgileri alınan ya da perakende satış sözleşmesi sonlandırılan tüketicilere güvence
+bedelinin ödenmesine ilişkin kalıcı veri saklayıcısıyla söz konusu bedelin tüketiciye iade edilmek
+üzere hazır olduğuna ve tutarına dair bilgilendirme yapılır.
+        (5) (Ek:RG-20/2/2021-31401) Görevli tedarik şirketleri güvence bedeli iadesini almayan
+tüm tüketiciler için internet sitesinde kolayca görülebilecek ve ön planda olacak şekilde, T.C.
+kimlik numarasıyla ya da vergi numarasıyla sorgulanabilen güvence bedeli iadesini almayan
+tüketiciler başlıklı güvence bedeli sorgulama alanı oluşturur. Söz konusu sorgulama alanında
+iadenin nasıl alınabileceğine dair ayrıntılara yer verilir. Perakende satış sözleşmesi devam eden
+tüketiciler için süre sınırı olmaksızın, sözleşmesi sona eren tüketiciler için ise en az 10 yıl boyunca
+sorgulama yapılması sağlanır.
+        (6) (Ek:RG-14/1/2025-32782) Güvence bedelinin iadesi nakit olarak, PTT veya banka
+yoluyla yapılabilir. Tüketicinin PTT yoluyla iadesini talep etmesi halinde, masraflara ilişkin
+bilgilendirmenin yapılmış olması şartıyla, iadeye ilişkin masraflara tüketici katlanır.
+        Güvence bedeli alınmayan tüketiciler
+        MADDE 30 – (1) Bu Bölüm hükümleri çerçevesinde;
+        a) Ön ödemeli sayaç tesis eden tüketicilerden,
+        b) 27/7/2013 tarihli ve 28720 sayılı Resmî Gazete’de yayımlanan Genel Aydınlatma
+Yönetmeliği kapsamında olan yerler ile 12/4/2002 tarihli ve 2002/4100 sayılı Bakanlar Kurulu
+Kararı kapsamındaki ibadethanelere ilişkin sözleşme yapan tüketicilerden,
+        c) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı
+cetvelde yer alan kamu idarelerinden, bu kamu idarelerinin dinlenme tesisleri, misafirhaneleri ile
+iktisadi ve ticari amaçla işletilen tesisleri hariç,
+
+        ç) (Ek:RG-14/1/2025-32782) Her bir mesken kullanım yeri için son 24 aylık döneme ait
+tüm fatura ödemelerini son ödeme tarihine kadar yapmış olan, tedarikçisi ve tüketici grubu aynı
+kalmak kaydıyla, kullanım yerini değiştiren veya mevcut sözleşmesi devam etmekteyken farklı bir
+kullanım yerinde yeni bir mesken perakende satış sözleşmesi yapan ve bu süre zarfında kaçak
+elektrik tüketimi yapmamış olan tüketicilerden,
+        d) (Ek:RG-14/1/2025-32782) 27/2/2019 tarihli ve 795 sayılı Cumhurbaşkanı Kararıyla
+yürürlüğe konulan İhtiyaç Sahibi Hanelere Elektrik Tüketim Desteği Verilmesi Hakkında Karar
+uyarınca, 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu ile
+1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk
+Vatandaşlarına Aylık Bağlanması Hakkında Kanun kapsamında aylık veya düzenli sosyal yardım
+almaya ilişkin hak sahipliği verilen haneler için, hak sahibi adına yapılacak perakende satış
+sözleşmesi kapsamında,
+        güvence bedeli alınmaz.
+        (2) Bu Yönetmeliğin yürürlük tarihinden önceki mevzuat gereği güvence bedeli alınmadan
+sözleşmesi yapılmış olup, bu Bölüm hükümlerine göre güvence bedeli alınacaklar kapsamına dahil
+edilenlere ilişkin güvence bedeli uygulaması, bu Yönetmeliğin yürürlük tarihinden sonra perakende
+satış sözleşmesi yapılacak tüketicileri kapsar.
+        (3) Bu maddenin birinci fıkrasının (c) bendinde tanımlanan tüketicilerden bu Yönetmeliğin
+yürürlük tarihinden sonra yapacakları perakende satış sözleşmeleri kapsamında güvence bedeli
+alınmaz.
+        ( 4) (Ek:RG-14/1/2025-32782) Birinci fıkranın (ç) bendi kapsamında güvence bedeli
+alınmayan tüketiciye ait mesken kullanım yerlerinin tüketim faturalarından herhangi birinin son
+ödeme tarihine kadar ödenmemesi durumunda, bu tarihte geçerli olan kW başına belirlenen güncel
+birim bedel esas alınarak ilgili tüketiciye ait güvence bedeli alınmayan tüm mesken kullanım yerleri
+için bu Yönetmeliğin ilgili hükümleri çerçevesinde güvence bedeli hesaplanır ve tahsil edilir.
+Güvence bedeli tahsil edilemeyen tüketicinin elektriği kesilebilir.
+        Perakende satış sözleşmesi taraflarının diğer hak ve yükümlülükleri
+        MADDE 31 – (1) Tüketici, perakende satış sözleşmesi kapsamındaki haklarını veya
+yükümlülüklerini önceden görevli tedarik şirketinin yazılı onayını almaksızın başkalarına devir,
+temlik ve rehin edemez.
+        (2) Perakende satış sözleşmesi taraflarından herhangi biri; perakende satış sözleşmesi ile bu
+Yönetmelik kapsamındaki herhangi bir yükümlülüğünü 2/11/2013 tarihli ve 28809 sayılı Resmî
+Gazete’de yayımlanan Elektrik Piyasası Lisans Yönetmeliğinde düzenlenenmücbir sebepler
+nedeniyle yerine getiremediği takdirde, mücbir sebep olayının ya da etkilerinin devam ettiği ve
+yükümlülüğün yerine getirilmesini engellediği süre boyunca, etkilenen yükümlülükler askıya alınır.
+        (3) Perakende satış sözleşmesinin tarafları, bu Yönetmelik hükümlerinin uygulanması
+sonucu sahip oldukları bilgilerin gizli tutulması için gerekli tedbirleri almak ve söz konusu bilgileri,
+E lektrik Piyasası Lisans Yönetmeliğinde düzenlenen hususlar dışında kullanmamak ve
+açıklamamak ile yükümlüdür.
+                                              BEŞİNCİ BÖLÜM
+                                        Sayaç Okuma ve Faturalama
+        Sayaç okuma ve okuma bildiriminin içeriği
+        MADDE 32 – (1) Sayaçlar, en az 25 en fazla 35 günlük dönemlerle dağıtım şirketi
+tarafından her takvim ayında bir defa okunur. Bu okuma aylık okuma olarak değerlendirilir.
+        (2) Elektrik Piyasası Lisans Yönetmeliğinin 35inci maddesinde belirtilen mücbir sebep
+halleri ile ağır mevsim şartları, dönemsel kullanım ve benzeri nedenlerle okuma yapılamaması ve
+K urul tarafından uygun görülen haller dışında, dağıtım bölgesinin genelinde ya da belli bir
+bölgesinde birinci fıkraya aykırı genel uygulamalar yapılamaz. Bu fıkra kapsamındaki kullanım
+yerlerinde sayaçlar yılda en az iki defa okunur. (Ek cümle:RG-14/1/2025-32782) Yılda en az
+iki defa sayacın okunması amacıyla ziyaret edilen kullanım yerinde dağıtım şirketi tarafından
+tüketici kaynaklı nedenlerle sayaca ulaşılamadığının konum ve tarih bilgisi içerecek şekilde
+fotoğraflanması veya video ile kayıt altına alınması koşuluyla veya ilgili yerleşim yerinin bağlı
+olduğu mülki amirlikten tevsik edici belge alınması halinde bu kullanım yerleri bu fıkra kapsamı
+dışındadır.
+          (3) Tedarikçi değiştirme ve serbest tüketici olma sürecinde ay sonu endeks değerinin
+okunamadığı hallerde eski tedarikçi için son endeks değeri, yeni tedarikçi için ilk endeks değeri
+Tahmini Tüketim Değeri Belirleme Metodolojisi çerçevesinde belirlenen değerdir.
+        (4) (Değişik ibare:RG-14/1/2025-32782) İkili anlaşma kapsamındaki serbest tüketiciler
+için, okunan endeks değerlerinin okuma tarihi bilgisi ile birlikte en geç 3 (Değişik ibare:RG-
+14/1/2025-32782) iş günü içerisinde PYS’ye girişi yapılır.
+        (5) Tüketicilere dağıtım şirketi tarafından okuma bildirimi bırakılır ya da tüketicilerin dağıtım
+şirketinden talep etmesi halinde okuma bildirimi elektronik ortamda tüketiciye gönderilir. Tedarik
+şirketi, dağıtım şirketinden fatura/ödeme bildirimi tebliği hizmeti alımı yapabilir. Okuma bildirimi
+içerisinde yer alan bilgiler fatura/ödeme bildirimi içerisinde de düzenlenebilir.
+        (6) Okuma bildirimlerinde asgari olarak aşağıdaki bilgiler yer alır:
+        a) Tüketicinin adı-soyadı veya unvanı, adresi, serbest tüketici tekil kodu veya EIC,
+uygulanıyorsa profil tipi,
+        b) Sayaç veya sayaçlara ait marka, tip ve seri numarası, çarpan, varsa akım ve/veya
+gerilim trafo oranları,
+        c) Aktif ve reaktif tüketime ilişkin ilk ve son endeksler ile okuma tarihleri,
+        ç) Tüketilen elektrik enerjisi miktarı,
+        d) Değiştirilen sayaç var ise sayaçlara ait endeks değerleri detayı,
+
+        e) Dağıtım lisansı sahibi tüzel kişinin tüketici hizmetleri merkezlerinin telefon ve faks
+numaraları ile internet ve elektronik posta adresleri, arıza ve acil durumlarda aranabilecek telefon
+numarası.
+        (7) Okuma bildirimi yazılı olarak düzenlenir. Tüketicinin tercih etmesi halinde, okuma
+bildirimi tüketiciye kalıcı veri saklayıcısı ile de gönderilebilir.
+        ( 8 ) (Ek:RG-14/1/2025-32782) Dağıtım şirketi tarafından, tüketicinin engellemesi
+nedeniyle sayaca ulaşılamadığının konum ve tarih bilgisi içerecek şekilde fotoğraf veya video ile
+kayıt altına alınması koşuluyla veya okuma yapılamamasına ilişkin ilgili yerleşim yerinin bağlı
+olduğu mülki amirlikten tevsik edici belge alınması durumunda, sonradan düzeltilmek kaydıyla,
+kullanım yerine ait aynı dönem geçmiş tüketim verileri, bulunmaması halinde ise benzer tüketim
+yerlerinin aynı döneme ait tüketim verileri dikkate alınarak tüketim faturası düzenlenebilir.
+        Faturalama esası ve dönemi
+        MADDE 33 – (1) Faturalamada, dağıtım şirketi tarafından okunan birbirini takip eden iki
+dönem arasındaki endeks farkının çarpan faktörü ile çarpımı sonucu bulunan değer tüketicinin
+elektrik enerjisi tüketimi olarak kabul edilir.
+        (2) Ön ödemeli sayaç kullanılması gibi haller dışında, perakende satış sözleşmesi
+kapsamında fatura dönemi okuma dönemi esas alınarak belirlenir. Aynı ay içerisinde;
+        a) Serbest olmayan tüketicilerin ya da son kaynak tedariki kapsamındaki tüketicilerin,
+enerjinin borçtan dolayı kesilmesi, sözleşmenin sona ermesi veya feshi ya da tedarikçi değişikliği,
+        b ) (Değişik ibare:RG-14/1/2025-32782) Yıllık tüketimi 100.000 kWh’ın altında olan
+serbest tüketicinin ikili anlaşmasının sona ermesi veya feshi ya da tedarikçi değişikliği,
+        nedenleriyle yapılacak faturalamalar gibi mevzuatta özel olarak tanımlanan haller dışında
+birden fazla faturalama yapılamaz.
+        (3) (Değişik:RG-20/2/2021-31401) 32 nci maddenin ikinci fıkrası kapsamında dönemsel
+kullanım hariç olmak üzere aylık okuma yapılamayan okuma dönemindeki ay sayısı kadar vade
+farkı uygulanmaksızın eşit tutarda taksitlendirme yapılır. Dönemsel kullanım bölgesinde olduğu
+halde yıl içerisinde sürekli tüketimi bulunan kullanım yerleri için okuma yapılamayan okuma
+dönemindeki ay sayısı kadar vade farkı uygulanmaksızın eşit tutarda taksitlendirme yapılır.
+Tüketicinin talebi olması halinde peşin ödeme yapılır. Mesken tüketici grubunda bulunan
+tüketicilerin kullanım yerlerinde, tüketici kaynaklı okuma yapılamadığının dağıtım şirketi tarafından
+kullanım yerinin fotoğraflanması yöntemiyle tutanakla kayıt altına alınması durumunda
+taksitlendirme yapılmaz. İlgili tutanağın bir örneği aynı gün tedarikçiye gönderilir.
+        (4) Fatura dönemi ikili anlaşmada taraflarca belirlenir. Aksi durumda, fatura dönemi okuma
+dönemi olarak esas alınır.
+        Ödeme bildirimi/faturalama içeriği, gönderimi, süresi ve yöntemi
+        MADDE 34 – (1) (De ğiş ik ibare:RG-14/1/2025-32782) Yıllık tüketimi 100.000
+kWh’ın altında olan serbest tüketicilere, serbest olmayan tüketicilere ve son kaynak tedariki
+kapsamındaki tüketicilere tedarikçiler tarafından düzenlenen fatura/ödeme bildiriminde asgari
+olarak aşağıdaki bilgiler yer alır:
+        a) Tüketicinin adı-soyadı veya unvanı, adresi, tüketici numarası, tüketici grubu,
+        b) Sayaç veya sayaçlara ait marka, tip ve seri numarası, çarpan, varsa akım ve/veya
+gerilim trafo oranları,
+        c) Son kaynak tarifelerinden elektrik alan serbest tüketici, ikili anlaşma ile elektrik alan
+serbest tüketici ya da serbest olmayan tüketici sınıflarından hangisine girildiğine dair bilgi,
+        ç) Tüketime esas ilk ve son endeksler ile okuma tarihleri,
+        d) Tüketilen elektrik enerjisi miktarı,
+        e) Günlük enerji tüketim ortalaması,
+        f) Ödeme bildirimi tarihi itibariyle tüketim noktasının cari yıl ile bir önceki takvim yılı tüketim
+miktarları,
+        g) Tüketimin fiyatlandırılmasına esas enerji ve kapasite bilgileri,
+        ğ) Elektrik enerjisi birim fiyatları ve tüketim bedeli ile ilgili mevzuat kapsamında faturalarda
+yer alması öngörülen diğer bedelleri,
+        h) Vergi, yasal kesinti ve borçlar,
+        ı) Son ödeme tarihi, ödeme şekilleri ve merkezleri,
+        i) Tedarikçiler ile dağıtım lisansı sahibi tüzel kişinin telefon ve faks numaraları ile internet ve
+elektronik posta adresleri, arıza ve acil durumlarda aranabilecek dağıtım şirketinin telefon
+numarası,
+        j) Varsa geçmiş dönemlere ilişkin borç veya alacak,
+        k) Kesme-bağlama bedeli,
+        l) Bulunması halinde otomatik ödeme talimatı bilgisi,
+        m) EIC.
+        (2) Ödeme bildiriminde yer alan bilgilerin okunaklı olması zorunludur.
+        (3) (Değişik ibare:RG-14/1/2025-32782) Yıllık tüketimi 100.000 kWh’ın altında olan
+serbest tüketicilere gönderilecek ödeme bildirimi veya faturalarda varsa taahhüdün süresi, sürenin
+kaçıncı ayında bulunulduğu, taahhüdün sona erme tarihi ile taahhüdün bozulması halinde
+uygulanacak cayma bedelinin ve/veya ceza koşulunun uygulama esaslarına ilişkin bilginin
+bulunması zorunludur.
+        (4) Görevli tedarik şirketleri tarafından düzenlenen ödeme bildirimlerinde serbest tüketici
+hakkını elde eden tüketicileri belirli bir tedarikçiye yönlendirici herhangi bir bilgiye yer verilemez.
+        (5) (Değişik:RG-14/1/2025-32782) Yıllık tüketimi 100.000 kWh’ın altında olan serbest
+tüketicilere, serbest olmayan tüketicilere ve son kaynak tedariki kapsamındaki tüketicilere
+tedarikçi tarafından düzenlenen ödeme bildirimi/fatura, son ödeme tarihinden en az 10 gün önce
+
+düzenlenir ve tüketicinin açık şekilde tercihinin alınması kaydıyla yazılı olarak veya kısa mesaj, e-
+posta, e-fatura ya da e-arşiv kanalıyla elektronik ortamda iletilir. Mesken tüketici grubu dışında
+yer alan ve uzaktan okunan kullanım yerlerinde tüketicinin ayrıca bir talebi olmadığı sürece ödeme
+bildirimi/fatura elektronik ortamda iletilir. Tüketicinin ödeme bildirimi/fatura gönderimi tercihlerine
+ilişkin ispat yükümlülüğü tedarikçiye aittir. Tüketicinin iletişim bilgisi bulunması halinde, iletilen
+fatura tutarı ve son ödeme tarihi hakkında kısa mesajla da bilgilendirilmesi zorunludur. Elektronik
+ortamda gönderilen ödeme bildirimi/fatura, doğrudan görüntülenebilir/indirilebilir ve görme engelli
+vatandaşlar için ekran okuyucu programlarla uyumlu ve erişilebilir formatta hazırlanır.
+        a) Ödeme bildirimi/faturalar, kredi kartı ile ödenebilir. Ödeme şekli tek çekim ya da taksitli
+olabilir. Ödeme şekli kaynaklı masraflar tüketiciye aittir. Ödemenin tek çekim şeklinde yapılması
+halinde masraf alınmaz. Tedarikçiler, kredi kartı ödemelerine ilişkin masraflara ait bilgilere
+faturalarda yer verir. Ödeme bildirimi üzerinde ayrıntılı bilginin internet sitesinde yer aldığı bilgisine
+yer verilir.
+        b) Görevli tedarik şirketleri veya hizmet alımı yapılan kişiler tarafından faturaların tahsilat
+işlemi sebebiyle tüketicilerden herhangi bir ad altında bedel talep edilemez.
+        (6) Tüketicinin talebi üzerine tedarikçi son iki yıla ait fatura dönemleri itibarıyla tüketici
+ödeme durumunu gösteren belgeyi 5 iş günü içerisinde herhangi bir bedel talep etmeden sunar.
+        (7) Fatura ödemeleri; şirket veznesi, hizmet alımı yapılan tahsilat merkezleri, telefon, posta,
+otomatik ödeme, elektronik fon transferi veya bankalardan biri aracılığıyla gerçekleştirilir.
+        (8) Ödeme bildirimi veya fatura tutarına itiraz öncelikle tedarikçiye yapılır.
+        ( 9 ) (Ek:RG-14/1/2025-32782) Tedarikçiler, tüketicilere güncel ve geçmiş tüketim
+faturalarını, benzer tüketicilerle tüketim karşılaştırma bilgisini internet sitesinde ve mobil
+uygulamalarında sunmakla yükümlüdür.
+        Zamanında ödenmeyen borçlar
+        MADDE 35 – (1) Zamanında ödenmeyen borçların tahsiline ilişkin hususlar serbest
+olmayan tüketicilere ve son kaynak tedariki kapsamındaki tüketicilere uygulanır.
+        (2) Tüketicinin elektrik enerjisi tüketimine ilişkin ödemelerini son ödeme tarihine kadar
+yapmaması durumunda görevli tedarik şirketi tüketiciye yazılı olarak en az 5 iş günü ödeme
+süresini içeren ikinci bildirimde bulunur. Görevli tedarik şirketi yazılı bildirimle birlikte kalıcı veri
+saklayıcılarından en az birini kullanarak tüketiciyi bilgilendirmek zorundadır.
+        (3) İkinci bildirimde ödeme yükümlülüğünün belirtilen sürede yerine getirilmemesi halinde
+elektrik enerjisinin kesileceği de belirtilir. Kalıcı veri saklayıcılarından en az biriyle ve yazılı olarak
+bildirimde bulunulmamış kullanım yerinin elektriği kesilemez.
+        (4) (Değişik:RG-20/2/2021-31401) Tüketicinin öngörülen ödemelerini, ikinci bildirimde
+belirtilen süre içerisinde de yapmaması halinde, görevli tedarik şirketinin bildirimi üzerine, bildirim
+tarihinden itibaren en geç 5 iş günü içerisinde dağıtım şirketi tarafından kesme bildirimi
+düzenlenmek suretiyle kullanım yerinin elektriği kesilir ve yerinde yapılan kesme bildiriminin bir
+örneği kullanım yerine bırakılır. Kesme bildiriminde, kesme tarihine, saatine, mühür veya zaman
+damgası bilgilerine, endeks değerlerine ve kesmeyi yapan çalışana ait sicil numarasına veya şirket
+tarafından belirlenen koda yer verilmesi zorunludur. Kesme bildirimi ayrıca kalıcı veri
+saklayıcısıyla tüketiciye ve tedarikçisine bildirilir. Kesme işleminin sayacın fotoğraflanması ya da
+sayaç iç bilgileri raporuyla ispatlanması dağıtım şirketinin sorumluluğundadır.
+        (5) İkinci bildirim sonrası kullanım yerinin elektriği kesilen tüketicinin borçlarına ilişkin;
+        a) Tüketicinin birikmiş borçlarını gecikme zamlarıyla birlikte 30 gün içinde ödememesi veya
+tedarikçi tarafından belirlenen takvim dahilinde ödemeyi taahhüt etmemesi halinde tedarikçi
+borcun güvence bedelinden mahsup edileceğine ilişkin yazılı ya da kalıcı veri saklayıcılarından en
+az birini kullanarak tüketiciyi bilgilendirmek zorundadır. Zamanında ödemenin yapılmaması
+halinde;
+        1) Güncellenmiş güvence bedeli, son ödeme tarihinden itibaren uygulanan gecikme zammını
+içeren toplam fatura tutarına eşit veya yüksek ise güncellenmiş güvence tutarı fatura tutarına
+mahsup edilir. Mahsup edilen güvence bedeli tutarı ile bu tutarı ödeme yükümlülüğünü yerine
+getirdiği tarihten itibaren kullanım yerinin elektriğinin bağlanacağına ilişkin bildirim kalıcı veri
+saklayıcılarından en az birini kullanarak ya da yazılı olarak tüketiciye aynı gün içerisinde yapılır.
+        2) (Değişik:RG-20/2/2021-31401) Güncellenmiş güvence bedeli, son ödeme tarihinden
+itibaren uygulanan gecikme zammını içeren toplam fatura tutarından düşük ise güncellenmiş
+güvence bedeli toplam fatura tutarına mahsup edilir ve tüketiciye aynı gün içerisinde yazılı ve
+kalıcı veri saklayıcılarından en az biri kullanılarak bildirimde bulunulur. Bildirimde güncellenmiş
+güvence bedelinin toplam fatura tutarını karşılamadığı, fark tutarın ve güvence bedelinin bildirim
+tarihinden itibaren 15 gün içerisinde ödenmesi durumunda elektriğin bağlanacağı, borcun
+ödenmemesi durumunda sözleşmenin fesih edilebileceği ve muaccel hale gelmiş borcun yasal
+yollarla tahsiline gidileceğine ilişkin hususlar belirtilir.
+        b) Tüketicilerin zamanında ödenmeyen borçlarına ilişkin olarak yasal yollara başvurabilmek
+için elektriğin fiilen kesilmesi ve güvence bedelinin muaccel borçlara mahsup edilmiş olması
+zorunludur. Bu hükme aykırı olarak yasal yollara başvurulması halinde, yapılan işlemler
+sonlandırılır. Oluşan masraf ve giderler tüketiciden talep ve tahsil edilemez. (Ek cümle:RG-
+14/1/2025-32782) Ancak tüketici tarafından kullanım yerinin elektriğinin kesilmesine
+mukavemette bulunulduğunun kolluk kuvvetleri tarafından tutanak altına alınması veya kolluk
+kuvvetleri tarafından herhangi bir işlem tesis edilmese dahi şirket tarafından kolluk kuvvetlerine
+yapılan başvurunun belgelendirilmesi hâlinde yasal yollara başvurmak için fiili kesme şartı
+aranmaz.
+        (6) Tüketicilerin zamanında ödenmeyen borçlarına, görevli tedarik şirketi tarafından bu
+Yönetmelikte belirlenen oranı aşmamak üzere, gecikme zammı uygulanır. Gecikme zammı günlük
+olarak uygulanır.
+        (7) Borcun zamanında ödenmemesi nedeniyle elektrik enerjisi kesilmiş olan tüketicinin,
+
+birikmiş borçlarını gecikme zamları ile birlikte peşin ödeyerek veya görevli tedarik şirketi
+tarafından belirlenen takvim dahilinde ödemeyi taahhüt ederek görevli tedarik şirketine başvurması
+halinde tüketicinin elektrik enerjisi yeniden bağlanır.
+        (8) Aynı kullanım yerine ait başka tüketicilerin önceki dönemlere ilişkin tüketimlerinden
+kaynaklanan borçları, yeni tüketicinin üstlenmesi talep edilemez.
+        (9) Tüketicinin borcu nedeniyle, aynı tüketicinin başka bir perakende satış sözleşmesine
+konu kullanım yerinin elektriği kesilemez.
+        (10) (Ek:RG-20/2/2021-31401) Bu madde kapsamında yapılan işlemler, toplam borç
+tutarı ilgili yıla ilişkin Kurul Kararıyla belirlenen kesme bağlama bedelinden düşük olan tüketicilere
+uygulanmaz.
+        Faturalarda ve faturalandırmaya esas unsurlarda hata tespiti
+        MADDE 36 – (1) Bu madde kapsamındaki hatalar; çarpan hatası, sayacın hatalı okunması
+ve tüketim miktarının hatalı hesaplanmasına bağlı dağıtım şirketi kaynaklı ya da yanlış tarife ile
+diğer bedellerin hatalı hesaplanmasına bağlı tedarikçi kaynaklı hatalardır. Mükerrer ödeme
+bildirimi de bu fıkra kapsamında değerlendirilir.
+        (2) Bu madde kapsamındaki hatalara karşı, tüketici tarafından ödeme bildiriminin yapıldığı
+tarihten itibaren bir yıl içerisinde tedarikçiye itiraz edilebilir. İtirazın yapılmış olması ödeme
+yükümlülüğünü ortadan kaldırmaz. İtiraza konu tüketim bedeli ile tüketicinin bir önceki tüketim
+döneminde ödemiş olduğu tüketim bedeli arasındaki farkın yüzde otuzdan fazla olması durumunda
+tüketici, bir önceki dönem tüketim bedeli kadarını son ödeme tarihine kadar ödeyebilir. Bu
+durumda tüketiciye 35 inci madde hükümleri uygulanmaz.
+        (3) İtiraz, tedarikçi tarafından başvuru tarihini izleyen en geç 10 iş günü içerisinde
+incelenerek sonuçlandırılır.
+        (4) İtirazın dağıtım şirketini ilgilendiren hususlarla ilgili olduğunun tespit edilmesi halinde,
+itiraz tedarikçi tarafından geliş tarihinden itibaren 2 iş günü içerisinde dağıtım şirketine iletilir.
+Dağıtım şirketi itirazın kendisine ulaştığı tarihten itibaren 5 iş günü içerisinde inceleme sonuçlarını
+tedarikçiye bildirir. İnceleme sonuçları tedarikçi tarafından 3 iş günü içerisinde tüketiciye yazılı
+olarak bildirilir.
+        (5) Bu madde çerçevesinde dağıtım şirketi veya ilgili tedarikçi tarafından hatalı tespitte
+bulunulduğu sonucuna varılması halinde;
+        a) Yapılan hatalı tespitin giderilmesine ilişkin yapılacak işlemin dağıtım şirketinin ve/veya
+tedarikçinin lehine olması durumunda;
+        1) Tüketim miktarının hesabında esas alınacak süre; doğru bulgu ve belgenin bulunması
+halinde 180 günü, bulunmaması halinde ise 90 günü aşamaz.
+        2) Tüketici tarafından ödenecek tutar, tüketim miktarının hesabında esas alınacak süre
+içerisindeki ay sayısı kadar eşit taksitler halinde ödenir. Taksitlendirme yapılması halinde vade
+farkı alınmaz. Tüketicinin talebi olması halinde peşin olarak ödeme yapılabilir. Bu bent kapsamında
+yapılacak hesaplamalarda ve taksitlendirmede gecikme zammı uygulanmaz.
+        b) (Değişik:RG-20/2/2021-31401) Yapılan hatalı tespitin giderilmesine ilişkin yapılacak
+işlemin tüketicinin lehine olması durumunda; tüketimdeki farklar, gecikme zammı ile birlikte,
+tüketicinin talebi halinde nakden ve defaten en geç 3 iş günü içerisinde, diğer hallerde
+mahsuplaşmak suretiyle ilgili tüketiciye tedarikçi tarafından iade edilir. Mahsuplaşmayı içeren
+ödeme bildiriminin düzenlenme tarihine kadar gecikme zammı uygulanır. Gecikme zammına hatalı
+tespitte bulunan taraf katlanır. Dağıtım şirketi tarafından hatalı tespitte bulunulması halinde dağıtım
+şirketi gecikme zammını tüketiciye ödenmek üzere tedarikçiye öder.
+        c) Tüketimdeki farklar, kullanım dönemindeki tarifeler üzerinden hesaplanır.
+        ç) Yapılan tüketim hesabı dönemi içinde kalan, varsa daha önce yapılmış tüketim miktarları
+tenzil edilir. Önceden ödenmiş olan bedeller, faturaya yansıtılmaz.
+        ( 6) (Değişik:RG-20/2/2021-31401) Bu madde kapsamında, dağıtım şirketi kaynaklı
+hatalar nedeniyle tüketicilere yapılacak iadeler 37 nci maddenin dokuzuncu fıkrasına göre yapılır.
+        (7) (Ek:RG-20/2/2021-31401) Bu madde kapsamında düzenlenecek olan faturalarda
+hatanın nedenine ve tutarına dair ayrıntılı bilgilere yer verilir ve tüketiciler kısa mesajla
+bilgilendirilir.
+        ( 8 ) (Ek:RG-14/1/2025-32782) Bu madde kapsamında hesaplanan tüketim miktarı
+20/1/2018 tarihli ve 30307 sayılı Resmî Gazete’de yayımlanan Son Kaynak Tedarik Tarifesinin
+Düzenlenmesi Hakkında Tebliğ kapsamında son kaynak tüketici gruplarının tespitinde dikkate
+alınır.
+        Sayacın doğru tüketim kaydetmemesi halinde tüketim miktarının tespiti
+        MADDE 37 – (1) Sayacın arızalanması veya ölçme hassasiyetinden şüphe edilmesi
+halinde, tüketici veya dağıtım şirketi tarafından sayacın kontrolü talep edilebilir. Bu kapsamda
+sayacın, tüketicinin kusuru dışında herhangi bir nedenle eksik veya fazla tüketim kaydettiğinin ya
+da hiç tüketim kaydetmediğinin;
+        a) Sayaç dışı bir unsurdan kaynaklanması ve bu durumun dağıtım şirketince yerinde yapılan
+incelemede teknik olarak tespit edilmesi,
+        b) (Değişik:RG-20/2/2021-31401) Sayaçtan kaynaklanması ve bu durumun sanayi ve
+teknoloji il müdürlüğünden alınan sayaç muayene raporunda teknik olarak tespit edilmesi,
+        durumlarında eksik veya fazla tüketime ilişkin hesaplama yapılır.
+        ( 2 ) (Değişik:RG-20/2/2021-31401) Bu madde kapsamında yapılan hesaplamalarda;
+öncelikle varsa tüketicinin aynı döneme ait sağlıklı olarak ölçülmüş geçmiş dönem tüketim
+değerleri yoksa sayaç değişim tarihinden sonraki ödeme bildirimine esas ilk iki tüketim dönemine
+ait günlük ortalama tüketim değerleri dikkate alınarak hesaplama yapılır. Bu iki tespitin
+yapılamaması durumunda benzer özelliklere sahip kullanım yerlerinin tüketimleri dikkate alınarak
+
+geçmiş dönem tüketimleri hesaplanır. Kullanım amacı tarımsal sulama olan tüketicilerin
+hesaplamalarında, (Değişik ibare:RG-14/1/2025-32782) il/ilçe tarım ve orman müdürlükleri ve
+resmî kurumlardan alınan belgeler ile yerinde yapılan tespitlere göre ürün belirlenerek, ürün
+karakteristiğine uygun hesaplama yapılabilir.
+        (3) (Değişik:RG-20/2/2021-31401) Bu madde kapsamında düzenlenen faturaya esas
+süre, dağıtım şirketinin ve/veya tedarikçinin lehine olması ve doğru bulgu ve belgenin bulunması
+halinde, 180 günü geçemez. Söz konusu bulgu ve belgelerin bulunmaması halinde ise faturaya
+esas sürenin başlangıcı olarak, sayaç mahallinde dağıtım şirketince gerçekleştirilmiş olan sayaç
+kontrol, mühürleme, kesme-bağlama, sayaç değiştirme işlemlerinden en son işlem tarihi esas alınır.
+Ancak bu süre hiçbir şekilde 90 günü geçemez.
+        (4) Bu madde kapsamında, sayaç, sayaç değiştirme tutanağı düzenlenerek değiştirildiği
+tarihten itibaren en geç 10 iş günü içerisinde ilgili Bilim Sanayi İl Müdürlüğüne gönderilir. Bilim
+Sanayi İl Müdürlüğünden alınan rapora istinaden 10 iş günü içerisinde ilgili dağıtım şirketi
+tarafından eksik veya fazla tüketime ilişkin fark ve bu farka ilişkin belgeler ilgili tedarikçiye
+gönderilir. İkinci fıkra kapsamında sayaç değişim tarihinden sonraki ödeme bildirimine esas ilk iki
+dönem tüketim miktarının ortalaması alınarak hesaplama yapılması gerekiyorsa ilgili belgeler bu
+sürenin bitiminden itibaren 10 iş günü içerisinde tedarikçiye gönderilir. Tedarikçi eksik veya fazla
+tüketime ilişkin bildirimi 3 iş günü içerisinde faturalandırarak tüketiciye gönderir.
+        (5) Bu madde kapsamında faturalamaya esas sürenin başlangıcı, ikili anlaşma veya
+perakende satış sözleşmesinin imzalandığı tarihten önceki bir tarih olamaz.
+        (6) Bu madde kapsamında yapılan faturalama işleminde sayacın eksik tüketim kaydettiği
+dönem birim fiyatları kullanılır ve gecikme zammı uygulanmaz. Söz konusu miktar, faturaya esas
+alınan tüketim döneminin içerisindeki ay sayısı kadar eşit taksitler halinde ödenir. Taksitlendirme
+yapılması halinde vade farkı alınmaz. Yapılan tüketim hesabı dönemi içinde kalan, varsa daha
+önce yapılmış tüketim miktarları tenzil edilir. Eksik tüketim kaydedilen durumlarda, önceden
+ödenmiş olan bedeller, faturaya yansıtılmaz.
+        (7) (Değişik:RG-20/2/2021-31401) Bu madde kapsamındaki hesaplamalar sonucunda,
+fazla tüketim kaydedildiğinin tespit edilmesi halinde tüketimdeki farklar, kullanım dönemi birim
+fiyatlarıyla ve gecikme zammı ile birlikte, tüketicinin talebi halinde ve tercih ettiği ödeme
+yöntemine göre nakden ve defaten 3 iş günü içerisinde, ilgili tüketiciye tedarikçi tarafından iade
+edilir. Diğer hallerde mahsuplaşmak suretiyle ilgili tüketiciye iade edilir. Mahsuplaşmayı içeren
+ödeme bildiriminin düzenlenme tarihine kadar gecikme zammı uygulanır. Bu fıkra kapsamında
+hesaplanan gecikme zammı dağıtım şirketi tarafından tedarikçiye ödenir.
+        (8) (Değişik:RG-14/1/2025-32782) Bu madde kapsamındaki hesaplamalara ilişkin EK-
+7’de yer alan form düzenlenir. EK-7 formu ile sayaç muayene/teknik tespit raporunun bir örneği
+ilgili tedarik şirketi tarafından ödeme bildirimi/fatura ile birlikte ya da ödeme bildirimi/fatura
+gönderilmeden önce yazılı olarak veya kalıcı veri saklayıcılarından en az biri kullanılarak tüketiciye
+gönderilir.
+        ( 9 ) (Değişik:RG-20/2/2021-31401) Bu madde kapsamında tüketicilere yapılacak
+iadelere ilişkin olarak Dengeleme ve Uzlaştırmaya ilişkin mevzuat hükümleri uyarınca yapılması
+mümkün olmayan düzeltmeler ve faturalama işlemleri dağıtım şirketi tarafından yerine getirilir.
+Dağıtım şirketi, iadeye esas tüketim miktarını kullanım dönemindeki düzenlemeye tabi tarifeler
+kapsamında ilgili tüketici grubu için onaylanan fiyatlarla ve gecikme zammı ile birlikte
+hesaplayarak tüketicinin tercih ettiği ödeme yöntemine göre nakden ve defaten 3 iş günü
+içerisinde ilgili tüketiciye iade eder.
+        (10) Periyodik bakım kapsamında değiştirilen sayaçlara ilişkin fark veya iade hesaplaması
+yapılmaz.
+        (11) (Ek:RG-20/2/2021-31401) Bu madde kapsamında düzenlenecek olan faturalar
+normal tüketim faturasından ayrı olarak düzenlenir.
+        (12) (Ek:RG-14/1/2025-32782) Bu madde kapsamında hesaplanan tüketim miktarı Son
+Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ kapsamında son kaynak tüketici
+gruplarının tespitinde dikkate alınır.
+                                              ALTINCI BÖLÜM
+                 Tedarikçi ve Tüketicilerin Hak ve Yükümlülükleri, Serbest Tüketici
+                                            Limitinin Belirlenmesi
+        Tedarikçilerin yükümlülükleri
+        MADDE 38 – (1) Tedarikçi aşağıda belirtilen yükümlülükleri yerine getirir:
+        a) Elektrik kesintileri hariç anlaşma koşulları çerçevesinde taahhüt ettiği elektrik enerjisi
+ve/veya kapasiteyi kesintisiz olarak sağlar.
+        b) Tedarikçi tüketicinin yazılı talebi üzerine son on iki aya ait faturalarını zamanında ödeyip
+ödemediğini gösteren belgeyi 5 iş günü içerisinde herhangi bir bedel talep etmeden takvim yılında
+en fazla 2 kez tüketiciye sunmakla yükümlüdür. Ödeme durumuna ilişkin bilgi tüketiciye internet
+üzerinden indirilebilecek şekilde de sunulur.
+        c) Tedarikçiye iletilen tüketici başvuru sayısı, başvuru konusu ve sonucuna ilişkin raporu
+aylık olarak Kuruma belirlenen formatta sunar ve ilk 5 sırada yer alan şikayetlere ilişkin özet
+raporu internet sitesinde yayımlar.
+        (2) (Değişik ibare:RG-14/1/2025-32782) Tedarikçiler, yıllık tüketimi 100.000 kWh’ın
+altında olan serbest tüketiciler, serbest olmayan ve son kaynak tedariği kapsamındaki tüketiciler
+için internet sitelerinde;
+        a) Tüketiciye sunduğu mevcut tarife bilgilerini ve çeşitlerini,
+        b) Tüketicinin kendisiyle yapılan ikili anlaşma ve/veya perakende satış sözleşmesi ve ilişkili
+formlara ilişkin erişimi,
+
+        c) Kolayca görülebilecek ve erişilebilecek şekilde “İtiraz veya Şikâyet Başvurusu”
+hizmetini,
+        ç) Şikâyetlerin incelenmesi ve anlaşmazlıkların çözümüne ilişkin süreci,
+        d) Bir önceki yıla ait satışları içerisindeki yenilenebilir enerji kaynaklarından olan alıma
+ilişkin bilgileri,
+        sunmakla yükümlüdür.
+        İkili anlaşma kapsamında yer alan tüketicilerin hak ve yükümlülükleri
+        MADDE 39 – (1) Serbest tüketiciler, tüketim miktarı serbest tüketici limitini geçen her bir
+ölçüm noktası için ayrı bir tedarikçi ile ikili anlaşma yapabilir.
+        (2) Tüketici veya tüketicinin onayının ibraz edilmesi şartıyla tedarikçi, ikili anlaşma
+imzalamadan önce, serbest tüketicinin bulunduğu dağıtım bölgesindeki dağıtım lisansı sahibi tüzel
+kişiden; mevcut olması halinde önceki iki takvim yılına, mevcut olmaması halinde içerisinde
+bulunulan yıla ait tüketim miktarlarını, tüketim yük eğrisini ve usulsüz ve/veya kaçak elektrik
+kullanıp kullanmadığını gösteren belgeleri talep edebilir. Söz konusu talebin ilgili tüzel kişi
+tarafından 10 iş günü içerisinde karşılanması zorunludur.
+        (3) Serbest tüketiciler, ikili anlaşmalarının herhangi bir şekilde sona ermesi veya talep
+etmeleri halinde, bu Yönetmelik ve ilgili mevzuat hükümleri çerçevesinde, bölgelerindeki görevli
+tedarik şirketinden son kaynak tedariği kapsamında elektrik enerjisi ve/veya kapasite satın alabilir.
+        (4) (Değişik ibare:RG-14/1/2025-32782) Yıllık tüketimi 100.000 kWh’ın altında olan
+serbest tüketici ikili anlaşma kapsamında kendisine ait bilgileri tam ve doğru bir şekilde vermekle
+yükümlüdür. Bu bilgilerde değişiklik olması halinde tedarikçiye bildirmekle mükelleftir.
+        Tüketici şikayetleri çözüm mekanizması
+        MADDE 40 – (1) Tedarikçiler; tüketicinin şikâyetlerinin iletildiği, kaydedildiği ve tüketici
+tarafından takip edilebildiği iletişim kanallarını tesis etmekle ve kendisine iletilen talepleri 15 iş
+günü içerisinde sonuçlandırarak tüketiciyi bilgilendirmekle yükümlüdür.
+        (2) Bu kapsamda oluşturulan kayıtlar güvenlik tedbirleri alınarak 2 yıl süreyle muhafaza
+edilir.
+        Serbest tüketici limitindeki indirimin belirlenmesi
+        MADDE 41 – (1) Serbest tüketici limitine ilişkin indirimler Kurul tarafından;
+        a) Rekabetin gelişimi,
+        b) Ölçme-iletişim-kontrol alt yapısının yeterliliği,
+        c) Piyasa işletmecisinin işlem kapasitesi,
+        ç) Piyasada serbestçe müzakere edilerek ikili anlaşmalara bağlanabilecek üretim kapasitesi,
+        d) TEİAŞ ve dağıtım lisansı sahibi tüzel kişilertarafından serbest tüketicilere ilişkin olarak
+sağlanan istatistiki bilgiler,
+          dikkate alınmak suretiyle her yılın 1 Ocak tarihine kadar belirlenir. Bu indirimlere göre
+hesaplanan yeni serbest tüketici limitleri Ocak ayı sonuna kadar Resmî Gazete’de yayımlanır ve
+Kurum internet sitesinde duyurulur.
+                                              YEDİNCİ BÖLÜM
+                               Kaçak ve Usulsüz Elektrik Enerjisi Tüketimi
+        Kaçak elektrik enerjisi tüketimi halleri
+        MADDE 42 – (1) Gerçek veya tüzel kişinin kullanım yerine ilişkin olarak;
+        a) Perakende satış sözleşmesi veya ikili anlaşma olmaksızın dağıtım sistemine müdahale
+ederek elektrik enerjisi tüketmesi,
+        b) Perakende satış sözleşmesi veya ikili anlaşması mevcutken ayrı bir hat çekmek suretiyle
+dağıtım sistemine müdahale ederek sayaçtan geçirilmeksizin elektrik enerjisi tüketmesi,
+        c) Perakende satış sözleşmesi veya ikili anlaşması mevcutken sayaçlara veya ölçü
+sistemine müdahale ederek, tüketimin doğru tespit edilmesini engellemek suretiyle, eksik veya
+hatalı ölçüm yapılması veya hiç ölçülmeden veya yasal şekilde tesis edilmemiş sayaçtan
+geçirilerek, mevzuata aykırı bir şekilde elektrik enerjisi tüketmesi,
+        ç) (Değişik ibare:RG-14/1/2025-32782) Perakende satış sözleşmesi veya ikili anlaşması
+mevcutken dağıtım lisansı sahibi tüzel kişinin ilgili mevzuata uygun olarak kestiği elektrik enerjisini,
+mücbir sebep halleri dışında açması,
+        kaçak elektrik enerjisi tüketimi olarak kabul edilir.
+        ( 2 ) (Ek:RG-14/1/2025-32782) Perakende satış sözleşmesi veya ikili anlaşması
+mevcutken ayrı bir hat çekerek bir veya birden fazla cihazı doğrudan enerjilendiren müdahaleler
+birinci fıkranın (b) bendi; perakende satış sözleşmesi ve ikili anlaşması mevcutken, sayaca bağlı
+tesisatın tüketimini etkileyecek şekilde yapılacak müdahaleler ise birinci fıkranın (c) bendi
+kapsamında değerlendirilir.
+        Kaçak elektrik enerjisi tespit süreci
+        MADDE 43 – (1) 42 nci maddenin birinci fıkrasının (a) ve (b) bentleri kapsamında
+doğrudan dağıtım sistemine yapılan müdahalelerde dağıtım sistemine olan bağlantılar ortadan
+kaldırılır. Kullanım yerinde EK-5’te yer alan kaçak elektrik tespit tutanağı düzenlenir ve kullanım
+yerinin elektriği kesilir. ( E k cümle:RG-14/1/2025-32782) Kesme işlemine mukavemette
+bulunulduğunun kolluk kuvvetleri tarafından tutanak altına alınması veya kolluk kuvvetleri
+tarafından herhangi bir işlem tesis edilmese dahi şirket tarafından kolluk kuvvetlerine yapılan
+başvurunun belgelendirilmesi hâlinde yasal yollara başvurmak için fiili kesme şartı aranmaz.
+        (2) 42 nci maddenin birinci fıkrasının (c) bendi kapsamında sayaca (Ek ibare:RG-
+14/1/2025-32782) veya ölçüm sistemine müdahale edildiğine ilişkin şüpheye sebep olacak bir
+bulguya rastlanılması halinde aşağıda belirtilen kaçak tespit süreci başlatılır;
+        a) Sayaç sökülerek yerine uygun bir sayaç takılmak sureti ile mevcut sayaç incelemeye
+alınır.
+
+         b) (Değişik:RG-20/2/2021-31401) Sökülen ve takılan sayaçlarla ilgili EK-6’ da yer alan
+bilgilerin tamamını içeren sayaç değiştirme tutanağı düzenlenir ve bu tutanağın bir örneği kullanım
+yerine bırakılır. İletişim bilgilerinin bulunması halinde tüketiciler kısa mesajla bilgilendirilir. Ayrıca
+yedinci fıkra kapsamında sayaçlar seri numaraları görülecek şekilde fotoğraflanır.
+         c) İnceleme sonucunda sayaca (Ek ibare:RG-14/1/2025-32782) veya ölçüm sistemine
+müdahale edilerek tüketimin doğru tespit edilmesinin engellenmesi suretiyle elektrik enerjisinin
+eksik veya hatalı ölçülerek veya hiç ölçülmeden tüketildiğinin laboratuvar raporu ile tespiti halinde
+EK-5’te yer alan kaçak tespit tutanağı düzenlenir.
+         ç) Laboratuvar raporu, kaçak elektrik tespit tutanağı ve ödeme bildirimi beraber tüketiciye
+bildirilir ve aynı süre içerisinde kesme bildirimi düzenlenmek suretiyle kullanım yerinin elektriği
+kesilir.
+         d) (Ek:RG-14/1/2025-32782) Sadece ölçüm sistemine müdahale edilerek tüketimin doğru
+tespit edilmesinin engellendiğinin tespiti halinde, hatalı bağlantılar düzeltilir ve EK-5’te yer alan
+kaçak elektrik tespit tutanağı düzenlenerek kullanım yerinin elektriği kesilir.
+         (3) 42 nci maddenin birinci fıkrasının (ç) bendi kapsamında kullanım yerinde EK-5’te yer
+alan kaçak elektrik tespit tutanağı düzenlenir ve kullanım yerinin elektriği kesilir.
+         (4) (Değişik:RG-8/4/2022-31803) Dağıtım lisansı sahibi tüzel kişi 42 nci maddenin birinci
+fıkrasının (b) ve (c) bentleri kapsamındaki tüm tespitler için, (a) ve (ç) bentleri kapsamında ise
+tüketimin doğru tespit edilmesinin engellendiğinin tespiti halinde kaçak elektrik enerjisi tüketimi
+tespit edilen gerçek veya tüzel kişiler hakkında Cumhuriyet Savcılığına suç duyurusunda
+bulunabilir.
+         (5) Kaçak elektrik enerjisi tüketiminin tespit edilmesinde, ilgili tüzel kişinin tespitini doğru
+bulgu ve belgelere dayandırması ve tüketici haklarının ihlal edilmemesi esastır.
+         (6) (Mülga:RG-20/2/2021-31401)
+         (7) (Değişik:RG-14/1/2025-32782) Bu madde kapsamında yapılan tespit ve işlemler
+kullanım yerini de içerecek şekilde fotoğraflanır ve/veya video kaydına alınır. Söz konusu fotoğraf
+ve video kaydında kaçak elektrik tüketiminin yöntemine dair detaylı açıklamalara yer verilir. 42 nci
+maddenin birinci fıkrasının (a), (b) ve (c) bentleri kapsamında yapılan işlemler ayrıca video
+kaydına alınır.
+         (8) (Ek:RG-14/1/2025-32782) Kaçak elektrik tespit ve tahakkuk işlemleri için su, doğal
+gaz ve internet gibi şebeke/altyapı kuruluşlarından sağlanan bilgiler kullanılabilir.
+         (9) (Ek:RG-14/1/2025-32782) 42 nci maddenin birinci fıkrasının (ç) bendi kapsamında
+mükerrer kaçak elektrik tükettiği tespit edilen tüketicinin kullanım yerindeki sayaç dışarıdan
+tüketicinin müdahalesinin mümkün olmadığı bir kesme sistemi içeren sayaçla değiştirilebilir veya
+elektriğin tüketici tarafından bağlanmasını önleyecek teknolojik yöntemler uygulanabilir.
+         ( 1 0 ) (Ek:RG-14/1/2025-32782) K a ç a k elektrik tespiti için sahaya girilmesinin
+engellenmesi ve ilgili durumun tarih ve konum bilgisi içerecek şekilde fotoğraf veya video ile kayıt
+altına alınması halinde, kaçak tespit ve tahakkuk işlemleri için dağıtım şebekesinde kullanılan
+uzaktan okuma ve izleme sistemi gibi teknolojik imkanlar kullanılabilir. Bu durumda, sahada tespit
+yapıldığında gerekli düzeltmeler dağıtım şirketi tarafından yapılır.
+         (11) (Ek:RG-14/1/2025-32782) Bu madde kapsamında düzenlenen tüm tutanakların bir
+örneği kullanım yerine bırakılır. Kullanım yerine bırakılmasının mümkün olmadığı hallerde,
+tutanaklar ilgili kullanım yerine iadeli taahhütlü posta yoluyla gönderilir. İletişim bilgilerinin
+bulunması halinde kısa mesajla bilgilendirme yapılır. Ardışık iki fatura döneminde kaçak tespiti
+yapılan kullanıcı için oluşturulan tutanağın bildirim şartı aranmaz.
+         Kaçak elektrik tüketim miktarının hesaplanması
+         MADDE 44 – (1) 42 nci maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki
+kaçak olarak tüketilen elektrik enerjisi miktarı, tüm tüketiciler için;
+         a) Öncelikle tüketimi doğru olarak kaydetmiş olan (Değişik ibare:RG-14/1/2025-32782)
+dağıtım şirketince tesis edilmiş sayaç değerine göre,
+         b) Tüketimi doğru olarak kaydetmiş (Değişik ibare:RG-14/1/2025-32782) olan dağıtım
+şirketince tesis edilmiş sayaç değerinin bulunmaması durumunda, ihtilafsız aynı dönemki tüketim
+miktarına göre,
+         hesaplanır. (b) bendi kapsamında, kaçak kullanım tespitinin yapıldığı tarihten geriye dönük
+olarak yapılan incelemeler sonucunda, tüketim değerlerinin düşmeye başladığı tarih tespit
+edilebiliyorsa, bu tarihten önceki aynı dönem, ihtilafsız dönem olarak kabul edilir.
+         (2) (Değişik:RG-14/1/2025-32782) Birinci fıkra kapsamında doğru tespit edilmiş tüketim
+değeri yoksa;
+         a) Kullanım yerinin projesi varsa, projesinde belirtilen kurulu gücün; projesi yoksa, tespit
+edilen kurulu gücün kullanma faktörü olarak alınan 0,60 ile çarpımı sonucu bulunan değer bağlantı
+gücü olarak kabul edilir ve bu değer 5 kW’nın altında olmamak üzere ortalama günlük çalışma
+saatlerine göre tüketim miktarı hesaplanır. Kullanım yerinde tarih ve konum bilgisi de içeren video
+kaydıyla anlık olarak tespit edilen akım değerine göre hesaplanan gücün, projesinde belirtilen
+kurulu güçten yüksek olması halinde, akım değeri üzerinden hesaplanan güç değeri esas alınır.
+Kurulu gücün tespit edilememesi ve projesinin bulunmaması durumunda üçüncü fıkranın (b) bendi
+kapsamındaki yöntem esas alınır. Tarımsal sulama amaçlı kullanım yerleri için kullanma faktörü 1
+(bir) olarak kabul edilir. Çift terimli tarife sınıfında bulunan tüketiciler için sözleşme gücü esas
+alınır.
+         b) Bu tür hesaplamaların yapılamaması durumunda, tüketilen elektrik enerjisi miktarı aynı
+yörede bulunan benzer kullanım yerlerinin ortalama tüketimlerine göre hesaplanarak tespit edilir.
+         ( 3 ) (Değişik:RG-14/1/2025-32782) 42 nci maddenin birinci fıkrasının (b) bendi
+kapsamında, mühürlenmiş sayaçtan geçirilmeksizin ayrı bir hat çekilmiş ise;
+         a) Tüketilen elektrik enerjisi, bu hat üzerinde tek bir cihazın tespit edilmesi halinde cihazın
+
+kurulu gücünün tamamı üzerinden hesaplanan değer, hat üzerinde birden fazla cihaz bulunması
+halinde cihazların toplam gücünün 0,60 ile çarpılmasıyla bulunan değer veya her durumda ölçülen
+akım değeri dikkate alınarak hesaplanır. Bu kapsamda hesaplanan gücün, (b) bendi kapsamında
+hesaplanan güçten fazla olması halinde, (b) bendi kapsamında hesaplanan güç dikkate alınır.
+       b) Kullanım yerinde tüketici kaynaklı olarak, (a) bendi çerçevesinde hesaplamanın
+yapılamaması halinde, ilgili durumun tarih ve konum bilgisi içerecek video kaydı ile
+belgelendirilmesi koşuluyla harici hatta yer alan, içerisinden akım geçtiği kanıtlanan kablo için
+4/11/1984 tarihli ve 18565 sayılı Resmî Gazete’de yayımlanan Elektrik İç TesisleriYönetmeliğinin
+57 nci maddesinde yer alan Çizelge 9’a göre tespit edilen gücün 0,60 ile çarpılmasıyla bulunan
+değer dikkate alınarak hesaplama yapılır. Harici hatta yer alan kabloların alüminyum olması
+halinde, Çizelge 9’da bakır için belirlenen kesit değerlerinden bir düşük olan kesite ait değer, harici
+hattın fiziken tespit edilmesi ancak cinsi veya kesitinin tespit edilememesi halinde; kullanım yerinin
+kurulu gücünün 0,60 ile çarpılmasıyla bulunan değer hesaplamada kullanılır. Mesken amaçlı
+kullanım yerinde kablo kesitine göre hesaplanan değerin, ilgili kullanım yerinin bağlantı gücünden
+yüksek olması halinde bağlantı gücü hesaplamada dikkate alınır.
+       (4) 42 nci maddenin birinci fıkrasının (ç) bendi çerçevesindeki tespitlerde; elektrik
+enerjisinin kesildiği tarihteki endeks değeri ile kaçak tespitinin yapıldığı tarihteki endeks değeri
+arasındaki fark dikkate alınarak hesaplama yapılır. (Ek cümleler:RG-14/1/2025-32782) Ancak
+elektriğin kesildiği tarih ile tespit tarihi arasındaki sürenin 180 günden uzun olması halinde tespit
+edilen endeks farkı, günlük ortalama tüketim bulunarak 180 günlük tüketim dikkate alınarak
+hesaplanır. Tarımsal sulama amaçlı kullanım yerleri için bu süre 360 gün olarak uygulanır. 32 nci
+maddenin ikinci fıkrasında tanımlanan hallerde süre sınırı gözetilmeksizin elektrik enerjisinin
+kesildiği tarih ile tespit tarihi arasındaki süre ve bu tarihler arasındaki tüketim dikkate alınarak
+hesaplama yapılır.
+       (5) (Ek:RG-14/1/2025-32782) Üçüncü fıkranın (a) ve (b) bentleri dışında, kaçak elektrik
+enerjisi tüketimi yapıldığı kabul edilen dönemlerde faturalanmış olan elektrik enerjisi tüketim
+miktarları varsa, bu tüketim miktarları, hesaplanan kaçak elektrik enerjisi tüketim miktarından
+çıkarılarak tenzil işlemi yapılır.
+       ( 6 ) (Ek:RG-14/1/2025-32782) P erakende satış sözleşmesi veya ikili anlaşması
+mevcutken bu madde kapsamında hesaplanan kaçak elektrik tüketim miktarı Son Kaynak Tedarik
+Tarifesinin Düzenlenmesi Hakkında Tebliğ kapsamında son kaynak tüketici gruplarının tespitinde
+dikkate alınır.
+       Kaçak elektrik enerjisi tüketim miktarının hesaplanmasında ve faturalanmasında
+esas alınacak süre
+       MADDE 45 – (1) Kaçak elektrik enerjisi tükettiği tespit edilen tüketiciye yapılacak
+faturalandırmada, aşağıda yer alan süreler esas alınır;
+       a) 42 nci maddenin birinci fıkrasının (a) bendi çerçevesindeki tespitlerde; doğru bulgu ve
+belgelere dayandırılması kaydıyla kaçak elektrik enerjisi kullanılmaya başlandığı tarih ile kaçak
+tespitinin yapıldığı tarih arasındaki süre olup bu süre (Değişik ibare:RG-14/1/2025-32782) 360
+günü geçemez. Doğru bulgu ve belgelerin bulunmaması halinde bu süre 90 (Değişik ibare:RG-
+14/1/2025-32782) günü geçemez.
+       b) 42 nci maddenin birinci fıkrasının (b) bendi çerçevesindeki tespitlerde; kaçak elektrik
+enerjisi kullanımına ilişkin olarak yapılacak hesaplamada kullanım süresi esas alınır, bu süre
+(Değişik ibare:RG-14/1/2025-32782) 270 günü geçemez.
+       c ) (Değişik:RG-14/1/2025-32782) 42 nci maddenin birinci fıkrasının (c) bendi
+çerçevesindeki tespitlerde; kaçak şüphesi nedeniyle kaçak tespitine yönelik yapılan önceki
+işlemler hariç olmak üzere, tutanak düzenlenmiş olması kaydıyla kontrol, mühürleme, kesme-
+bağlama, sayaç değiştirme işlemleri gibi, sayaç mahallinde dağıtım şirketince gerçekleştirilmiş olan
+en son işlem tarihi ile kaçak tespitinin yapıldığı tarihe kadar olan süredir ve bu süre ihtilafsız
+dönem kullanılarak yapılan hesaplamalarda 240 günü, güç üzerinden yapılan hesaplamalarda ise
+60 günü geçemez.
+       ç) (Mülga:RG-14/1/2025-32782)
+       (2) 42 nci maddenin birinci fıkrasının (ç) bendi çerçevesindeki tespitlerde; kaçak elektrik
+enerjisi kullanımına ilişkin olarak yapılacak hesaplamada esas alınacak süre, tüketicinin tespite
+konu elektrik enerjisinin kesildiği tarih ile kaçak tespitinin yapıldığı tarih arasındaki süredir. (Ek
+cümle:RG-14/1/2025-32782) Bu süre, 32 nci maddenin ikinci fıkrası kapsamındaki haller hariç
+olmak üzere 180 günü, tarımsal sulama amaçlı kullanım yerleri için ise 360 günü geçemez.
+       ( 3 ) (Değişik:RG-14/1/2025-32782)               Kaçak elektrik enerjisi tüketim miktarının
+hesaplanmasında ortalama günlük çalışma saatleri;
+       a) Mesken amaçlı kullanım yerlerinde 5 saat,
+       b) Tarımsal faaliyet amaçlı kullanım yerlerinde; ilgili il/ilçe tarım ve orman müdürlüğünden
+veya üniversitelerden ürün ve/veya tarımsal faaliyet bazında alınacak, sulama sezonu saati veya
+elektrik enerjisi kullanımını gerektiren diğer tarımsal faaliyetler için gerekli günlük elektrik kullanım
+saati bilgisi çerçevesinde belirlenen saat, bu bilginin temin edilememesi durumunda ilgili il/ilçe
+tarım ve orman müdürlüğünden veya benzer iklim koşullarına sahip komşu illerin il/ilçe tarım ve
+orman müdürlüğünden, Tarım İşletmeleri Genel Müdürlüğünden veya üniversitelerden, ürün
+ve/veya tarımsal faaliyet bazında temin edilen ve kaçak tüketimin yapıldığı ilgili sulama sezonunda
+yer alan sulama gün sayısı veya diğer tarımsal faaliyetler için elektrik enerjisi kullanımı yapılması
+gereken gün sayısı esas alınarak 8 saat,
+       c) Sanayi tüketimi amaçlı kullanım yerlerinde, tek vardiya çalışanlar için 7 saat, iki vardiya
+çalışanlar için 14 saat, üç vardiya çalışanlar için 21 saat, vardiya tespiti yapılamayan tüketicilerde
+12 saat,
+       ç) Turistik tesisler, akaryakıt istasyonları ve hastaneler için 10 saat,
+
+        d) Alışveriş merkezleri, soğuk hava depoları ve araç şarj istasyonları için 12 saat,
+        e) Diğer tüketicilerde 8 saat,
+        olarak kabul edilir.
+        (4) Perakende satış sözleşmesi veya ikili anlaşması olmayanlara, çalışma saatleri %20
+oranında artırılarak uygulanır. Üç vardiya çalışanlar için bu süre 24 saat olarak kabul edilir.
+        ( 5 ) (Değişik:RG-14/1/2025-32782) Üçüncü fıkranın (c) bendinin uygulanmasında,
+vardiya sayısının tespitinde kaçak elektrik tespiti yapılan şirket ve/veya kullanım yeri kayıtları,
+bunun mümkün olmaması halinde kamu kurum ve kuruluşları tarafından verilen resmî belgeler göz
+önüne alınır.
+        Kaçak elektrik enerjisi tüketiminin faturalandırılması
+        MADDE 46 – (1) Tüm kaçak kullanımlara ilişkin hesaplamalar Kurul onaylı tarife
+tablolarındaki ilgili tüketicinin tüketici grubuna ilişkin tek terimli, tek zamanlı aktif enerji ve dağıtım
+tarifesi üzerinden yapılır. Yapılan hesaplamalarda reaktif enerjiye ve trafo kayıplarına ilişkin
+bedeller dikkate alınmaz. (Ek cümleler:RG-14/1/2025-32782) Tüketici grupları için elektrik
+enerjisi tüketim miktarına göre farklı tarifeler belirlenmesi halinde, ilgili tüketici grubuna uygulanan
+kademeli tarife üzerinden hesaplama yapılır. Son Kaynak Tedarik Tarifesinin Düzenlenmesi
+Hakkında Tebliğ kapsamında belirlenen yüksek tüketimli tüketicilere ise kaçak elektrik tüketimi
+yapıldığı tarihlerde her bir ay için faturalarında yer alan birim fiyatlar uygulanır.
+        (2) Kaçak elektrik enerjisi tükettiği tespit edilen tüketicinin, 44 üncü madde çerçevesinde
+hesaplanan tüketimi, dahil olduğu tüketici grubuna kaçak elektrik enerjisi (Değişik ibare:RG-
+14/1/2025-32782) tüketimi tespiti yapıldığı tarihte uygulanmakta olan ve birinci fıkrada kapsamı
+belirtilen tarifenin (Değişik ibare:RG-14/1/2025-32782) 2 katı ile çarpılarak, kaçak enerji
+tüketim bedeli hesaplanır ve bu bedel fatura edilir.
+        (3) Tüketicinin aynı veya başka bir kullanım yerinde (Değişik ibare:RG-14/1/2025-
+32782) geçmiş 3 yıl içerisinde kaçak elektrik enerjisi tükettiğinin (D e ğiş ik ibare:RG-
+14/1/2025-32782) tespit edilmesi durumunda, kaçak elektrik enerjisi tüketiminin tespit edildiği
+tarihte yürürlükte olan ve birinci fıkrada kapsamı belirtilen tarifenin (De ğiş ik ibare:RG-
+14/1/2025-32782) 2,5 katı göz önüne alınarak hesaplama yapılır.
+        (4) Perakende satış sözleşmesi veya ikili anlaşması olmayanlara ilişkin kaçak elektrik
+enerjisi tüketimindeki hesaplamalar, (Değişik ibare:RG-14/1/2025-32782) kamu ve özel
+hizmetler sektörü ile diğer adlı tüketici grubuna uygulanan birinci fıkrada kapsamı belirtilen tarife
+üzerinden yapılır. (Ek cümleler:RG-14/1/2025-32782) Hesaplama, mesken olarak kullanıldığı
+tespit edilen yerlerde mesken tüketici grubuna uygulanan birinci fıkrada kapsamı belirtilen tarife
+üzerinden yapılır. Ancak, bu fıkra kapsamında hesaplanan kaçak elektrik tüketim miktarının Son
+K aynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ kapsamında belirlenen yüksek
+tüketimli tüketicilere ilişkin limitin üzerinde olması halinde, kaçak elektrik enerjisi tüketimindeki
+hesaplamalar, tespit tarihinden bir önceki takvim ayında geçerli olan son kaynak tedarik tarifesi
+esas alınarak yapılır.
+        ( 5 ) (Ek:RG-14/1/2025-32782) Bu madde kapsamında düzenlenen faturayla birlikte
+tüketici, kaçak elektrik tüketim faturası hesaplama ayrıntılarına ve kendisine uygulanan işlemin
+gerekçelerine, itiraz süresi ve koşullarına ilişkin yazılı olarak veya kalıcı veri saklayıcısı ile
+bilgilendirilir. Son bir yıl içerisinde tüketici adına kaçak elektrik tespiti yapılmış ise bu fıkra hükmü
+uygulanmaz.
+        Ödeme
+        MADDE 47 – (1) (Değişik:RG-20/2/2021-31401) Kaçak elektrik tüketim faturası
+kaçak elektrik tespit tarihinden itibaren en geç 3 iş günü içerisinde tüketicilere gönderilir. 42 nci
+maddenin birinci fıkrasının (ç) bendi ve aynı fıkranın (a) bendi kapsamında sayaç değerleri
+kullanılarak düzenlenen kaçak elektrik faturaları hariç olmak üzere kaçak elektrik faturaları iadeli
+taahhütlü posta yoluyla gönderilir. Ayrıca iletişim bilgilerinin bulunması halinde fatura hakkında
+tüketiciler kısa mesajla bilgilendirilir. Kaçak elektrik enerjisi tükettiği tespit edilen tüketici,
+kendisine fatura edilen bedeli son ödeme tarihine kadar ödemekle yükümlüdür. Fatura kredi kartı
+ile ödenebilir. Tüketiciye gönderilen faturada ödeme için en az 10 gün süre verilir. İtirazın yapılmış
+olması ödeme yükümlülüğünü ortadan kaldırmaz. İadeli taahhütlü posta yoluyla gönderilen
+faturalara dair masraf ilgili tüketici tarafından karşılanır. Söz konusu masraf ilgili tüketiciye
+gönderilen faturaya ilave edilir.
+        (2) Tüketici, söz konusu kaçak faturasına ilişkin gönderilen ödeme bildirimine, kaçak
+elektrik enerjisi tüketmediği veya hesaplamalara esas miktar ve sürenin 44 ve 45 inci maddeler
+dışında olduğu veya uygulanan tarife ve diğer parametrelerde yanlışlık olduğuna ilişkin hususlara
+ait kanıt ve belgeleri ile birlikte, bildirim tarihinden itibaren 6 ay içerisinde itiraz edebilir. Bu itiraz
+en geç 10 iş günü içerisinde sonuçlandırılır. İnceleme sonucuna göre; tüketicinin haklı olduğunun
+anlaşılması ve tüketicinin gönderilen ödeme bildiriminde yer alan tutarı ödemiş olması halinde,
+dağıtım şirketince iade edilecek tutara, tüketicinin ödeme tarihinden itibaren geçerli olmak üzere,
+gecikme zammı günlük olarak uygulanarak iade işlemi gerçekleştirilir.
+        (3) İkinci fıkra kapsamında yapılan itiraz sonuçlandırılıncaya kadar tüketicinin
+mağduriyetinin önlenmesi bakımından itiraza esas tutarın teminata bağlanması şartıyla elektrik
+enerjisi bağlanabilir.
+        (4) (Ek:RG-14/1/2025-32782) Kaçak elektrik faturasının tahsili amacıyla yasal takip
+işlemleri başlatılmadan önce tüketiciye borcun 15 gün içerisinde ödenmesi gerektiği, borcun
+ödenmemesi durumunda muaccel hale gelmiş borcun yasal yollarla tahsiline gidileceğine ilişkin
+hem yazılı hem de iletişim bilgilerinin bulunması halinde kalıcı veri saklayıcısı kullanılarak bildirimde
+bulunulur. Bu hükme aykırı olarak yasal yollara başvurulması halinde, yapılan işlemler sonlandırılır,
+
+oluşan masraf ve giderler tüketiciden talep edilemez. Kaçak elektrik faturasının tahsil edilememesi
+halinde, devam eden kaçak elektrik kullanımına ilişkin yasal takip için son bir yıl içerisinde bildirim
+yapıldıysa yeni bildirim şartı aranmaz. İlgili bildirimlerin bu fıkra kapsamında yapılmadığının tespit
+edilmesi halinde Kanunun 16 ncı maddesi kapsamında işlem tesis edilir.
+        ( 5 ) (Ek:RG-14/1/2025-32782) Bu madde kapsamında dağıtım şirketi tarafından bu
+Yönetmelikte belirlenen oranı aşmamak üzere, gecikme zammı günlük olarak uygulanır.
+        Usulsüz elektrik enerjisi tüketimi
+        MADDE 48 – (1) Tüketicinin;
+        a) İlgili tüzel kişilere yapılmış başvuru olmaksızın, bulunduğu tüketici grubunun kapsamı
+dışında elektrik enerjisi tüketmesi,
+        b) Kendi adına perakende satış sözleşmesi veya ikili anlaşması olmadan daha önceki
+tüketici adına düzenlenen ödeme bildirimlerini ödemek suretiyle elektrik enerjisi tüketmesi,
+        c) 6 ncı maddenin altıncı fıkrası hükmü dışında, ölçme noktasından sonraki kendi elektrik
+tesisatından üçüncü şahıslara elektrik enerjisi vermesi,
+        ç) Güç trafosunu değiştirdiği halde ilgili tüzel kişilere durumu yazılı olarak 15 gün içerisinde
+bildirmemesi,
+        d) Mesken tüketici grubunda yer alan tüketiciler hariç, kendisine ait tesis veya tesislerdeki
+bağlantı gücünün yüzde yirmiden daha fazla artması halinde, ilgili mevzuat çerçevesinde ilgili lisans
+sahibi tüzel kişiye başvurmaması veya başvurmuş olmasına rağmen ilgili mevzuat kapsamındaki
+yükümlülüklerini yerine getirmemesi,
+        hallerinde, usulsüz elektrik enerjisi tüketmiş sayılır.
+        (2) Birinci fıkra ile ilgili olarak; (a), (b) ve (c) bentlerinde tanımlanan hallerde, usulsüz
+elektrik enerjisi tüketimi tespitinden önce ilgili tüzel kişilere başvuruda bulunulmuş olması ve bunun
+belgelenmesi durumunda, usulsüz elektrik enerjisi tüketimine ilişkin hükümler uygulanmaz.
+        (3) Birinci fıkra kapsamında tanımlanan usulsüz elektrik enerjisi kullanımlarına ilişkin
+tespitlerde;
+        a) Birinci fıkranın (b) bendinde belirtilen halde tedarikçiler tarafından (a) bendinde belirtilen
+halde ise görevli tedarik şirketi tarafından,
+        b) (c), (ç) ve (d) bentlerinde belirtilen hallerde ise dağıtım şirketi tarafından,
+        tüketiciye yükümlülüklerini yerine getirmesi için 15 gün süre verildiğini belirten kesme ihbarı
+bırakılır. Yükümlülüklerini yerine getirmeyen tüketicinin dahil olduğu tüketici grubundan ait olduğu
+yıla ilişkin Kurul Kararı ile belirlenen kesme-bağlama bedelinin 5 katı ücret tahsil edilerek, bu
+fıkranın (b) bendinde belirtilen hallerde doğrudan, (a) bendinde belirtilen hallerde ise görevli
+tedarik şirketinin bildirimi üzerine dağıtım şirketi tarafından elektriği kesilir. Bu madde kapsamında
+yapılan kesintiler hakkında dağıtım şirketi tarafından ilgili tedarikçiye 2 gün içerisinde bilgi verilir.
+        (4) 12/10/2013 tarihli ve 28793 sayılı Resmî Gazete’de yayımlanan Devlet Su İşleri Genel
+Müdürlüğü Yeraltısuyu Ölçüm Sistemleri Yönetmeliği uyarınca; DSİ tarafından verilen
+Yeraltısuyu Kullanma Belgesinde belirtilen, yeraltısuyundan çekilebilecek azami su için gerekli
+yıllık elektrik enerjisi tüketim miktarını aşan tüketicinin elektrik enerjisi, DSİ’nin bildirimi üzerine
+dağıtım lisansı sahibi tüzel kişi tarafından en geç yedi gün içerisinde kesilir. 167 sayılı Yeraltı Suları
+Hakkında Kanun hükümleri uyarınca yeraltısuyundan çekilebilecek azami su için gerekli yıllık
+elektrik enerjisi tüketim miktarını gösterir Yeraltısuyu Kullanma Belgesi alınmadan elektrik enerjisi
+bağlanamaz. Mevcut yeraltısuyu kullanıcılarının elektrik enerjisi; kullanıcıların, 167 sayılı Yeraltı
+Suları Hakkında Kanunda ölçüm sistemi kurulması için öngörülen süre sonuna kadar elektrik
+enerjisi tüketim limitini gösteren Yeraltısuyu Kullanma Belgesini ibraz edememesi halinde, DSİ’nin
+bildirimine müteakip dağıtım şirketince en geç yedi gün içerisinde kesilir.
+        (5) Tüketicinin elektrik enerjisinin DSİ’ninbildirimi üzerine kesilmesi halinde doğabilecek
+ihtilaflarda sorumluluk DSİ’ye aittir.
+        Elektriğin kesilmesi ve bağlanması
+        MADDE 49 – (1) Aşağıda belirtilen hallerde dağıtım şirketi tarafından;
+        a) Kullanım yerinin tahliye edilmesi nedeniyle ikili anlaşma veya perakende satış sözleşmesi
+sona erdirilerek elektrik tüketilmeyen,
+        b) İkili anlaşması ve perakende satış sözleşmesi bulunmayan,
+        c) Kaçak elektrik tespiti ile kaçak elektrik ve usulsüz elektrik enerjisi kullanımı sonucunda
+yükümlülükleri yerine getirilmemiş,
+        ç) 35 inci madde kapsamında ödeme yükümlülüğü yerine getirilmeyen,
+        kullanım yerlerinin elektriği kesilir.
+        (2) Tüketicilerin ikili anlaşmalarından kaynaklı borçları nedeniyle elektriği kesilemez. Ancak
+tedarikçi değişikliği gerçekleşmiş olsa bile, düzenlemeye tabi tarifeler yoluyla görevli tedarik
+şirketinden elektrik enerjisi ve/veya kapasite alan gerçek veya tüzel kişilerin bu kapsamdaki
+borçları nedeniyle elektriği kesilebilir.
+        ( 3 ) (Değişik:RG-20/2/2021-31401) Bu madde kapsamında elektriği kesilmiş olan
+kullanım yerine ilişkin ilgili yükümlülüklerin yerine getirilmesi üzerine tedarikçiyi ilgilendiren
+hallerde tedarikçi tarafından aynı gün içerisinde dağıtım şirketine bildirimde bulunulur. Bildirimin
+yapıldığı andan itibaren veya dağıtım şirketine ilişkin yükümlülüğün yerine getirildiği andan itibaren
+dağıtım şirketi;
+        a) Kentsel ve kentaltı dağıtım bölgesinde 24 saat içerisinde,
+        b) Kırsal dağıtım bölgesinde 48 saat içerisinde,
+        elektrik enerjisini bağlar. Yapılacak bağlama işleminden sonra tüketiciye yazılı olarak
+bağlama bildirimi bırakılır. Bağlama bildiriminde, bağlama tarihi ile saatine ve son endeks değerine
+yer verilmesi zorunludur. Ayrıca, bulunması halinde kısa mesaj ile de bildirim yapılır.
+        (4) Elektrik enerjisinin bağlanması için, tüketici tarafından ödenecek kesme-bağlama bedeli,
+
+kesme-bağlamanın dağıtım şirketi tarafından tedarik şirketine bildirimini takip eden bir sonraki
+döneme ait ödeme bildirimine yansıtılır. Bu kapsamda;
+        a) Fiilen elektriği kesilmeyen kullanım yerinde tüketiciden kesme-bağlama bedeli talep
+edilmez.
+        b) Görevli tedarik şirketinin dağıtım şirketine elektriğin kesilmesi bildiriminde bulunmasından
+sonra, tüketicinin yükümlülüklerini yerine getirmesine rağmen bu durumun söz konusu görevli
+tedarik şirketi tarafından ilgili dağıtım şirketine bildirilmemesi ve dağıtım şirketinin
+yükümlülüklerinin yerine getirildiğini kesme-bağlama işleminin uygulanması için varmış olduğu
+kullanım yerinde öğrenmesi halinde, söz konusu kesme-bağlama bedeli oranında bir bedelin, ilgili
+görevli tedarik şirketi tarafından ilgili dağıtım şirketine ödenmesi zorunludur. Ödenen bu bedel
+tüketicinin ödeme bildirimine yansıtılamaz.
+        (5) (Ek:RG-20/2/2021-31401) Bu madde kapsamında kesme işlemine esas veriler kesme
+işleminin akabinde TÜBİTAKKamu Sertifikasyon Merkezi tarafından sağlanan zaman damgası
+ile saklanır.
+        (6) (Ek:RG-20/2/2021-31401) Zamanında ödenmeyen borçlar kapsamında uygulanan
+kesme işlemi; Pazartesi, Salı, Çarşamba, Perşembe günleri 08:00-15:00 saatleri arasında yapılır.
+Resmî, dini bayram günleri, genel tatil günleri ile bunların bir önceki günlerinde kesme işlemi
+yapılmaz.
+        (7) (Ek:RG-14/1/2025-32782) 42 nci maddenin birinci fıkrası kapsamında aynı yıl içinde
+üç defa işlem tesis edilmiş olan kullanıcının, ilk işlemin üzerinden altı ay geçmesi ve kaçak
+kullanımın devam etmesi halinde varsa dağıtım tesisi ile bağlantısı kaçak kullanımı önleyecek
+şekilde kesilebilir. Kullanıcının yükümlülüklerini yerine getirmesi halinde ilgili bağlantı herhangi bir
+bedel talep etmeden dağıtım şirketi tarafından tesis edilir.
+                                            SEKİZİNCİ BÖLÜM
+                                                     Sayaçlar
+        Sayaç ve sayaca erişim
+        MADDE 50 – (1) Tüketicinin aktif ve reaktif elektrik enerjisi tüketimi ile güç ölçümleri;
+ilgili mevzuat uyarınca tesis edilen sayaçlar ve uygun şekilde tesis edilmiş ölçüm sistemleri
+kurulmak suretiyle ölçülür.
+        (2) Tüketici, kullanım yerine ait sayaç ve/veya ölçüm sistemlerine müdahale etmemek,
+dağıtım şirketinin sayaç ve/veya ölçüm sistemlerine erişimini engellememekle mükelleftir. (Ek
+cümle:RG-14/1/2025-32782) Sayaca erişimin engellenmesi halinde, dağıtım şirketi tarafından
+sayaç ve/veya ölçüm sisteminin yeri değiştirilebilir.
+        Sayaç kontrolü
+        MADDE 51 –(1) (Değişik:RG-20/2/2021-31401) Sayacın arızalanması veya ölçme
+hassasiyetinden şüphe edilmesi halinde, ilgili tüzel kişi veya tüketici tarafından sayacın kontrolü
+talep edilebilir. Bu talep, dağıtım lisansı sahibi tüzel kişi tarafından 11/1/1989 tarihli ve 3516 sayılı
+Ölçüler ve Ayar Kanunu hükümleri çerçevesinde karşılanır. Sayacın doğru tüketim kaydettiğinin
+tespiti halinde sayaç kontrol bedeli talep sahibi tarafından karşılanır. Tüketicinin sayaç kontrol
+talebinden itibaren 10 iş günü içerisinde ilgili dağıtım şirketi tarafından sayaç sökülerek değiştirilir.
+Sayaç değiştirme tutanağının bir örneği kullanım yerine bırakılır ve iletişim bilgilerinin bulunması
+halinde tüketiciler kısa mesajla bilgilendirilir.
+        (2) 3516 sayılı Ölçüler ve Ayar Kanunu ve bu Kanuna ilişkin ikincil mevzuat çerçevesinde
+periyodik muayene sebebiyle değiştirilmesi gereken tüketici mülkiyetindeki sayaç, dağıtım şirketi
+tarafından ilgili mevzuat çerçevesinde belirlenen standartları taşıyan ve dağıtım şirketi
+mülkiyetinde olan bir sayaç ile değiştirilir. Eski sayacın ilgili mevzuat çerçevesinde belirlenen
+standartları taşıması halinde, söz konusu sayacın dağıtım şirketince tekrar kullanılabilmesi için
+periyodik muayeneden geçirilmesi zorunludur.
+        (3) Arızalanan, hasar gören veya ilgili mevzuat çerçevesinde değiştirilmesi gereken sayaç
+yerine dağıtım şirketi tarafından ilgili mevzuat çerçevesinde belirlenen standartları taşıyan ve
+dağıtım şirketinin mülkiyetinde olan bir sayaç takılır.
+        (4) Birinci fıkra kapsamında belirtilen bedeller dışında, bu madde kapsamında yapılacak
+sayaç değişimi ve diğer işlemler ile ilgili olarak, tüketiciden herhangi bir ad altında bedel talep
+edilemez ve tüm maliyetler ilgili dağıtım şirketi tarafından karşılanır.
+        (5) Bu madde çerçevesinde yapılan işlemlerde kesme bağlama bedeli alınmaz.
+        (6) Bu madde çerçevesinde sayacın yerinden sökülmesi durumunda; sökülen sayacın yerine
+dağıtım lisansı sahibi tüzel kişi tarafından, asgari sökülen sayacın fonksiyonlarını yerine getirecek
+nitelikte bir sayaç takılır. Sökülen ve takılan sayaçlarla ilgili EK-6’da yer alan bilgileri içeren sayaç
+değiştirme tutanağı düzenlenir. Bu madde kapsamında tüketicinin mülkiyetindeki sayacın
+değiştirilmesi halinde, eski sayaç dağıtım şirketince, işletme ve bakım hizmetleri karşılığında, iz
+bedelle tüketiciden devralınır.
+                                          DOKUZUNCU BÖLÜM
+                               Tüketicilerin Korunması ve Desteklenmesi
+        Tüketicilerin korunması
+        MADDE 52 – (1) Dağıtım şirketleri elektrikle çalışan diyaliz destek ünitesi, solunum cihazı
+ve benzeri mahiyette yaşam destek cihazlarına bağımlı olan ve destekleyici belgelere sahip
+tüketicilerin yazılı başvurusu halinde bu tüketicilerin yaşadığı kullanım yerlerine ait perakende satış
+sözleşmeleri ve ikili anlaşmaları kayıt altına alır.
+        (2) Geçerli sağlık raporunu dağıtım şirketine ibraz eden söz konusu tüketicilerin usulüne
+uygun elektrik tüketimi nedeniyle oluşabilecek borçlarından dolayı elektrikleri kesilmez ve borcun
+ödenmesine ilişkin taksitlendirme talep edilmesi halinde taksitlendirme tedarikçiler tarafından
+yapılır. Taksitlendirme süresi azami dört aydır.
+
+        (3) İlgili dağıtım şirketi tüketicinin elektriğinin kesilmemesi için tüketicinin tedarikçisi olan
+şirkete, raporun kendisine ibraz tarihinden itibaren 3 iş günü içinde bilgi vermekle yükümlüdür.
+        (4) Dağıtım şirketi tüketiciye sağlık raporunun süresinin sona ereceğine ilişkin
+bilgilendirmeyi sağlık raporunun süresinin sona erme tarihinden en az 20 gün önce yapar. Tüketici
+ibraz ettiği sağlık raporunun süresinin sona erme tarihinden itibaren 30 gün içinde, geçerli raporunu
+dağıtım şirketine bildirmekle yükümlüdür. Söz konusu sürenin dolmasına rağmen raporunu ibraz
+etmeyen tüketiciler ilgili dağıtım şirketince tüketicinin tedarikçisine tüketiciye tanınan 30 günlük
+süreyi takip eden 3 iş günü içerisinde bildirilir ve tüketicinin elektriği mevzuatın düzenlediği
+hallerde kesilebilir.
+        (5) Planlı elektrik kesintileri söz konusu olması durumunda bu tüketiciler elektrik dağıtım
+şirketleri tarafından tüketicinin belirlediği iletişim aracıyla öncelikle bilgilendirilirler.
+        (6) Plansız elektrik kesintileri söz konusu olması durumunda bu tüketiciler kesinti ile ilgili
+durum hakkında elektrik dağıtım şirketleri tarafından tüketicinin belirlediği iletişim aracıyla
+bilgilendirilirler.
+        (7) (Ek:RG-20/2/2021-31401) Kendi adına perakende satış sözleşmesi olan mesken
+tüketici grubunda bulunan, 65 yaş üstü tüketicilerin, yüzde 40’ın üzerinde engelli olduğuna dair
+sağlık kurulu raporunu (Ek ibare:RG-14/1/2025-32782) veya engelli kimlik kartını görevli
+tedarik şirketine ibraz eden engelli tüketicilerin ve Şehit Aileleri ve Muharip/Malul Gaziler mesken
+alt tüketici grubunda bulunan tüketicilerin elektriği, tek bir kullanım yerine ait faturaların aralıksız
+olarak yıl içerisinde en az üç dönem boyunca zamanında ödenmemesi ve tüketicinin kesme
+yapılacağı hakkında görevli tedarik şirketi tarafından bilgilendirildiğinin ispatı hallerinde kesilebilir.
+Borcun ödenmesine ilişkin taksitlendirme talep edilmesi halinde taksitlendirme tedarikçiler
+tarafından yapılır. Taksitlendirme süresi azami dört aydır.
+        Kamuoyunun bilgilendirilmesi
+        MADDE 53 – (1) Bir önceki takvim yılına ait olmak üzere;
+        a) TEİAŞ, iletim sistemine doğrudan bağlı oluptedarikçisini seçme hakkını kullanan serbest
+tüketiciler tarafından tüketilen toplam elektrik enerjisi miktarını,
+        b) Dağıtım lisansı sahibi tüzel kişiler;
+        1) Bölgelerinde tüketilen toplam elektrik enerjisi miktarını,
+        2) Tedarikçisini seçme hakkını kullanan serbest tüketiciler tarafından tüketilen toplam
+elektrik enerjisi miktarını,
+        3) Serbest tüketici limitini geçtikleri halde tedarikçisini seçme hakkını kullanmayan
+tüketiciler tarafından tüketilen toplam elektrik enerjisi miktarını,
+        her yıl Şubat ayı içerisinde Kuruma bildirmek ve internet sitesinde yayımlamak suretiyle
+kamuoyuna duyurmak zorundadır.
+        Tüketici hizmetleri merkezi
+        MADDE 54 – (1) Dağıtım şirketleri ile görevli tedarik şirketleri tarafından, faaliyet
+konuları ile ilgili olarak arıza bildirimi, kaçak ve usulsüz elektrik enerjisi kullanım ihbarları, ödeme
+bildirimlerine ilişkin itirazlar, şikâyetler ve benzeri konularda yapılan başvuruların cevaplandırılması
+için, yeterli donanım ve personele sahip tüketici hizmetleri merkezleri kurulur.
+        (2) Dağıtım şirketleri ile görevli tedarik şirketleri tarafından, tüketici hizmetleri merkezlerinin
+bünyesinde, tüketicilere yönelik 24 saat kesintisiz hizmet verecek şekilde çağrı merkezi kurulur.
+Çağrı merkezi hizmet kalitesi standartlarına ilişkin usul ve esaslar Kurul kararı ile belirlenir.
+Dağıtım şirketleri ile görevli tedarik şirketleri tüketicilere yönelik çağrı hizmetleri ile ilgili olarak
+birbirlerinden veya aynı kaynaktan hizmet alımı yapabilirler. Bu kapsamdaki hizmet alımı, süre
+sınırlamasına tabi değildir.
+        (3) Dağıtım şirketleri ile görevli tedarik şirketlerinin internet sitelerinde, kolayca
+görülebilecek ve erişilebilecek şekilde “İtiraz veya Şikâyet Başvurusu” erişimine yer verilmesi
+zorunludur.
+        İhbar ve şikâyet başvuruları
+        MADDE 55 – (1) Arıza bildirimleri ile kaçak ve usulsüz elektrik enerjisi kullanım ihbarları,
+şikayetler ve bilgi edinmeye ilişkin tüm başvurular ilgili tüzel kişiye yazılı, telefonla veya internet
+aracılığıyla yapılabilir.
+        (2) Tüketici hizmetleri merkezi tarafından kaydedilen başvurular, 15 iş günü içerisinde
+sonuçlandırılarak öngörülen işlem, başvuru sahibinin talebine uygun olarak yazılı olarak ya da kalıcı
+veri saklayıcısıyla bildirilir.
+        (3) Tüketici hizmetleri merkezine yapılan başvuruya ilişkin olarak, ilgili tüzel kişi tarafından
+öngörülen işlem hakkında başvuru sahibi ile ilgili tüzel kişi arasında bir anlaşmazlığın söz konusu
+olması halinde; başvuru sahibi tarafından Kuruma, ancak öngörülen işlemin ilgili mevzuata aykırılık
+teşkil ettiği iddiasıyla başvurulabilir. Kurum, gerekli gördüğü hallerde inceleme yapar veya yaptırır.
+        (4) Kaçak ve usulsüz elektrik enerjisi kullanımına ilişkin ihbarları yapan kişilerin kimlikleri
+gizli tutulur.
+        (5) Tüketici hizmetleri merkezine ulaşan tüm başvuru, ihbar ve şikâyetlerin; ilgili mevzuat
+hükümleri çerçevesinde, ilgili tüzel kişiler tarafından kayıt altına alınmak suretiyle Kurum
+tarafından istenilen zamanda ve formatta raporlanması zorunludur.
+        Tüketicilerin bilgilendirilmesi ile tüketici hakları ve zararların tazmini
+        MADDE 56 – (1) Dağıtım şirketi ile görevli tedarik şirketleri, tüketicilerin yeterli, güvenli,
+sürekli ve kolay bir şekilde hizmet almalarını ve hizmet seçeneklerini öğrenmelerini teminen,
+gerekli bilgilendirme faaliyetini, yerine getirmekle yükümlüdür.
+        (2) Tüketicilerin bilgilendirilmesi görevi, ilgili tüzel kişinin tüketici hizmetleri merkezleri
+tarafından yürütülür. İlgili tüzel kişiler, tüketicilere ücretsiz olarak broşür, katalog gibi araçlar
+dağıtabilir ve/veya elektronik posta veya kısa mesaj gönderebilir. Bu madde kapsamında yapılacak
+
+bilgilendirmeler, ayrıca internet sitesi üzerinden de kolayca ulaşılabilecek bir biçimde yayımlanır.
+         (3) Dağıtım şirketi, tüketicinin talebi halinde ve her takvim yılı içerisinde iki defadan fazla
+olmamak üzere, tüketicinin geçmiş 24 aya yönelik elektrik enerjisi tüketimini tek zamanlı veya çok
+zamanlı olarak kWh cinsinden gösteren belgeyi ücretsiz olarak sunmakla yükümlüdür.
+         (4) Dağıtım lisansı sahibi tüzel kişi, tüketicileri dağıtım veya iletim sisteminde programlanmış
+bir müdahale nedeniyle meydana gelecek programlı kesintiler hakkında yazılı, işitsel veya görsel
+basın yayın kuruluşları aracılığıyla ve internet sitesinde, ayrıca isteyen kullanıcılara kısa mesaj
+ve/veya elektronik posta gönderilmesi suretiyle kesintinin tarih, başlangıç ve sona erme zamanının,
+kesintinin başlama zamanından en az kırk sekiz saat önce nihai tüketicilere bilgilendirmekle
+yükümlüdür.
+         (5) Tüketiciler Enerji Piyasaları İşletme AnonimŞirketi tarafından oluşturulmuş tüketici
+portalını kullanarak asgari aşağıdaki bilgilere ulaşabilir;
+         a) Tüketim noktasının açık adresi,
+         b) Tüketici grubu ve belirlenmişse tüketici alt grubu,
+         c) Tüketim noktasına profil uygulanıp uygulanmadığı,
+         ç) Tüketim noktasının sözleşme gücü,
+         d) Aktif ve reaktif endeks değerleri, sayaç çarpanı ve okuma tarihi,
+         e) Tüketim noktasına ilişkin geçmişe dönük düzeltme bilgisi,
+         f) Tedarikçisinin unvanı,
+         g) Halihazırda tedarikçisini seçme hakkını kullanıp kullanmadığına ilişkin bilgi.
+         (6) Bu Yönetmelik hükümleri uyarınca elektrik enerjisi hizmeti alan tüketicilerin hakları ve
+zararlarının tazmini konusunda, 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri ile
+ilgili diğer mevzuat hükümleri uygulanır.
+         Bilgilerin gizliliğini koruma
+         MADDE 57 – (1) Tedarikçi, bu Yönetmelik kapsamında düzenlenen her bir işleme ilişkin
+bilgi ve belgeyi; perakende satış sözleşmesi için sözleşmenin sonlanmasını izleyen 10 yıl süresince,
+ikili anlaşma için ise anlaşmanın sonlanmasını izleyen 3 yıl süresince saklamak zorundadır.
+         (2) Tedarikçi, tüketiciye ait bilgileri başka bir amaçla kendisinin ilişkide bulunduğu
+faaliyetlerde kullanamaz, aksi belirtilmemiş hususlar dışında diğer tedarikçilerle paylaşamaz.
+         İkili anlaşma uyuşmazlıklarında yetkili çözüm mercii
+         MADDE 58 – (1) İkili anlaşmayla veya müstakil bir yetki sözleşmesiyle, mahkemelerin ve
+icra dairelerinin yetkisi tüketicinin hak arama özgürlüğünü ve savunma hakkını kullanmasını
+güçleştirecek şekilde belirlenemez ve 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri
+Kanunu ve 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerince yetkili sayılan
+mahkemelerin ve icra dairelerinin yetkisi kaldırılamaz. 6502 sayılı Tüketicinin Korunması
+Hakkında Kanun hükümleri saklıdır.
+                                               ONUNCU BÖLÜM
+                                           Çeşitli ve Son Hükümler
+         Bildirimler
+         MADDE 59 – (1) Bu Yönetmelik uyarınca yapılan bildirimlerde perakende satış
+sözleşmesinde veya aksine hüküm olmaması halinde, ikili anlaşmada yer alan adresler kullanılır.
+         (2) Taraflardan birinin bildirim adresinde bir değişiklik olması durumunda, adres değişikliği,
+adres değişikliğini takip eden en az 3 iş günü içerisinde diğer tarafa yazılı olarak bildirilir.
+         (3) Dağıtım şirketi ile tedarikçinin bildirim adresindeki değişiklik, ayrıca ödeme
+bildirimlerinde belirtilir ve söz konusu şirketin internet sitesinde de yayımlanır.
+         (4) Yukarıda belirtilen şekillerde adres değişikliğinin bildirilmemesi durumunda mevcut en
+son adrese yapılmış bildirimler geçerlidir.
+         Atıflar
+         MADDE 60 – (1) 25/9/2002 tarihli ve 24887 sayılı Resmî Gazete’de yayımlanan Elektrik
+Piyasası Müşteri HizmetleriYönetmeliği, 4/9/2002 tarihli ve 24866 sayılı Resmî Gazete’de
+yayımlanan Elektrik Piyasası Serbest Tüketici Yönetmeliği ve 8/5/2014 tarihli ve 28994sayılı
+Resmî Gazete’de yayımlanan Elektrik Piyasası Tüketici HizmetleriYönetmeliğine yapılan atıflar
+bu Yönetmeliğe yapılmış sayılır.
+         Diğer hükümler
+         MADDE 60/A - (Ek:RG-14/1/2025-32782)
+         (1) Kurul tarafından belirlenen yüksek kayıplı şirketlerin lisansları kapsamında yer alan
+dağıtım bölgelerinde tarımsal sulama amacıyla müşterek kullanım yapılan kullanım yerlerinde,
+müşterek kullanım yapıldığının belgelenmesi kaydıyla, görevli tedarik şirketleri veya dağıtım
+şirketleri tarafından düzenlenen elektrik tüketim faturasının/kaçak elektrik tüketim faturasının
+zamanında ödenmemesi durumunda ilgili borçtan, müşterek kullanım yapan tüketicilerin tamamı
+müştereken ve/veya müteselsilen sorumlu kabul edilir.
+         (2) Kurul tarafından belirlenen yüksek kayıplı şirketlerin lisansları kapsamında yer alan
+dağıtım bölgelerinde, kaçak kullanımın yüksek olması veya ilgili görevli tedarik şirketi tarafından
+borçtan dolayı kesme talebinin toplam tüketici sayısının %50’sinden fazla olması durumunda;
+dağıtım tesisine bağlı düzenli tüketicilerin enerji tedarikinin sağlanması şartıyla, fider bazlı enerji
+kesintisi yapılabilir.
+         ( 3 ) Her takvim yılında, sonlanan perakende satış sözleşmelerine ait iadesi
+gerçekleştirilemeyen güvence bedeli tutarları, izleyen yılın Mart ayının sonuna kadar Kuruma
+bildirilir. İlgili bildirim yapılmadan önce iade edilemeyen güvence bedeli tutarları 29 uncu madde
+kapsamında güncellenir ve güncelleme oranının hesaplanmasında sonlandırma endeksi olarak cari
+yıl Şubat ayı için TÜİK tarafından açıklanan TÜFE esas alınır. İadesigerçekleştirilemeyen
+güvence bedeline ilişkin, tüketicilerin görevli tedarik şirketine daha sonra başvurması durumunda,
+
+görevli tedarik şirketi tarafından ilgili güvence bedeli 29 uncu madde kapsamında iade edilir.
+Yapılan iadeler Mart ayının sonuna kadar Kuruma ayrıca bildirilir. Yıllık iade edilen tutar, görevli
+tedarik şirketinin perakende satış gelir tavanından düşülecek tutardan düşülür. Bildirim
+kapsamında kalan tutar görevli tedarik şirketinin perakende satış gelir tavanından düşülür. Bu fıkra
+kapsamındaki gerçekleşmeler Kurum tarafından belirlenen formatta bildirilir.
+        Yürürlükten kaldırılan yönetmelik
+        MADDE 61 – (1) 8/5/2014 tarihli ve 28994 sayılı Resmî Gazete’de yayımlanan Elektrik
+Piyasası Tüketici HizmetleriYönetmeliğinin 22 nci, 23 üncü ve 24 üncü maddeleri 1/7/2018
+tarihinde, diğer hükümleri bu Yönetmeliğin yayımı tarihinde yürürlükten kalkar.
+        Talep birleştirme suretiyle serbest tüketici niteliği kazanma
+        GEÇİCİ MADDE 1 –(1) 16/3/2013 tarihinden önce, aynı tüzel kişilik ya da doğrudan
+veya dolaylı olarak sermayesinin yarısından fazlası aynı tüzel kişiye ait olan tüzel kişi altında talep
+birleştirme suretiyle serbest tüketici niteliği kazanarak tedarikçisini seçenlerin, bu haklarını
+kullanmalarına serbest tüketici limitinin sıfır olarak belirlendiği ayın sonuna kadar izin verilir.
+Ancak serbest tüketici hakkını bu şekilde kullanmakta olan tüketim noktalarından herhangi
+birisinin, Kurul onaylı perakende satış tarifesi kapsamında elektrik enerjisi temin etmeye başlaması
+halinde, yeniden ilgili tüzel kişi altında talep birleştirme kapsamına dönmesine izin verilmez.
+        İade edilemeyen güvence bedellerinin Kuruma bildirilmesi
+        GEÇİCİ MADDE 2- (Ek:RG-14/1/2025-32782)
+        (1) Bu Yönetmeliğin 60/A maddesinin üçüncü fıkrası kapsamındaki bildirimler 1/1/2024 ile
+31/12/2024 tarihleri arasında sonlanan perakende satış sözleşmelerine ait iade edilemeyen
+güvence bedellerini kapsayacak şekilde 2025 yılının Mart ayı sonuna kadar Kuruma bildirilir.
+        Yürürlük
+        MADDE 62 – (1) Bu Yönetmeliğin Üçüncü Bölüm ve Altıncı Bölüm hükümleri 1/7/2018
+tarihinde, diğer hükümleri yayımı tarihinde yürürlüğe girer.
+        Yürütme
+        MADDE 63 – (1) Bu Yönetmelik hükümlerini Başkan yürütür.
+
+      Ekleri için tıklayınız.
+                              Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+                               Tarihi                              Sayısı
+                             30/5/2018                             30436
+                    Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+                                            Gazetelerin
+                               Tarihi                              Sayısı
+ 1.                          20/2/2021                             31401
+ 2.                           8/4/2022                             31803
+ 3.                          14/1/2025                             32782

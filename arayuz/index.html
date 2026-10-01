@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mevzuat Takip</title>
+<link rel="stylesheet" href="/arayuz/stil.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
+</head>
+<body>
+<header>
+  <div class="marka"><span class="logo">⚖️</span>
+    <div><h1>Mevzuat Takip</h1><div class="alt" id="ozet-satir">yükleniyor…</div></div>
+  </div>
+  <div class="eylem">
+    <button id="btn-denetle" class="dugme birincil">Denetle</button>
+    <button id="btn-rg" class="dugme">Resmî Gazete</button>
+  </div>
+</header>
+
+<nav class="sekmeler">
+  <button class="sekme etkin" data-sekme="mevzuat">Mevzuat <span class="rozet" id="r-mevzuat"></span></button>
+  <button class="sekme" data-sekme="gunluk">Değişiklik Günlüğü <span class="rozet uyari" id="r-gunluk"></span></button>
+  <button class="sekme" data-sekme="rg">Resmî Gazete</button>
+  <button class="sekme" data-sekme="ara">Ara</button>
+  <button class="sekme" data-sekme="sistem">Sistem</button>
+</nav>
+
+<main>
+  <!-- MEVZUAT -->
+  <section id="s-mevzuat" class="sayfa etkin">
+    <div class="suzgec">
+      <input id="mevzuat-filtre" type="search" placeholder="Ada, numaraya göre süz…">
+      <select id="mevzuat-sinif">
+        <option value="">tüm sınıflar</option><option value="cekirdek">çekirdek</option>
+        <option value="destek">destek</option><option value="yan">yan</option>
+      </select>
+      <select id="mevzuat-grup">
+        <option value="">tüm gruplar</option><option value="is-hukuku">is-hukuku</option>
+        <option value="5levent">5levent</option>
+      </select>
+      <label class="onay"><input type="checkbox" id="yalniz-olayli"> yalnız olaylı</label>
+      <label class="onay"><input type="checkbox" id="yalniz-acil"> yalnız acil</label>
+      <span class="bosluk"></span><span id="acil-sayi" class="alt"
+        title="Bu belgelerde değişiklik görülünce günlük özeti beklemeden bildirim gider (07–22, 3 saatte bir kontrol)"></span>
+    </div>
+    <div id="mevzuat-liste" class="kart-izgara"></div>
+  </section>
+
+  <!-- GÜNLÜK -->
+  <section id="s-gunluk" class="sayfa">
+    <div class="suzgec">
+      <select id="gunluk-siddet">
+        <option value="">tüm şiddetler</option><option value="kritik">yalnız kritik</option>
+        <option value="onemli">önemli</option><option value="bilgi">bilgi</option>
+      </select>
+      <label class="onay"><input type="checkbox" id="gunluk-okunmamis"> yalnız okunmamış</label>
+      <span class="bosluk"></span><span id="gunluk-sayi" class="alt"></span>
+    </div>
+    <div id="gunluk-liste" class="zaman-cizgisi"></div>
+  </section>
+
+  <!-- RESMÎ GAZETE -->
+  <section id="s-rg" class="sayfa">
+    <div class="suzgec">
+      <label>son <input id="rg-gun" type="number" value="7" min="1" max="60" class="kucuk"> gün</label>
+      <button id="rg-tara" class="dugme">Tara</button>
+      <span class="bosluk"></span><span id="rg-durum" class="alt"></span>
+    </div>
+    <div class="bilgi-kutu">
+      <b>İkinci bağımsız sinyal.</b> mevzuat.gov.tr yalnız <i>konsolide</i> metni sunar ve
+      konsolidasyon Resmî Gazete yayımından gün(ler) sonra yapılır. Buradaki kayıtlar
+      değişikliğin <b>yayımlandığı gün</b> görünür. Süzgeç: izlenen 45 belge · sağlık mevzuatı ·
+      Anayasa Mahkemesi ve Danıştay kararları. İlân bölümü elenir.
+    </div>
+    <div id="rg-liste" class="zaman-cizgisi"></div>
+  </section>
+
+  <!-- ARA -->
+  <section id="s-ara" class="sayfa">
+    <div class="suzgec">
+      <input id="ara-ifade" type="search" placeholder="Külliyatta ara: kıdem tazminatı, yürütmenin durdurulması…" class="genis">
+      <button id="ara-btn" class="dugme birincil">Ara</button>
+    </div>
+    <div id="ara-sonuc"></div>
+  </section>
+
+  <!-- SİSTEM -->
+  <section id="s-sistem" class="sayfa"><div id="sistem-icerik"></div></section>
+</main>
+
+<!-- kat: belge / madde / fark -->
+<div id="kat" class="kat gizli"><div class="kat-ic">
+  <button class="kapat" id="kat-kapat">✕</button>
+  <div id="kat-icerik"></div>
+</div></div>
+
+<!-- denetim ilerlemesi -->
+<div id="is-kutu" class="is-kutu gizli">
+  <div class="is-baslik"><span id="is-ad">Denetim</span>
+    <button id="is-kapat" class="kapat kucuk">✕</button></div>
+  <pre id="is-cikti"></pre>
+</div>
+
+<script src="/arayuz/app.js"></script>
+</body>
+</html>

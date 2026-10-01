@@ -1,0 +1,324 @@
+İŞ SAĞLIĞI VE GÜVENLİĞİ RİSK DEĞERLENDİRMESİ YÖNETMELİĞİ
+
+BİRİNCİ BÖLÜM
+
+Amaç, Kapsam, Dayanak ve Tanımlar
+
+        Amaç
+
+        MADDE 1 – (1) Bu Yönetmeliğin amacı, işyerlerinde iş sağlığı ve güvenliği yönünden yapılacak risk değerlendirmesinin usul ve esaslarını düzenlemektir.
+
+        Kapsam
+
+        MADDE 2 – (1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamındaki işyerlerini kapsar.
+
+        Dayanak
+
+        MADDE 3 – (1) Bu Yönetmelik, İş Sağlığı ve Güvenliği Kanununun 10 uncu ve 30 uncu maddelerine dayanılarak hazırlanmıştır.
+
+        Tanımlar
+
+        MADDE 4 – (1) Bu Yönetmelikte geçen;
+
+        a) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+
+        b) Kabul edilebilir risk seviyesi: Yasal yükümlülüklere ve işyerinin önleme politikasına uygun, kayıp veya yaralanma oluşturmayacak risk seviyesini,
+
+        c) Kanun: 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununu,
+
+        ç) Önleme: İşyerinde yürütülen işlerin bütün safhalarında iş sağlığı ve güvenliği ile ilgili riskleri ortadan kaldırmak veya azaltmak için planlanan ve alınan
+tedbirlerin tümünü,
+
+        d) Ramak kala olay: İşyerinde meydana gelen; çalışan, işyeri ya da iş ekipmanını zarara uğratma potansiyeli olduğu halde zarara uğratmayan olayı,
+
+        e) Risk: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme ihtimalini,
+
+        f) Risk değerlendirmesi: İşyerinde var olan ya da dışarıdan gelebilecek tehlikelerin belirlenmesi, bu tehlikelerin riske dönüşmesine yol açan faktörler ile
+tehlikelerden kaynaklanan risklerin analiz edilerek derecelendirilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gerekli çalışmaları,
+
+        g) Tehlike: İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini etkileyebilecek zarar veya hasar verme potansiyelini,
+
+        ifade eder.
+
+İKİNCİ BÖLÜM
+
+İşveren Yükümlülüğü ve Risk Değerlendirmesi Ekibi
+
+        İşveren yükümlülüğü
+
+       MADDE 5 – (1) İşveren; çalışma ortamının ve çalışanların sağlık ve güvenliğini sağlama, sürdürme ve geliştirme amacı ile iş sağlığı ve güvenliği yönünden risk
+değerlendirmesi yapar veya yaptırır.
+
+        (2) Risk değerlendirmesinin gerçekleştirilmiş olması; işverenin, işyerinde iş sağlığı ve güvenliğinin sağlanması yükümlülüğünü ortadan kaldırmaz.
+
+        (3) İşveren, risk değerlendirmesi çalışmalarında görevlendirilen kişi veya kişilere risk değerlendirmesi ile ilgili ihtiyaç duydukları her türlü bilgi ve belgeyi temin
+eder.
+
+        Risk değerlendirmesi ekibi
+
+        MADDE 6 – (1) Risk değerlendirmesi, işverenin oluşturduğu bir ekip tarafından gerçekleştirilir. Risk değerlendirmesi ekibi aşağıdakilerden oluşur.
+
+        a) İşveren veya işveren vekili.
+
+        b) İşyerinde sağlık ve güvenlik hizmetini yürüten iş güvenliği uzmanları ile işyeri hekimleri.
+
+        c) İşyerindeki çalışan temsilcileri.
+
+        ç) İşyerindeki destek elemanları.
+
+        d) İşyerindeki bütün birimleri temsil edecek şekilde belirlenen ve işyerinde yürütülen çalışmalar, mevcut veya muhtemel tehlike kaynakları ile riskler konusunda
+bilgi sahibi çalışanlar.
+
+        (2) İşveren, ihtiyaç duyulduğunda bu ekibe destek olmak üzere işyeri dışındaki kişi ve kuruluşlardan hizmet alabilir.
+
+        (3) Risk değerlendirmesi çalışmalarının koordinasyonu işveren veya işveren tarafından ekip içinden görevlendirilen bir kişi tarafından da sağlanabilir.
+
+       (4) İşveren, risk değerlendirmesi çalışmalarında görevlendirilen kişi veya kişilerin görevlerini yerine getirmeleri amacıyla araç, gereç, mekân ve zaman gibi gerekli
+bütün ihtiyaçlarını karşılar, görevlerini yürütmeleri sebebiyle hak ve yetkilerini kısıtlayamaz.
+
+        (5) Risk değerlendirmesi çalışmalarında görevlendirilen kişi veya kişiler işveren tarafından sağlanan bilgi ve belgeleri korur ve gizli tutar.
+
+ÜÇÜNCÜ BÖLÜM
+
+Risk Değerlendirmesi Aşamaları
+
+       Risk değerlendirmesi
+
+       MADDE 7 – (1) Risk değerlendirmesi; tüm işyerleri için tasarım veya kuruluş aşamasından başlamak üzere tehlikeleri tanımlama, riskleri belirleme ve analiz etme,
+risk kontrol tedbirlerinin kararlaştırılması, dokümantasyon, yapılan çalışmaların güncellenmesi ve gerektiğinde yenileme aşamaları izlenerek gerçekleştirilir.
+
+       (2) Çalışanların risk değerlendirmesi çalışması yapılırken ihtiyaç duyulan her aşamada sürece katılarak görüşlerinin alınması sağlanır.
+
+       Tehlikelerin tanımlanması
+
+       MADDE 8 – (1) Tehlikeler tanımlanırken çalışma ortamı, çalışanlar ve işyerine ilişkin ilgisine göre asgari olarak aşağıda belirtilen bilgiler toplanır.
+
+       a) İşyeri bina ve eklentileri.
+
+       b) İşyerinde yürütülen faaliyetler ile iş ve işlemler.
+
+       c) Üretim süreç ve teknikleri.
+
+       ç) İş ekipmanları.
+
+       d) Kullanılan maddeler.
+
+       e) Artık ve atıklarla ilgili işlemler.
+
+       f) Organizasyon ve hiyerarşik yapı, görev, yetki ve sorumluluklar.
+
+       g) Çalışanların tecrübe ve düşünceleri.
+
+       ğ) İşe başlamadan önce ilgili mevzuat gereği alınacak çalışma izin belgeleri.
+
+       h) Çalışanların eğitim, yaş, cinsiyet ve benzeri özellikleri ile sağlık gözetimi kayıtları.
+
+       ı) Genç, yaşlı, engelli, gebe veya emziren çalışanlar gibi özel politika gerektiren gruplar ile kadın çalışanların durumu.
+
+       i) İşyerinin teftiş sonuçları.
+
+       j) Meslek hastalığı kayıtları.
+
+       k) İş kazası kayıtları.
+
+       l) İşyerinde meydana gelen ancak yaralanma veya ölüme neden olmadığı halde işyeri ya da iş ekipmanının zarara uğramasına yol açan olaylara ilişkin kayıtlar.
+
+       m) Ramak kala olay kayıtları.
+
+       n) Malzeme güvenlik bilgi formları.
+
+       o) Ortam ve kişisel maruziyet düzeyi ölçüm sonuçları.
+
+       ö) Varsa daha önce yapılmış risk değerlendirmesi çalışmaları.
+
+       p) Acil durum planları.
+
+       r) Sağlık ve güvenlik planı ve patlamadan korunma dokümanı gibi belirli işyerlerinde hazırlanması gereken dokümanlar.
+
+       (2) Tehlikelere ilişkin bilgiler toplanırken aynı üretim, yöntem ve teknikleri ile üretim yapan benzer işyerlerinde meydana gelen iş kazaları ve ortaya çıkan meslek
+hastalıkları da değerlendirilebilir.
+
+        (3) Toplanan bilgiler ışığında; iş sağlığı ve güvenliği ile ilgili mevzuatta yer alan hükümler de dikkate alınarak, çalışma ortamında bulunan fiziksel, kimyasal,
+biyolojik, psikososyal, ergonomik ve benzeri tehlike kaynaklarından oluşan veya bunların etkileşimi sonucu ortaya çıkabilecek tehlikeler belirlenir ve kayda alınır. Bu
+belirleme yapılırken aşağıdaki hususlar, bu hususlardan etkilenecekler ve ne şekilde etkilenebilecekleri göz önünde bulundurulur.
+
+       a) İşletmenin yeri nedeniyle ortaya çıkabilecek tehlikeler.
+
+       b) Seçilen alanda, işyeri bina ve eklentilerinin plana uygun yerleştirilmemesi veya planda olmayan ilavelerin yapılmasından kaynaklanabilecek tehlikeler.
+
+       c) İşyeri bina ve eklentilerinin yapı ve yapım tarzı ile seçilen yapı malzemelerinden kaynaklanabilecek tehlikeler.
+
+       ç) Bakım ve onarım işleri de dahil işyerinde yürütülecek her türlü faaliyet esnasında çalışma usulleri, vardiya düzeni, ekip çalışması, organizasyon, nezaret
+sistemi, hiyerarşik düzen, ziyaretçi veya işyeri çalışanı olmayan diğer kişiler gibi faktörlerden kaynaklanabilecek tehlikeler.
+
+      d) İşin yürütümü, üretim teknikleri, kullanılan maddeler, makine ve ekipman, araç ve gereçler ile bunların çalışanların fiziksel özelliklerine uygun tasarlanmaması
+veya kullanılmamasından kaynaklanabilecek tehlikeler.
+
+       e) Kuvvetli akım, aydınlatma, paratoner, topraklama gibi elektrik tesisatının bileşenleri ile ısıtma, havalandırma, atmosferik ve çevresel şartlardan korunma,
+drenaj, arıtma, yangın önleme ve mücadele ekipmanı ile benzeri yardımcı tesisat ve donanımlardan kaynaklanabilecek tehlikeler.
+
+        f) İşyerinde yanma, parlama veya patlama ihtimali olan maddelerin işlenmesi, kullanılması, taşınması, depolanması ya da imha edilmesinden kaynaklanabilecek
+tehlikeler.
+
+       g) Çalışma ortamına ilişkin hijyen koşulları ile çalışanların kişisel hijyen alışkanlıklarından kaynaklanabilecek tehlikeler.
+
+       ğ) Çalışanın, işyeri içerisindeki ulaşım yollarının kullanımından kaynaklanabilecek tehlikeler.
+
+      h) Çalışanların iş sağlığı ve güvenliği ile ilgili yeterli eğitim almaması, bilgilendirilmemesi, çalışanlara uygun talimat verilmemesi veya çalışma izni prosedürü
+gereken durumlarda bu izin olmaksızın çalışılmasından kaynaklanabilecek tehlikeler.
+
+       (4) Çalışma ortamında bulunan fiziksel, kimyasal, biyolojik, psikososyal, ergonomik ve benzeri tehlike kaynaklarının neden olduğu tehlikeler ile ilgili işyerinde
+daha önce kontrol, ölçüm, inceleme ve araştırma çalışması yapılmamış ise risk değerlendirmesi çalışmalarında kullanılmak üzere; bu tehlikelerin, nitelik ve niceliklerini ve
+çalışanların bunlara maruziyet seviyelerini belirlemek amacıyla gerekli bütün kontrol, ölçüm, inceleme ve araştırmalar yapılır.
+
+       Risklerin belirlenmesi ve analizi
+
+        MADDE 9 – (1) Tespit edilmiş olan tehlikelerin her biri ayrı ayrı dikkate alınarak bu tehlikelerden kaynaklanabilecek risklerin hangi sıklıkta oluşabileceği ile bu
+risklerden kimlerin, nelerin, ne şekilde ve hangi şiddette zarar görebileceği belirlenir. Bu belirleme yapılırken mevcut kontrol tedbirlerinin etkisi de göz önünde
+bulundurulur.
+
+        (2) Toplanan bilgi ve veriler ışığında belirlenen riskler; işletmenin faaliyetine ilişkin özellikleri, işyerindeki tehlike veya risklerin nitelikleri ve işyerinin kısıtları gibi
+faktörler ya da ulusal veya uluslararası standartlar esas alınarak seçilen yöntemlerden biri veya birkaçı bir arada kullanılarak analiz edilir.
+
+       (3) İşyerinde birbirinden farklı işlerin yürütüldüğü bölümlerin bulunması halinde birinci ve ikinci fıkralardaki hususlar her bir bölüm için tekrarlanır.
+
+       (4) Analizin ayrı ayrı bölümler için yapılması halinde bölümlerin etkileşimleri de dikkate alınarak bir bütün olarak ele alınıp sonuçlandırılır.
+
+      (5) Analiz edilen riskler, kontrol tedbirlerine karar verilmek üzere etkilerinin büyüklüğüne ve önemlerine göre en yüksek risk seviyesine sahip olandan
+başlanarak sıralanır ve yazılı hale getirilir.
+
+       Risk kontrol adımları
+
+       MADDE 10 – (1) Risklerin kontrolünde şu adımlar uygulanır.
+
+       a) Planlama: Analiz edilerek etkilerinin büyüklüğüne ve önemine göre sıralı hale getirilen risklerin kontrolü amacıyla bir planlama yapılır.
+
+       b) Risk kontrol tedbirlerinin kararlaştırılması: Riskin tamamen bertaraf edilmesi, bu mümkün değil ise riskin kabul edilebilir seviyeye indirilmesi için aşağıdaki
+adımlar uygulanır.
+
+       1) Tehlike veya tehlike kaynaklarının ortadan kaldırılması.
+
+       2) Tehlikelinin, tehlikeli olmayanla veya daha az tehlikeli olanla değiştirilmesi.
+
+       3) Riskler ile kaynağında mücadele edilmesi.
+
+      c) Risk kontrol tedbirlerinin uygulanması: Kararlaştırılan tedbirlerin iş ve işlem basamakları, işlemi yapacak kişi ya da işyeri bölümü, sorumlu kişi ya da işyeri
+bölümü, başlama ve bitiş tarihi ile benzeri bilgileri içeren planlar hazırlanır. Bu planlar işverence uygulamaya konulur.
+
+       ç) Uygulamaların izlenmesi: Hazırlanan planların uygulama adımları düzenli olarak izlenir, denetlenir ve aksayan yönler tespit edilerek gerekli düzeltici ve önleyici
+işlemler tamamlanır.
+
+      (2) Risk kontrol adımları uygulanırken toplu korunma önlemlerine, kişisel korunma önlemlerine göre öncelik verilmesi ve uygulanacak önlemlerin yeni risklere
+neden olmaması sağlanır.
+
+       (3) Belirlenen risk için kontrol tedbirlerinin hayata geçirilmesinden sonra yeniden risk seviyesi tespiti yapılır. Yeni seviye, kabul edilebilir risk seviyesinin
+üzerinde ise bu maddedeki adımlar tekrarlanır.
+
+       Dokümantasyon
+
+       MADDE 11 – (1) Risk değerlendirmesi asgarî aşağıdaki hususları kapsayacak şekilde dokümante edilir.
+
+       a) İşyerinin unvanı, adresi ve işverenin adı.
+
+       b) Gerçekleştiren kişilerin isim ve unvanları ile bunlardan iş güvenliği uzmanı ve işyeri hekimi olanların Bakanlıkça verilmiş belge bilgileri.
+
+       c) Gerçekleştirildiği tarih ve geçerlilik tarihi.
+
+       ç) Risk değerlendirmesi işyerindeki farklı bölümler için ayrı ayrı yapılmışsa her birinin adı.
+
+       d) Belirlenen tehlike kaynakları ile tehlikeler.
+
+       e) Tespit edilen riskler.
+
+       f) Risk analizinde kullanılan yöntem veya yöntemler.
+
+       g) Tespit edilen risklerin önem ve öncelik sırasını da içeren analiz sonuçları.
+
+       ğ) Düzeltici ve önleyici kontrol tedbirleri, gerçekleştirilme tarihleri ve sonrasında tespit edilen risk seviyesi.
+
+       (2) Risk değerlendirmesi dokümanının sayfaları numaralandırılarak; gerçekleştiren kişiler tarafından her sayfası paraflanıp, son sayfası imzalanır ve işyerinde
+saklanır.
+
+       (3) Risk değerlendirmesi dokümanı elektronik ve benzeri ortamlarda hazırlanıp arşivlenebilir.
+
+       Risk değerlendirmesinin yenilenmesi
+
+       MADDE 12 – (1) Yapılmış olan risk değerlendirmesi; tehlike sınıfına göre çok tehlikeli, tehlikeli ve az tehlikeli işyerlerinde sırasıyla en geç iki, dört ve altı yılda
+bir yenilenir.
+
+       (2) Aşağıda belirtilen durumlarda ortaya çıkabilecek yeni risklerin, işyerinin tamamını veya bir bölümünü etkiliyor olması göz önünde bulundurularak risk
+değerlendirmesi tamamen veya kısmen yenilenir.
+
+       a) İşyerinin taşınması veya binalarda değişiklik yapılması.
+
+       b) İşyerinde uygulanan teknoloji, kullanılan madde ve ekipmanlarda değişiklikler meydana gelmesi.
+
+       c) Üretim yönteminde değişiklikler olması.
+
+       ç) İş kazası, meslek hastalığı veya ramak kala olay meydana gelmesi.
+
+       d) Çalışma ortamına ait sınır değerlere ilişkin bir mevzuat değişikliği olması.
+
+       e) Çalışma ortamı ölçümü ve sağlık gözetim sonuçlarına göre gerekli görülmesi.
+
+       f) İşyeri dışından kaynaklanan ve işyerini etkileyebilecek yeni bir tehlikenin ortaya çıkması.
+
+DÖRDÜNCÜ BÖLÜM
+
+Çeşitli ve Son Hükümler
+
+       Büyük kaza önleme politika belgesi veya güvenlik raporu hazırlanması gereken işyerlerinde risk değerlendirmesi
+
+       MADDE 13 – (1) Kanunun 29 uncu maddesi gereğince büyük kaza önleme politika belgesi veya güvenlik raporu hazırlanan işyerlerinde; bu belge ve raporlarda
+değerlendirilmiş riskler, bu Yönetmeliğe göre yapılacak risk değerlendirmesinde dikkate alınarak kullanılır.
+
+       Birden fazla işveren olması durumunda risk değerlendirmesi çalışmaları
+
+       MADDE 14 – (1) Aynı çalışma alanını birden fazla işverenin paylaşması durumunda, yürütülen işler için diğer işverenlerin yürüttüğü işler de göz önünde
+bulundurularak ayrı ayrı risk değerlendirmesi gerçekleştirilir. İşverenler, risk değerlendirmesi çalışmalarını, koordinasyon içinde yürütür, birbirlerini ve çalışan
+temsilcilerini tespit edilen riskler konusunda bilgilendirir.
+
+       (2) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanları, sanayi bölgeleri veya siteleri gibi yerlerde, işyerlerinde ayrı ayrı gerçekleştirilen risk değerlendirmesi
+çalışmalarının koordinasyonu yönetim tarafından yürütülür. Yönetim; bu koordinasyonun yürütümünde, işyerlerinde iş sağlığı ve güvenliği yönünden diğer işyerlerini
+etkileyecek tehlikeler hususunda gerekli tedbirleri almaları için ilgili işverenleri uyarır. Bu uyarılara uymayan işverenleri Bakanlığa bildirir.
+
+       Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde risk değerlendirmesi
+
+       MADDE 15 – (1) Bir işyerinde bir veya daha fazla alt işveren bulunması halinde:
+
+       a) Her alt işveren yürüttükleri işlerle ilgili olarak, bu Yönetmelik hükümleri uyarınca gerekli risk değerlendirmesi çalışmalarını yapar veya yaptırır.
+
+       b) Alt işverenlerin risk değerlendirmesi çalışmaları konusunda asıl işverenin sorumluluk alanları ile ilgili ihtiyaç duydukları bilgi ve belgeler asıl işverence
+sağlanır.
+
+       c) Asıl işveren, alt işverenlerce yürütülen risk değerlendirmesi çalışmalarını denetler ve bu konudaki çalışmaları koordine eder.
+
+      (2) Alt işverenler hazırladıkları risk değerlendirmesinin bir nüshasını asıl işverene verir. Asıl işveren; bu risk değerlendirmesi çalışmalarını kendi çalışmasıyla
+bütünleştirerek, risk kontrol tedbirlerinin uygulanıp uygulanmadığını izler, denetler ve uygunsuzlukların giderilmesini sağlar.
+
+       Çalışanların bilgilendirilmesi
+
+        MADDE 16 – (1) İşyerinde çalışanlar, çalışan temsilcileri ve başka işyerlerinden çalışmak üzere gelen çalışanlar ve bunların işverenleri; işyerinde
+karşılaşılabilecek sağlık ve güvenlik riskleri ile düzeltici ve önleyici tedbirler hakkında bilgilendirilir.
+
+       Risk değerlendirmesi rehberleri
+
+       MADDE 17 – (1) İşverenlere, risk değerlendirmesi ile ilgili yükümlülükleri bakımından yardımcı olmak veya yol göstermek amacıyla risk değerlendirmesi
+rehberleri hazırlanabilir. Rehberler işyerinde çalışan sayısı ve işyerinin bulunduğu tehlike sınıfı göz önüne alınarak; sektör, meslek veya yapılan işlere özgü olabilir.
+
+        (2) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, işçi-işveren ve memur sendikaları ile kamu yararına çalışan sivil toplum kuruluşları
+faaliyet gösterdikleri sektörde rehber çalışmalarında bulunabilir. Bakanlıkça, bu Yönetmelik hükümlerine uygunluğu yönünden değerlendirilerek onaylanan taslaklar,
+Bakanlık tarafından sektör, meslek veya yapılan işlere özgü risk değerlendirmesi uygulama rehberleri olarak yayımlanır.
+
+       Geçiş hükmü
+
+      GEÇİCİ MADDE 1 – (1) 6 ncı madde uyarınca oluşturulacak risk değerlendirmesi ekibinde, mezkûr maddenin birinci fıkrasının (b) bendinde sayılanların
+bulundurulma zorunluluğu Kanunun 38 inci maddesinde belirtilen sürelere uygun olarak aranır.
+
+       Yürürlük
+
+       MADDE 18 – (1) Bu Yönetmelik 30/12/2012 tarihinde yürürlüğe girer.
+
+       Yürütme
+
+       MADDE 19 – (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.

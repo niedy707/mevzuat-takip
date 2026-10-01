@@ -1,0 +1,753 @@
+BİNALARDA ENERJİ PERFORMANSI YÖNETMELİĞİ
+
+                                                                  BİRİNCİ BÖLÜM
+                                                     Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+       Amaç
+       MADDE 1 – (Değişik:RG-1/4/2010-27539)
+       (1) Bu Yönetmeliğin amacı, binalarda enerjinin ve enerji kaynaklarının etkin ve verimli kullanılmasına, enerji israfının önlenmesine ve çevrenin
+korunmasına ilişkin usul ve esasları düzenlemektir.
+       Kapsam
+       MADDE 2 – (Değişik:RG-1/4/2010-27539)
+       (1) Bu Yönetmelik mevcut ve yeni yapılacak binalarda;
+       a) Mimari tasarım, mekanik tesisat, aydınlatma, elektrik tesisatı gibi binanın enerji kullanımını ilgilendiren konularda bina projelerinin ve enerji
+kimlik belgesinin hazırlanmasına ve uygulanmasına ilişkin hesaplama metotlarına, standartlara, yöntemlere ve asgari performans kriterlerine,
+       b) Enerji kimlik belgesi düzenlenmesi, bina kontrolleri ve denetim faaliyetleri için yetkilendirmelere,
+       c) Enerji ihtiyacının, kojenerasyon sistemi ve yenilenebilir enerji kaynaklarından karşılanmasına,
+       ç) Ülke genelindeki bina envanterinin oluşturulmasına ve güncel tutulmasına, toplumdaki enerji kültürü ve verimlilik bilincinin geliştirilmesine
+yönelik eğitim ve bilinçlendirme faaliyetlerine,
+       d) Korunması gerekli kültür varlığı olarak tescil edilen binalarda, enerji verimliliğinin artırılmasına yönelik önlemler ve uygulamalar ile ilgili, Kültür
+ve Tabiat Varlıklarını Koruma Kurulunun görüşünün alınarak bu görüş doğrultusunda yapının özelliğini ve dış görüntüsünü etkilemeyecek biçimde enerji
+verimliliğini arttırıcı uygulamaların yapılmasına
+       ilişkin iş ve işlemleri kapsar.
+       (2) Sanayi alanlarında üretim faaliyetleri yürütülen binalar, planlanan kullanım süresi iki yıldan az olan binalar, (Değişik ibare:RG-24/6/2025-
+32936) yapı inşaat alanı 50 m2’nin altında olan binalar, seralar, atölyeler ve münferit olarak inşa edilen ve (Değişik ibare:RG-16/5/2026-33255)
+insan konforu için iklimlendirilmesine gerek duyulmayan depo, cephanelik, ardiye, ahır, ağıl gibi binalar bu Yönetmeliğin kapsamı dışındadır.
+       Dayanak
+       MADDE 3 – (Değişik:RG-19/2/2022-31755)
+       (1) Bu Yönetmelik, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında
+Cumhurbaşkanlığı Kararnamesinin 107 nci maddesi ile 18/4/2007 tarihli ve 5627 sayılı Enerji Verimliliği Kanununun 7 nci maddesinin birinci fıkrasının
+(ç) ve (d) bentlerine dayanılarak hazırlanmıştır.
+       Tanımlar ve kısaltmalar
+       MADDE 4 – (1) Bu Yönetmelikte geçen;
+       a) Aydınlatma enerji tüketimi: Binanın aydınlatılması için harcanan toplam enerjiyi,
+       b) Aydınlatma yükü: Aydınlatma için kullanılan toplam kurulu gücü,
+       c) Bağımsız bölüm: Anagayrimenkulün ayrı ayrı ve başlı başına kullanılmaya elverişli olup, 2/7/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunu
+hükümlerine göre bağımsız mülkiyete konu olan bölümlerini,
+       ç) (Değişik:RG-19/2/2022-31755) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+       d) Bina: Kendi başına kullanılabilen, üstü örtülü olan insanların içine girebilecekleri ve insanların oturma, çalışma, eğlenme veya dinlenmelerine
+veya ibadet etmelerine yarayan ve hayvanların ve eşyaların korunmasına uygun yapıyı,
+       e) Bina sahibi: Bina üzerinde mülkiyet hakkına sahip olan gerçek veya tüzel kişiyi veya varsa intifa hakkı sahibini, eğer her ikisi de yoksa binaya
+malik gibi tasarruf edeni,
+       f ) (Değişik:RG-1/4/2010-27539) Bina yöneticisi: Kat Mülkiyeti Kanununa göre atanmış veya seçilmiş veya belirlenmiş olan ve bina
+yönetimini sağlayan kişiyi,
+       g) Bireysel ısıtma: Bağımsız bölüm içerisine yerleştirilen bir ısı üretim kaynağından elde edilen ısıtma enerjisi ile bağımsız bölümün ısıtılmasını,
+       ğ) Bölgesel ısıtma sistemi: Bir merkezden elde edilen ısıtma enerjisinin, mahalle ve daha büyük ölçekteki yerleşimlerde yer alan binalara
+dağıtılmasını ve bağımsız bölümlerin ısıtılmasını sağlayan sistemi,
+       h) Bölgesel sıhhi sıcak su sistemi: Bir merkezden elde edilen sıhhi sıcak suyun bölge içerisindeki binalara ve bağımsız bölümlere dağıtılması ve
+kullanılmasını sağlayan sistemi,
+       ı) (Mülga:RG-1/4/2010-27539)
+       i) Enerji kimlik belgesi: Asgari olarak binanın enerji ihtiyacı ve enerji tüketim sınıflandırması, yalıtım özellikleri ve ısıtma ve/veya soğutma
+sistemlerinin verimi ile ilgili bilgileri içeren belgeyi,
+       j) (Değişik:RG-28/4/2017-30051) Enerji kimlik belgesi vermeye yetkili kuruluşlar: Enerji kimlik belgesi düzenlemek üzere Bakanlık tarafından
+yetkilendirilmiş gerçek veya tüzel kişileri,
+       k) (Mülga:RG-1/4/2010-27539)
+       l) (Mülga:RG-1/4/2010-27539)
+       m) Enerji yöneticisi: Binalarda enerji yönetimi ile ilgili faaliyetleri yerine getirmekle sorumlu ve enerji yöneticisi sertifikasına sahip kişiyi,
+       n) (Mülga:RG-1/4/2010-27539)
+       o) Halojen lamba: İçinde halojen gaz bulunan tungsten halojen ve metal halojen olmak üzere iki çeşidi bulunan lambaları,
+       ö) Hizmet amaçlı binalar: Kamu binaları, okullar, ibadethaneler, hastaneler, sağlık merkezleri ve benzeri amaçlara tahsis edilmiş binaları, sığınma
+veya yaşlı veya çocukların bakımı için tahsis edilmiş sosyal hizmet binalar ve benzeri amaçlar için tahsis edilmiş binaları, sinema ve tiyatro, toplantı
+salonları, sergiler, müzeler, kütüphaneler, kültürel binalar ve sportif faaliyetlere tahsis edilen binalar ve benzeri amaçlara tahsis edilmiş binaları,
+       p) Isı pompası: Toprakta, havada ve suda düşük sıcaklıkta mevcut olan enerjinin, ısıtma ve/veya soğutma yapmak amacıyla bina içine iletilmesini
+sağlayan düzeneği,
+       r) İlgili idare: Yapı ruhsatı ve yapı kullanma izin belgesi verme yetkisine sahip belediye ve mücavir alan sınırları içindeki uygulamalar için
+büyükşehir belediyeleri ile diğer belediyeleri, bu alanlar dışında kalan alanlarda valilikler ile diğer idareleri,
+       s) İklimlendirme sistemi: Ortam havasının, neminin, temizliğinin ve sıcaklığının bir arada kontrol edildiği ve taze hava ihtiyacının karşılandığı
+sistemi,
+       ş) (Değişik:RG-1/4/2010-27539) İşletmeci kuruluş: Mekanik ve elektrik sistemlerinin çalışmasından sorumlu kuruluşu,
+       t) (Mülga:RG-1/4/2010-27539)
+       u) Kaskad kazan sistemi: Birbirleri ile mekanik ve elektronik olarak haberleşmeli çalışan, ihtiyaca göre sıralı devreye girerek yakıt tasarrufu
+sağlayan, kazan yedekleme sıkıntısının olmadığı kazan sistemlerini,
+       ü) Kazan: Yakıtın yakılması sonucu açığa çıkan enerjinin ısı taşıyıcı akışkana aktarılmasını sağlayan basınçlı kabı,
+
+       v) Kojenerasyon: Isı ve elektrik ve/veya mekanik enerjinin aynı tesiste eş zamanlı olarak üretimini,
+       y) Mekanik tesisat: İnşaat işlerinde makine mühendisliği etkinlik alanına giren ısıtma, soğutma, havalandırma, temiz ve pis su, sıhhi sıcak su ve
+yangın söndürme sistemleri işlerinin tümünü,
+       z) Merkezi ısıtma sistemi: Bir merkezden elde edilen ısıtma enerjisi ile birden fazla bağımsız bölümün ısıtılmasını sağlayan sistemi,
+       aa) Merkezi sıhhi sıcak su sistemi: Bir merkezden elde edilen sıhhi sıcak suyun binalara ve bağımsız bölümlere dağıtılması ve kullanılmasını
+sağlayan sistemi,
+       bb) Merkezi soğutma sistemi: Bir merkezden elde edilen soğutma enerjisi ile birden fazla bağımsız bölümün soğutulmasını sağlayan sistemi,
+       cc) (Mülga:RG-1/4/2010-27539)
+       çç) Mevcut bina: Bu Yönetmeliğin yürürlüğe girmesinden önce yapı ruhsatı alınıp yapımı devam eden veya yapımı tamamlanan (Değişik
+ibare:RG-24/6/2025-32936) binayı veya yapı kullanım izni almış binayı,
+       dd) Nihai enerji tüketimi: Son kullanıcı tarafından binasında veya bağımsız bölümünde katı, sıvı veya gaz yakıtlardan elde edilen enerjinin ve
+elektrik enerjisinin toplam tüketimini,
+       ee) (Mülga:RG-1/4/2010-27539)
+       ff) (Mülga:RG-1/4/2010-27539)
+       gg) Ticari amaçlı binalar: İş merkezleri, ofis ve benzeri amaçlara tahsis edilmiş binalar ve eğlence ve alışveriş merkezleri ve benzeri amaçlara
+tahsis edilmiş binalar ile otel, motel, pansiyon ve benzer amaçlara tahsis edilmiş binaları,
+       ğğ) TSE: Türk Standardları Enstitüsünü,
+       hh) Yenilenebilir enerji: Hidrolik, rüzgar, güneş, jeotermal, biyokütle, biyogaz, dalga, akıntı ve gel-git gibi fosil olmayan enerji kaynaklarından elde
+edilebilen enerjiyi,
+       ıı) Yıllık enerji ihtiyacı: Binanın ısıtma, sıhhi sıcak su, soğutma, elektrik ve aydınlatma sistemleri için birincil enerji cinsinden ortama bir yıl
+içerisinde verilmesi gereken ısı enerjisi miktarını,
+       ii) Yıllık ısıtma enerjisi ihtiyacı: Isıtma sisteminden ısıtılan ortama bir yıl içerisinde verilmesi gereken net ısı enerjisi miktarını,
+       jj) (Değişik:RG-1/4/2010-27539) Yıllık sıhhi sıcak su enerjisi ihtiyacı: Sıcak su temini için bir yıl içerisinde harcanan net ısı enerjisi miktarını,
+       kk) Yıllık soğutma enerjisi ihtiyacı: Soğutma sisteminin soğutulan ortamdan bir yıl içerisinde atması veya çekmesi gereken net ısı enerjisi
+miktarını,
+       ll) (Ek:RG-1/4/2010-27539) BEP-TR: Enerji kimlik belgelerinin düzenlenmesi için kullanılan ve Bakanlık internet adresinden erişim sağlanan
+yazılım programını,
+       mm) (Ek:RG-1/4/2010-27539) Binalarda enerji verimliliği: Binalarda yaşam standardı ve hizmet kalitesinin düşmesine sebebiyet vermeksizin
+enerji tüketiminin azaltılmasını,
+       nn) (Ek:RG-1/4/2010-27539) Birincil enerji tüketimi: Son kullanıcı tarafından binasında veya bağımsız bölümünde katı, sıvı veya gaz
+yakıtlardan elde edilen enerji ile tüketilen elektrik enerjisinin üretilmesi ve dağıtılması safhalarında tüketilen enerjilerle birlikte toplam tüketimlerini,
+       oo) (Ek:RG-1/4/2010-27539) Denetim yapacak kurum ve kuruluşlar: Enerji kimlik belgesine göre binanın enerji tüketen ekipmanlarının, ilgili
+raporlarda belirtilen periyotlarda ilgili standartlarda belirtilen ve sistemin gerektirdiği periyodik kontrole, teste ve bakıma tabi tutulup tutulmadığının
+denetlenmesini yapacak olan ve Bakanlık tarafından yetkilendirilmiş kurum veya kuruluşları,
+       öö) (Ek:RG-1/4/2010-27539) Genel aydınlatma: Bir hacmin tamamında belirli kriterler kapsamında, aydınlatmada vurgu, yönlendirme ve farklı
+aydınlık seviyesine gerek olan kısmi bölge gibi özel ihtiyaçlar dikkate alınmaksızın talepleri karşılamak amacıyla yapılan aydınlatmayı,
+       pp) (Ek:RG-1/4/2010-27539) Güvenlik aydınlatması: Gece şartlarında bina çevresinin güvenlik açısından kontrolün ve gözetimin daha kolay
+yapılmasını sağlamak amacıyla yapılan çevre aydınlatmasını,
+       rr) (Ek:RG-1/4/2010-27539) (Mülga:RG-24/6/2025-32936)
+       ss) (Ek:RG-1/4/2010-27539) (Mülga:RG-24/6/2025-32936)
+       şş) (Ek:RG-1/4/2010-27539) (Mülga:RG-24/6/2025-32936)
+       tt) (Ek:RG-19/2/2022-31755) Neredeyse Sıfır Enerjili Bina (NSEB): Yüksek enerji performansına ve aynı zamanda belli oranda yenilenebilir
+enerji kullanımına sahip olan binayı,
+       uu) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesi uzmanı: Enerji kimlik belgesi düzenleyecek uzmanı,
+       üü) (Ek:RG-16/5/2026-33255) Bina yaşam döngüsü analizi: Binanın ham madde temininden başlayarak tüm nakliye süreçleri dâhil; inşaat,
+kullanım ve işletme, bakım, onarım, değişim, yenileme ve tadilat, yıkım, atık işleme ve bertaraf ile varsa yeniden kullanım, geri kazanım ve enerji ihracı
+süreçlerini kapsayan tüm yaşam döngüsü boyunca neden olduğu sera gazı emisyonlarının, Bakanlıkça belirlenen hesaplama yöntemleri ve standartlar
+doğrultusunda BEP-TR üzerinden hesaplanmasını,
+       vv) (Ek:RG-16/5/2026-33255) Bina yaşam döngüsü analizi belgesi: BEP-TR üzerinden yapılacak bina yaşam döngüsü analizi ile oluşturulan
+belgeyi,
+       yy) (Ek:RG-16/5/2026-33255) Düşük karbonlu bina belgesi: İşletmeden kaynaklı sera gazı emisyonu düşük olan binalara BEP-TR üzerinden
+oluşturulan belgeyi,
+       ifade eder.
+       (2) (Ek:RG-24/6/2025-32936) Bu Yönetmelikte geçen ve birinci fıkrada yer almayan tanımlar için 5627 sayılı Kanun, 3/5/1985 tarihli ve 3194
+sayılı İmar Kanunu, 27/10/2011 tarihli ve 28097 sayılı Resmî Gazete’de yayımlanan Enerji Kaynaklarının ve Enerjinin Kullanımında Verimliliğin
+Artırılmasına Dair Yönetmelik ve 3/7/2017 tarihli ve 30113 sayılı Resmî Gazete’de yayımlanan Planlı Alanlar İmar Yönetmeliğinde yer alan tanımlar
+geçerlidir.
+
+                                                                     İKİNCİ BÖLÜM
+                                                        İlkeler, Görevler, Yetkiler ve Sorumluluklar
+         İlkeler
+         MADDE 5 –( 1 ) (Değişik:RG-24/6/2025-32936) Yeni bina tasarımında ve mevcut binaların esaslı tadilat kapsamında yapılacak
+uygulamalarında binanın özelliklerine göre bu Yönetmelikte öngörülen esaslar göz önüne alınır.
+         (2) Binanın mimari, mekanik ve elektrik projeleri, diğer yasal düzenlemeler yanında, enerji ekonomisi bakımından bu Yönetmelikte öngörülen
+şartlara uygun değil ise, ilgili idare tarafından yapı ruhsatı verilmez. (Ek cümleler:RG-24/6/2025-32936) Binaların mimari, mekanik ve aydınlatma
+projelerinin bu Yönetmeliğe uygunluğunu gösteren (Değişik ibare:RG-16/5/2026-33255) EK-10’da yer alan ve yetkili Enerji Kimlik Belgesi
+uzmanlarınca düzenlenmiş “Ön Hesap Sonuç Formunun”, BEP-TR yazılımı ile hazırlanarak ruhsat eki projeler ile birlikte sunulması zorunludur. Ancak
+3194 sayılı Kanunun 26 ncı maddesine göre avan proje esas alınarak yapı ruhsatı düzenlenmesi durumunda, “Ön Hesap Sonuç Formu” aranmaz.
+         (3) Bu Yönetmelik esaslarına uygun projesine göre uygulama yapılmadığının tespiti halinde, tesbit edilen eksiklikler giderilinceye kadar binaya,
+ilgili idare tarafından yapı kullanım izin belgesi verilmez.
+         ( 4) (Değişik:RG-1/4/2010-27539) Bu Yönetmelikte tanımlanmamış olan ve açıklık gereken hususlar hakkında, Ek-8a’da verilen Türk
+
+Standartlarının güncel halleri, bu standartların olmaması halinde ise, Ek-8b’de verilen Avrupa Standartlarının güncel halleri esas alınır.
+       (5) (Değişik:RG-1/4/2010-27539) Bu Yönetmeliğin uygulanmasında proje, yapım, denetim ve diğer konularda tereddüde düşülen hususlar
+hakkında Bakanlığın görüşü alınır. (Ek cümle:RG-24/6/2025-32936) Bakanlığın bu Yönetmelik kapsamında her türlü eğitim ve yetkilendirme iş ve
+işlemlerini yapma yetkisi saklıdır.
+       (6) (Ek:RG-1/4/2010-27539) Mevcut binaların, dış cephe duvarlarında ısı yalıtımı, ısıtma sisteminde kazan değişikliği, (Değişik ibare:RG-
+24/6/2025-32936) ferdi, merkezi veya bölgesel ısıtma sistemleri arasında dönüşüm yapılması, (Değişik ibare:RG-24/6/2025-32936) merkezi veya
+bölgesel soğutma sistemi kurulması, kojenerasyon sistemi kurulması veya yenilenebilir enerji kaynaklarından elektrik üretilmesi ile ilgili konularda tadilat
+yapılması halinde, bu Yönetmelik hükümleri doğrultusunda uygulama projesi hazırlanır ve yapı kullanım izni veren ilgili idare tarafından onaylanır ve
+uygulanması sağlanır.
+       (7) (Ek:RG-1/4/2010-27539) Bu Yönetmeliğin uygulanmasında, Avrupa Birliği mevzuatına uyum ile birlikte bu uyum kapsamında Avrupa
+Birliği ülkelerindeki binalarda asgari enerji performansı uygulamalarının bu Yönetmeliğe yansıtılması doğrultusunda gerekli değişikliklerin yapılması
+esastır.
+       (8) (Ek:RG-28/4/2017-30051) Mevcut binalarda gerçekleştirilecek ısı yalıtımı faaliyetinden önce uygulayıcı firma ile bina sahibi veya sahibi
+adına hareket etmeye yetkili kişi arasında asgari hüküm ve şartları Ek-9’da yer alan sözleşme düzenlenir.
+       Görev, yetki ve sorumluluk
+       MADDE 6 – (1) Bu Yönetmelik hükümlerinin uygulanmasından;
+       a) İlgili idareler,
+       b) Enerji kimlik belgesi düzenlemeye yetkili kuruluşlar,
+       c) Yatırımcı kuruluşlar,
+       ç) Bina sahipleri, bina yöneticileri veya enerji yöneticileri,
+       d) İşletmeci kuruluşlar,
+       e) İşveren veya temsilcileri,
+       f) Tasarım ve uygulamada görevli mimar ve mühendisler,
+       g) Uygulayıcı yükleniciler ve üreticiler,
+       ğ ) (Değişik:RG-1/4/2010-27539) Binanın yapılmasında, kullanılmasında ve enerji kimlik belgesi düzenlenmesinde görev alan müşavir,
+danışman, proje kontrolü yapan gerçek veya tüzel kişiler, (Ek ibare:RG-24/6/2025-32936) enerji kimlik belgesi uzmanları, enerji kimlik belgesi
+düzenlemeye yetkili kuruluşlar, denetleme kuruluşları ve işletme yetkilileri, görevli, yetkili ve sorumludur.
+       (2) Yönetmelik hükümlerine göre inşa edilmemiş binalardan;
+       a) Projenin eksik veya hatalı olması veya standartlara uygun olmaması halinde, proje müellifleri; yapımın eksik veya hatalı olması veyahut
+standartlara uygun olmaması halinde ise, varsa yapı denetim kuruluşu ve yüklenici veya yapımcı firma, yetkileri oranında sorumludur.
+       b) Sistemin uygun çalışmaması işletmeden kaynaklanıyor ise, bina sahibi, yöneticisi veya varsa enerji yöneticisi veya işletmeci kuruluş doğrudan
+sorumlu olur.
+       c) İlgili idareler, sorumluluğun takip, tespit ve gereğinin yerine getirilmesi hususunda görevli ve yetkilidir.
+       (3) İlgili idareler ve enerji kimlik belgesi düzenlemeye yetkili kuruluşlar, projelerin ve uygulamaların bu Yönetmelik hükümlerine uygun olup
+olmadığını denetler.
+       (4) Bu Yönetmeliğe uygun tasarım ve uygulaması yapılmayan binalara yapı ruhsatı veya yapı kullanım izin belgesi verilmesi durumunda, ilgili
+idareler, enerji kimlik belgesi düzenlemeye yetkili kuruluşlar ve varsa yapı denetim kuruluşları sorumlu olur.
+       (5) (Ek:RG-24/6/2025-32936) Mevcut binalarda ruhsat ve ruhsat eki onaylı projelerine göre farklı uygulamalar var ise bu uygulamaların
+binanın güncel haline göre raporlanmasından, enerji kimlik belgesi düzenlemeye yetkili kuruluşlar, enerji kimlik belgesi uzmanları ve Etüt-Proje
+Sertifikasına sahip personel görevli, yetkili ve sorumludur.
+       (6) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesinin yapı ruhsatına, ruhsat eki onaylı projelerine, ısı yalıtım raporuna ve ilgili raporlara uygun
+hazırlanmasından enerji kimlik belgesi uzmanları ile enerji kimlik belgesi düzenlemeye yetkili kuruluşlar sorumludur.
+       (7) (Ek:RG-24/6/2025-32936) Yapı ruhsatının, ruhsat eki projelerinin ve ısı yalıtım raporunun birbirleri ile uyumlu olmasından ilgili idareler ve
+varsa yapı denetim kuruluşları sorumludur. Herhangi bir aykırılık tespit edilmesi durumunda enerji kimlik belgesi düzenlemeye yetkili kuruluşlar veya
+enerji kimlik belgesi uzmanları bu konudaki tespitlerinde yapı ruhsatı vermeye yetkili idarelere aykırılığı bildirir. İlgili idaresince aykırılık giderilinceye
+kadar enerji kimlik belgesi düzenlenmez.
+       (8) (Ek:RG-24/6/2025-32936) Eğitim vermek üzere yetkilendirilmiş kurum ve kuruluşlar ile ilgili meslek odaları, yetkileri dahilinde BEP-
+TR’ye tanımladıkları enerji kimlik belgesi uzmanlarının bilgilerinin doğruluğundan sorumludur.
+
+                                                                       ÜÇÜNCÜ BÖLÜM
+                                                Bina Enerji Performansı Açısından Mimari Proje Tasarımı ve
+                                                                       Mimari Uygulamaları
+       Bina enerji performansı açısından mimari proje tasarımı
+       MADDE 7 –(1) Binaların mimari tasarımında, imar ve ada/parsel durumu dikkate alınarak ısıtma, soğutma, doğal havalandırma, aydınlatma
+ihtiyacı asgari seviyede tutulur, güneş, nem ve rüzgar etkisi de dikkate alınarak, doğal ısıtma, soğutma, havalandırma ve aydınlatma imkanlarından
+azami derecede yararlanılır.
+       (2) Mimari tasarımda dikkat edilmesi gereken hususlar aşağıda belirtilmiştir.
+       a ) (Değişik:RG-1/4/2010-27539) Binaların ve iç mekânların yönlendirilmesinde, güneş, rüzgâr, nem, yağmur, kar ve benzeri meteorolojik
+veriler dikkate alınarak oluşturulan mimari çözümler aracılığı ile istenmeyen ısı kazanç ve kayıpları asgari düzeyde tutulur.
+       b) (Değişik:RG-1/4/2010-27539) Bina içerisinde sürekli kullanılacak yaşam alanları, güneş ısısı ve ışığı ile doğal havalandırmadan en uygun
+derecede faydalanacak şekilde yerleştirilir.
+       c) (Değişik:RG-1/4/2010-27539) Mimari uygulama projesi ve sistem detaylarının, ısı yalıtım projesindeki bütün malzemeler ve nokta detayları
+ile bütünlük sağlaması, ısı yalıtımında sürekliliği sağlayacak şekilde, çatı-duvar, duvar-pencere, duvar-taban ve taban-döşeme-duvar bileşim detaylarını
+ihtiva etmesi gerekir.
+       ç) (Değişik:RG-1/4/2010-27539) Binanın yapılacağı yere ilişkin olarak yenilenebilir enerji kaynak kullanılması imkânlarının araştırılması ile
+oluşturulacak raporlar, mimari çözümlerde öncelikle dikkate alınır.
+       d) (Ek:RG-24/6/2025-32936) Mimari detay proje ile ısı yalıtım raporu uyumlu olur.
+       Mimari uygulamalar
+       MADDE 8 – (1) Mevcut binaların dış kabuğu, binanın enerji performansını olumsuz etkileyecek şekilde değiştirilemez.
+       (2) (Değişik:RG-24/6/2025-32936)(4) Isı kaybeden düşey dış yüzeylerinin toplam alanının %60’ı ve üzerindeki oranlarda camlama yapılan
+
+binalarda pencere sisteminin ve diğer ısı kaybeden bölümlerinin ısıl geçirgenlik katsayılarının TS 825 Standardında belirtilen esaslara göre olması
+gerekir. Söz konusu binalar için ısı yalıtım projesi ve hesaplamalar TS 825 Standardında tanımlanan usul ve esaslara göre yapılır. Bu hesaplamalar
+içerisinde bu fıkrada belirtilen şartların yerine getirildiğinin ayrıca gösterilmesi gerekir. Ayrıca, yaz aylarındaki istenmeyen güneş enerjisi kazançları için
+tasarım sırasında tedbirler alınır.
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) Yeni yapılacak binalar için ısı yalıtım raporu hazırlanmasının gerektiği durumlarda ve mevcut binalara yapılan uygulamalarda, iç yüzeyden dış
+yüzeye doğru oluşturulan katmandaki yapı ve ısı yalıtım malzemeleri, giydirme cam cephenin iç yüzeyindeki cama yapıştırılan film tabakasının ısıl
+geçirgenlik katsayısı, giydirme cam cepheli binanın bulunduğu iklim bölgesindeki TS 825 standardında tavsiye edilmiş olan ısıl geçirgenlik katsayısından
+büyük olamaz.
+       (5) (Mülga:RG-1/4/2010-27539)
+       (6) (Mülga:RG-1/4/2010-27539)
+
+                                                                  DÖRDÜNCÜ BÖLÜM
+                                             Isı Yalıtımı Esasları, Asgari Hava Sirkülasyonu ve Sızdırmazlık
+         Bina ısı yalıtımı esasları
+         MADDE 9 – (1) Binaların ısı yalıtımı hesaplamalarında aşağıda belirtilen hususlara uyulur.
+         a) Binanın Yıllık Isıtma Enerjisi İhtiyacının TS 825 standardında belirtilen sınır değerden küçük olması gerekir.
+         b) Bitişik nizam olarak yapılacak olan binaların ısıtma enerjisi ihtiyacı hesabı yapılırken, bitişik nizam tarafında kalan duvarlar da dış duvar gibi
+değerlendirilir.
+         (2) Binaları dış havadan, topraktan veya düşük iç hava sıcaklığına sahip ortamlardan ayıran yapı bileşenlerinin yüzeyleri, TS 825 standardında
+belirtilen asgari ısı yalıtım şartlarına uygun şekilde yalıtılır.
+         (3) Bina kabuğunu oluşturan, duvar, döşeme, balkon, konsol, taban, tavan, çatı ve pencere/duvar birleşimleri ısı köprüsü oluşmayacak şekilde
+yalıtılır. Mevcut binalarda ısı köprülerinin önlenememesi durumunda, ısıyı nakleden kaplama yüzeylerinde oluşan ısı köprüleri sebebiyle gerçekleşen ısı
+kaybı hesabı TS EN ISO 10211-1, TS EN ISO 10211-2, TS EN ISO 14683 veya TS EN ISO 6946 standardına göre yapılır ve yıllık ısıtma enerjisi
+ihtiyacının hesaplanmasında dikkate alınır.
+         (4) Belediye hudutları ve mücavir alan sınırları dışında, köy nüfusuna kayıtlı ve köyde sürekli oturanların, köy yerleşik alanları civarında ve
+mezralarda 2 kata kadar olan ve toplam döşeme alanı 100 m2’den küçük (dış havaya açık balkon, teras, merdiven, geçit, aydınlık ve benzeri yerler
+hariç) yeni binalar ile bu alanlardaki;
+         a) Yapı bileşenlerinin ısıl geçirgenlik katsayılarının, TS 825 standardında belirtilen yapı bileşenleri değerlerine eşit veya daha küçük olması,
+         b) Toplam pencere alanının, ısı kaybeden dış duvar alanının %12’sine, eşit veya daha küçük olması
+         hallerinde konstrüksiyonların ve ayrıntıların mimari projede gösterilmesi şartıyla, “ısı yalıtım projesi” yapılması gerekmez. Bu durumda yukarıdaki
+şartların sağlandığını gösteren bir “ısı yalıtım raporu” düzenlenmesi yeterlidir.
+         (5) (Değişik:RG-1/4/2010-27539) Binanın bağımsız bölümleri arasındaki duvar, taban ve tavan gibi yapı elemanlarında, R direnci en az 0,80
+m2K/W olacak şekilde yalıtım uygulanır.
+         (6) (Mülga:RG-1/4/2010-27539)
+         (7) Bu Yönetmelikte belirtilmeyen hususlarda TS 825 standardına uyulur.
+         (8) Yapı ve yalıtım malzemelerinin standarda uygunluğu;
+         a) Yapı ve yalıtım malzemelerinin ısıl iletkenlik hesap değerleri TS 825 Ek-E’de verilmiş olup, ısı yalıtım projesi burada verilen değerlere göre
+hesaplanır. Bina yapımında kullanılacak yapı ve yalıtım malzemeleri için 8/9/2002 tarihli ve 24870 sayılı Resmî Gazete’de yayımlanan, Yapı
+Malzemeleri Yönetmeliği çerçevesinde, Yapı ve Yalıtım Malzemelerinin CE veya G uygunluk işareti ve uygunluk beyanı veya belgesi alması
+zorunludur.
+         b ) (Değişik:RG-1/4/2010-27539) Birinci fıkra hükümleri çerçevesinde beyan edilen ısıl iletkenlik hesap değerlerinin TS 825 Ek-E’deki
+değerlerden daha küçük olması ve bu değerin hesaplamalarda kullanılmak istenilmesi halinde, beyan edilen ısıl iletkenlik hesap değerlerinin
+hesaplamalarda kullanılabilmesi için, Bakanlıkça bu amaç için özel olarak görevlendirilmiş bir kuruluş tarafından, malzemenin beyan edilen ısıl iletkenlik
+hesap değerlerinin belgelendirilmesi şarttır. Eğer bu belgelendirme yapılmamış ise, hesaplamalarda, söz konusu malzemenin beyan edilen ısıl iletkenlik
+hesap değeri yerine TS 825 Ek-E’deki değerleri alınır. Görevlendirilmiş kuruluşun çalışma usul ve esasları Bakanlıkça belirlenir.
+         Isı yalıtım projesi zorunluluğu
+         MADDE 10 – (1) Bu Yönetmelik hükümleri uyarınca TS 825 standardında belirtilen hesap metoduna göre, yetkili makina mühendisi tarafından
+hazırlanan "ısı yalıtımı projesi" imara ilişkin mevzuat gereğince yapı ruhsatı verilmesi safhasında tesisat projesi ile birlikte ilgili idarelerce istenir.
+         (2) Isı yalıtım projesinde;
+         a) Isı kayıpları, ısı kazançları, kazanç/kayıp oranı, kazanç kullanım faktörü ve aylık ve yıllık ısıtma enerjisi ihtiyacının büyüklüklerinin, TS 825
+standardında verilen “Binanın Özgül Isı Kaybı” ve “Yıllık Isıtma Enerjisi İhtiyacı” çizelgelerindeki örneklerde olduğu gibi çizelgeler halinde verilmesi ve
+hesaplanan yıllık ısıtma enerjisi ihtiyacının (Q), TS 825 standardında verilen yıllık ısıtma enerjisi (Qı) formülünden elde edilecek olan sınır değerden
+büyük olmadığının gösterilmesi,
+         b) Konutlar dışında farklı amaçlarla kullanılan binalarda yapılacak hesaplamalarda, binadaki farklı bölümler arasındaki sıcaklık farkı 4 °C’den
+daha fazla ise ve bu binada birden fazla bölüm için yıllık ısıtma enerjisi ihtiyacı hesabı yapılacaksa, bu bölümlerin sınırlarının şematik olarak çizilmesi,
+sınırların ölçüleri ve bölümlerin sıcaklık değerleri üzerinde gösterilmesi,
+         c) Binanın ısı kaybeden yüzeylerindeki dış duvar, tavan ve taban/döşemelerde kullanılan malzemeler, bu malzemelerin eleman içindeki sıralanışı
+ve kalınlıkları, duvar, tavan ve taban/döşeme elemanlarının alanları ve “U” değerlerinin belirtilmesi,
+         ç) Pencere sistemlerinde kullanılan cam ve çerçevenin tipinin, bütün yönler için ayrı ayrı pencere alanlarının ve “U” değerlerinin belirtilmesi,
+         d) Havalandırma tipinin belirtilmesi, mekanik havalandırma söz konusu ise, hesaplamalar ve sonuçlarının proje raporunda belirtilmesi,
+         e) Isı yalıtım projesinde, binanın ısı kaybeden yüzeylerinde oluşabilecek yoğuşmanın TS 825 standardında belirtildiği şekilde tahkik edilmesi,
+gerekli çizim ve hesaplamaların proje raporunda verilmesi,
+         f) Mevcut binaların tamamında veya bağımsız bölümlerinde yapılacak olan esaslı tamir, tadil ve eklemelerdeki uygulama yapılacak olan bölümler
+için, TS 825 standardında ısıtma derece gün bölgelerine göre tanımlanmış tavsiye edilen ısıl geçirgenlik katsayılarına eşit veya daha küçük olduğunun
+gösterilmesi,
+         g) Mevcut binalarda yapılacak olan esaslı tamir, tadil ve eklemelerde, uygulamanın yapılacağı yüzeylerde oluşabilecek yoğuşmanın TS 825
+standardında belirtildiği şekilde tahkik edilmesi, gerekli çizim ve hesaplamaların raporlanması
+         hususunda bilgiler bulunmalıdır.
+         Mekanik tesisat yalıtımı esasları
+         MADDE 11 – (1) (Değişik:RG-1/4/2010-27539) Binaların ısıtma, soğutma, havalandırma ve klima gibi enerji kullanımını etkileyen
+
+tesisatlarında kullanılan borular, kollektörler ve bağlantı malzemeleri, vanalar, havalandırma ve iklimlendirme kanalları, sıhhi sıcak su üreticileri ve
+depolama üniteleri, yakıt depoları ve diğer mekanik tesisat ekipmanları, ısı köprüsüne yol açmayacak şekilde ve yüzey sıcaklığı ile iç ortam sıcaklığı
+arasında 5°C’den fazla fark ve yüzeyde yoğuşma olmayacak şekilde yalıtılır.
+        (2) Mekanik tesisat yalıtım hesaplamaları ve uygulamalarında aşağıda belirtilen hususlara uyulur.
+        a) (Mülga:RG-1/4/2010-27539)
+        b) Mekanik tesisatta meydana gelen ısı kayıp ve kazançları prEN ISO 12241:2008 standardına göre hesaplanır.
+        c) (Mülga:RG-1/4/2010-27539)
+        ç) Şartlandırılan mekanların içerisinde yer alan kanallar, ısıl direnci 0,6 m2K/W’dan küçük olmayacak şekilde yalıtılır. Diğer mekanlarda yer alan
+ve yalıtılması gereken kanalların ısıl direnci 1,2 m2K/W’dan küçük olmayacak şekilde yalıtılır.
+        d) Mekanik tesisat boru ve klima kanalı montajları, boruların ve kanalların birbirleri arasındaki mesafeler ile tavan, taban ve duvarlar arasındaki
+mesafeleri, hesaplamaları yapılan yalıtım kalınlıklarının uygulanmasına engel olmayacak şekilde yapılır. Boruların ve klima kanallarının askıya alınmaları
+ile kalıcı veya sabit mesnetle desteklemelerinde ısı kayıplarının ve ısı köprülerinin oluşmasına izin verilmez.
+        (3) Soğuk su ve soğutma tesisatlarındaki borular ve soğuk akışkan taşıyan klima kanalları, ısı kazançları ve yoğuşma riskini önlemeye yönelik
+olarak iki ayrı hesaplama yöntemi sonucunda elde edilen en büyük kalınlık değeri esas alınarak dıştan yalıtılır. Yoğuşmanın ve korozyonun önlenebilmesi
+için yapılan hesaplamalarda, borunun ve kanalın yüzey sıcaklığının, çiğ noktası sıcaklığının altına düşmemesini sağlayan yalıtım kalınlığı gözönünde
+bulundurulur. Soğuk su ve soğutma tesisatlarındaki borular ve soğuk akışkan taşıyan klima kanalları açık gözenekli ısı yalıtım malzemeleri kullanılması
+durumunda, yoğuşmanın engellenmesi için dıştan buhar kesici bir malzeme ile kaplanır.
+        (4) (Mülga:RG-1/4/2010-27539)
+        (5) (Mülga:RG-1/4/2010-27539)
+        (6) (Mülga:RG-1/4/2010-27539)
+        Asgari hava sirkülasyonu ve sızdırmazlık
+        MADDE 12 – (Değişik:RG-1/4/2010-27539)
+        (1) Binalarda, derzler de dâhil olmak üzere, ısı geçişinin olabileceği yüzeylerde, kesitlerde ve/veya şaftlarda sürekli hava geçirmeyecek şekilde
+sızdırmazlık sağlayacak ve hava geçişine engel olacak uygun malzemeler kullanılır. Binalarda iç hava kalitesini bozmayacak şekilde gerekli kontrollü
+temiz hava girişi sağlanır.
+        (2) Bina sızdırmazlık hesaplarında bina kat sayısına bağlı olarak; dış pencerelerden, balkon kapılarından ve çatı pencerelerinden kaynaklanan
+sızıntılar için TS EN 12207 Standardında verilen derz geçirgenlik değerleri kullanılır. Mekanik havalandırma sistemi bulunan yalıtımlı binalarda, iç ve dış
+ortamlar arasında 50 Pascal basınç farkı için hesaplarda kullanılacak hava değişim sayıları (Değişik ibare:RG-24/6/2025-32936) TS EN 16798
+serisi Standardından alınır.
+
+                                                                BEŞİNCİ BÖLÜM
+                                             Isıtma ve Soğutma Sistemleri Tasarım ve Uygulama Esasları
+       Isıtma sistemleri tasarım esasları
+       MADDE 13 – (1) Isıtma sistemleri tasarımında kullanılacak olan ısıl geçirgenlik katsayıları 9 uncu maddede belirtilen şartlara göre hesaplanarak
+belirlenir.
+       (2) Isıtma sistemi tasarım hesapları TS 2164 standardına göre yapılır.
+       (3) (Değişik:RG-1/4/2010-27539) Yeni binalarda; yapı ruhsatına esas olan (Değişik ibare:RG-24/6/2025-32936)(4) yapı inşaat alanının
+2.000 m2 ve üstünde olması halinde merkezi ısıtma sistemi yapılır. (Ek cümle:RG-28/4/2017-30051) Bu binalar, bağımsız bölümlerin ısı sayacı
+kullanılmasına olanak verecek şekilde, tek kolon hattına sahip ısıtma sistemli ve ısı sayaçlarının bağımsız bölümün dışında olacak şekilde projelendirilir.
+(Ek cümle:RG-24/6/2025-32936)(4) Ancak, TS 825 Standardı Ek-D’deki 1 inci derece gün bölgesinde yer alan binalarda bu fıkra uygulanmayabilir.
+       ( 4) (Değişik:RG-1/4/2010-27539) (Değişik ibare:RG-24/6/2025-32936) Yapı inşaat alanı 250 m2 ve üstünde olan bireysel ısıtma
+sistemine sahip gaz yakıt kullanılan binalarda bağımsız bölümlerde veya müstakil binalarda; yoğuşmalı tip ısıtıcı cihazlar veya entegre ekonomizerli
+cihazlar kullanılır.
+       (5) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemi ile ısıtılan binaların bağımsız bölümlerindeki hacimlerinde sıcaklık kontrol
+ekipmanları ile ısı merkezinde iç ve/veya dış hava sıcaklığına bağlı kontrol ekipmanları kullanılır.
+       ( 6 ) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemli binaların bağımsız bölümlerinde sıcaklık kontrol ekipmanlarının kullanılması
+durumunda, ısıtma tesisatı pompa grupları zamana, basınca veya akışkan debisine göre değişken devirli seçilir.
+       (7) Merkezi ısıtma sistemine sahip (Ek ibare:RG-24/6/2025-32936) veya bölgesel ısıtma sistemine bağlı binalarda, merkezi veya lokal ısı veya
+sıcaklık kontrol cihazları ile ısınma maliyetlerinin ısı kullanım miktarına bağlı olarak paylaşımını sağlayan sistemler kullanılır.
+       (8) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemine sahip binalardaki ısıtma sistemi bacası kesit alanı ve yüksekliği; atık gaz kütlesi,
+atık gaz sıcaklığı ve gerekli atık gaz basıncına göre TS 11389 EN 13384-1, TS 11388 EN 13384-2 standartlarındaki metotlara uygun olarak
+hesaplanarak bulunur. Hermetik veya yarı hermetik doğalgazlı cihazlarda, üretici firma sistem sertifikasyonlarındaki değerler esas alınır.
+       (9) (Mülga:RG-19/2/2022-31755)
+       (10) Merkezi ısıtma sistemlerinin yerleşimleri TS 2192 standardına; gaz yakıt kullanan sistemlerin yerleşimi de TS 3818 standardına göre yapılır.
+       (11) (Mülga:RG-1/4/2010-27539)
+       (12) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemlerinde kullanılacak sıvı veya gaz yakıtlı cebri üflemeli brülörlü yakma sistemlerinde;
+       a) Sıvı yakıtlı cebri üflemeli brülörler kullanılması halinde;
+       1) 100 kW’a kadar ısıtma sistemi kapasitesine sahip sistemlerde tek kademeli ancak hava emiş damperi servo motor kontrollü, iki kademeli veya
+oransal kontrollü,
+       2) 100 kW-1200 kW ısıtma sistemi kapasitesine sahip sistemlerde iki kademeli veya oransal kontrollü, 1200 kW ve üstü kapasiteye sahip
+sistemlerde sadece oransal kontrollü,
+       3) 3000 kW üstü sistemlerde baca gazı oksijen kontrol sistemine sahip
+       brülörler kullanılır.
+       b) Gaz yakıtlı cebri üflemeli brülörler kullanılması halinde;
+       1) 100 kW’a kadar ısıtma sistemi kapasitesine sahip sistemlerde tek kademeli ancak hava emiş damperi servo motor kontrollü, iki kademeli veya
+oransal kontrollü,
+       2) 100 kW-600 kW ısıtma sistemi kapasitesine sahip sistemlerde iki kademeli veya oransal kontrollü 600 kW ve üstü kapasiteye sahip
+sistemlerde sadece oransal kontrollü,
+       3) 3000 kW üstü sistemlerde baca gazı oksijen kontrol sistemine sahip
+       brülörler kullanılır.
+
+       (13) (Değişik:RG-1/4/2010-27539) 500 kW ve üstü kapasiteye sahip kazanların kullanıldığı sistemlerde su yumuşatma veya şartlandırma veya
+her iki sistem birlikte kurulur.
+       (14) (Mülga:RG-1/4/2010-27539)
+       (15) (Mülga:RG-1/4/2010-27539)
+       Isıtma sistemleri uygulama esasları
+       MADDE 14 – (1) (Değişik:RG-1/4/2010-27539) Isıtma merkezinde yakıt türüne göre gerekli olan temiz havanın sağlanması ve egzost
+havasının atılabilmesi için gerekli havalandırmanın sağlanması gerekir.
+       (2) (Değişik:RG-1/4/2010-27539) Sıvı, gaz ve katı yakıtlı merkezi ısıtma sistemlerinde her işletme döneminin başlangıcında ve yılda en az bir
+kez olmak üzere baca gazı analizi ve sistem bakımı yaptırılır. Sistem performansını da ihtiva eden bir rapor hazırlanarak gerektiğinde ilgili mercilere
+sunulmak üzere saklanır.
+       (3) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemlerinde, baca gazı sıcaklığının işletmeci veya yönetici tarafından izlenebilmesi için
+kalibrasyonu yapılmış baca gazı termometresi kullanılır.
+       (4) (Mülga:RG-1/4/2010-27539)
+       (5) (Mülga:RG-1/4/2010-27539)
+       (6) (Mülga:RG-1/4/2010-27539)
+       (7) Mevcut merkezi ısıtma sistemli binaların bağımsız bölümlerinde sıcaklık kontrol ekipmanlarının kullanılması durumunda, ısıtma tesisatı pompa
+grupları zamana, basınca veya akışkan debisine göre değişken devirli seçilir.
+       (8) (Ek:RG-1/4/2010-27539) Atık gaz ile ısı kaybı sınır değerleri, 13/1/2005 tarihli ve 25699 sayılı Resmî Gazete’de yayımlanan Isınmadan
+Kaynaklanan Hava Kirliliğinin Kontrolü Yönetmeliğinde belirtilen sınır değerleri aşamaz.
+         (9) (Ek:RG-1/4/2010-27539) Merkezi ısıtma sistemine sahip binalarda ısıtılan mahallerin iç ortam sıcaklığı 15°C’nin altına düşmeyecek
+şekilde tedbir alınır.
+       Soğutma sistemleri tasarım esasları
+       MADDE 15 –(1) (Değişik:RG-1/4/2010-27539) Soğutma ihtiyacı 250 kW’dan büyük olan konut dışı binalarda merkezi soğutma sistemi
+tasarımları yapılır.
+       (2) Soğutma sistemlerin tasarımında seçilecek olan soğutucu akışkanların TS EN 378 serisi standardlarına uygun olması gerekir.
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) (Mülga:RG-1/4/2010-27539)
+       Soğutma sistemleri uygulama esasları
+       MADDE 16 – (1) Soğutma sistemlerinin işletme karakteristliklerine ve enerji ekonomisine göre ayarlarının doğru yapılması gerekir.
+       (2) (Mülga:RG-1/4/2010-27539)
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) (Mülga:RG-1/4/2010-27539)
+
+                                                                          ALTINCI BÖLÜM
+                                          Havalandırma ve İklimlendirme Sistemleri Tasarım ve Uygulama Esasları
+       Havalandırma ve iklimlendirme sistemleri tasarım esasları
+       MADDE 17 – (1) Havalandırma ve iklimlendirme sistemleri tasarımında TS 3419 ve ilgili Avrupa Standartlarına uyulur.
+       (2) (Değişik:RG-1/4/2010-27539) İçerisinde insan bulunan ve ısıtma döneminde içeri üflenen havanın nemlendirilmesi öngörülmüş binalarda,
+üflenen havanın mutlak nemini 1 kilogram kuru hava için 10 gram veya daha az düzeyde ayarlayabilen kalibrasyonu akredite edilmiş bir kuruluş
+tarafından yapılmış kontrol cihazı kullanılır.
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) (Değişik:RG-1/4/2010-27539) Konut dışı amaçlı kullanılan binalarda;
+       a) Bir mekânındaki özel mekanik havalandırma sistemi, mekânda insanların bulunmadığı zamanlarda mekânın minumum iç hava kalitesini
+sağlayacak şekilde otomatik sistem ile donatılır.
+       b) İklimlendirme sistemlerinde oda sıcaklığı ayar düzenekleri kullanılır.
+       c) Mahal bazında değişken hava debisi kontrolü yapılan iklimlendirme sistemlerinde, sisteme bağlı fanların değişken debili olması sağlanır.
+       (5) İklimlendirme sistemleri değişken insan yüküne bağlı olarak değişken hava debili çalışacak şekilde iç hava kontrolü sağlayacak mekanik
+tesisatla donatılır.
+       (6) (Mülga:RG-1/4/2010-27539)
+       (7) (Mülga:RG-1/4/2010-27539)
+       (8) (Mülga:RG-1/4/2010-27539)
+       (9) (Mülga:RG-1/4/2010-27539)
+       (10) Yeni yapılacak binaların 500 m3/h ve üzeri hava debili havalandırma ve iklimlendirme sistemlerinde, ısı geri kazanım sistemlerinin tasarımları
+yapılarak, yaz ve kış çalışma şartlarında minimum %50 verimliliğe sahip olması, ilk yatırım ve işletme masrafları ile birlikte enerji ekonomisi göz önüne
+alındığında avantajlı olması durumunda ısı geri kazanım sistemleri yapılması zorunludur. Bu sistemler geçiş mevsimleri için by-pass düzeneğine sahip
+olmalıdır.
+       (11) Yeni yapılacak binalar için onuncu fıkrada belirtilen çalışmanın tasarım aşamasında rapor halinde proje müellifi tarafından ilgili idarelere
+sunulması zorunludur.
+       (12) Binalardaki ısıl konfor memnuniyetinin ve enerji performansının arttırılması için gerekli kriterler EN 7730 ve TS 2164 standarlarına göre
+belirlenir.
+       (13) Klima santrallerinin sızıntı, ısı köprüsü ve ısı transfer katsayısının EN 1886 standardına uygun olması gerekir.
+       Havalandırma ve iklimlendirme sistemleri uygulama esasları
+       MADDE 18 – (1) Havalandırma ve iklimlendirme sistemlerinin işletme ve bakımında TS 5895’e uyulur.
+       (2) Havalandırma ve iklimlendirme sistemlerinin yerleşimlerinde TS 3420 ve ilgili Avrupa Standardlarına uyulur.
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) (Mülga:RG-1/4/2010-27539)
+       (5) Hava kanalları sızıntı limitleri TS EN 1507 ve TS EN 12237’ye göre belirlenir ve raporlanır.
+       (6) Klima santrallerinde kullanılan filtre sistemleri üreticisi tarafından belirtilen sürelerde temizletilir veya değiştirilir ve bu durum raporlanır.
+
+                                                                    YEDİNCİ BÖLÜM
+                                                      Sıhhi Sıcak Su Hazırlama ve Dağıtım Sistemleri
+
+       Sıhhi sıcak su hazırlama ve dağıtım sistemleri
+       MADDE 19 – (1) (Değişik:RG-1/4/2010-27539) Binalarda sıhhi sıcak su sistemlerinin düzenlenmesi hususunda TS EN 14336’ya uyulur.
+       (2) Sıhhi sıcak su sistemlerinin yıllık enerji ihtiyacının belirlenmesi için gerekli hesaplamalar prEN 15316-3-1’de verildiği şekilde yapılır.
+       (3) (Değişik:RG-24/6/2025-32936)(4) Yapı ruhsatına esas olan yapı inşaat alanı 2000 m 2’nin üzerindeki oteller, hastaneler, yurtlar, cezaevleri
+gibi konaklama amaçlı konut harici binalar ile spor merkezlerinde yenilenebilir enerji kaynakları ile desteklenen merkezi sıhhi sıcak su sisteminin
+planlanması şarttır.
+       (4) Bağımsız bölümlerde kullanılan bireysel sıhhi sıcak su hazırlama ekipmanlarının TS EN 26 standardında, merkezi sıhhi sıcak su hazırlama
+ekipmanlarının da TS EN 89 standardında belirtilen ısıl performansa sahip olması gerekir.
+       (5) (Değişik:RG-1/4/2010-27539) Merkezi kullanım sıhhi sıcak su hazırlama amaçlı planlanan ve sıcak su depolanan sistemlerde, sıhhi sıcak
+suyun sıcaklığı 60°C geçmeyecek tasarımlar yapılır. Ancak lejyonella etkisi olmaması için depolanan sıhhi sıcak su sistemlerinde en az haftada 1 saat
+boyunca su sıcaklığı en az 60°C sıcaklıkta tutulur.
+       (6) (Mülga:RG-1/4/2010-27539)
+       (7) (Mülga:RG-1/4/2010-27539)
+       (8) (Değişik:RG-1/4/2010-27539) Merkezi sıhhi sıcak su hazırlama sistemlerinde merkezi plakalı eşanjör kullanılması durumunda, depolama
+sistemi olarak akümülasyon tankı kullanılır.
+       (9) (Değişik:RG-24/6/2025-32936) Merkezi sıhhi sıcak su sistemlerinde, duvar içinde kalan tesisat da dahil olmak üzere cihaz, depo ve
+dağıtım hatları yüzey sıcaklığı ortam sıcaklığının 5°C üzerine çıkmayacak şekilde yalıtılır. Bu Yönetmeliğe uygun tesisat yalıtımı yapılmayan binalara
+yapı kullanım izin belgesi verilmez. Her yıl bina sahibi, yöneticisi, varsa enerji yöneticisi veya işletmecisi tarafından kontrol ettirilerek varsa eksiklikler
+tamamlattırılarak raporlanır.
+       (10) (Değişik:RG-1/4/2010-27539) Sıhhi sıcak suyun ısı kapasitesi minimum kazan modülasyon çalışma alt sınırının altında kalması halinde
+yaz kullanımına yönelik ayrı bir sıcak su kazanı tesis edilir.
+       (11) Konaklama amaçlı binalarda ısıtma sisteminde buhar kullanıyor ise, sıcak su üretiminde ani çabuk ve kolay sıcak su üreten sıcak su
+depolama ihtiyacı olmayan sistemler kullanır.
+
+                                                                     SEKİZİNCİ BÖLÜM
+                                                                      Otomatik Kontrol
+       Otomatik kontrol
+       MADDE 20 – (1) (Değişik:RG-1/4/2010-27539) Sıvı ve gaz yakıtlı kazanlarda yanma kontrolü için otomatik kontrol sistemleri tesis edilir.
+       (2) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma, iklimlendirme ve/veya soğutma sistemine sahip binalar, her odanın sıcaklığını ayrı ayrı
+düzenleyecek otomatik cihazlarla donatılır. Konut olarak kullanılan binalar hariç olmak üzere binalarda, birbirinden ayrı mekânların farklı iç sıcaklıklara
+ayarlanabilmesine imkân sağlayacak merkezi otomatik kontrol sistemi kurulur.
+       (3) (Değişik:RG-1/4/2010-27539) Merkezi ısıtma sistemine sahip konut olarak kullanılan binalarda cihazlar, en az gidiş suyu kontrolü ve dış
+hava kompanzasyonu yapacak otomatik kontrol sistemleri ile donatılır.
+       (4) (Değişik:RG-1/4/2010-27539) Merkezi iklimlendirme sistemi olan binalarda, ayarlanan değerleri kontrol edecek otomatik kontrol sistemi
+bulunması şarttır. Ticari binalarda bu cihazların, ayar değerlerine çekilmesinin yanında zamana göre de kontrol edebilmesi gerekir.
+       (5) Konut olarak kullanılan binalar hariç olmak üzere binalarda, aydınlatma kontrolü zamana, gün ışığına ve kullanıma göre yapılır.
+       (6) (Değişik:RG-1/4/2010-27539) (Değişik ibare:RG-24/6/2025-32936) Yapı inşaat alanı 10.000 m2’nin üzerinde olan ve merkezi ısıtma,
+soğutma, iklimlendirme sistemi ve aydınlatma sistemleri birlikte bulunan binalarda bilgisayar kontrollü bina otomasyon sistemi tesis edilir.
+       (7) Sıhhi sıcak su tesislerinde kullanılacak olan sirkülasyon pompaları, otomatik çalışmayı sağlayacak ekipmanlarla donatılır.
+       (8) (Değişik:RG-1/4/2010-27539) Yeni yapılacak binalarda aydınlatma, ısıtma, soğutma ve sıhhi sıcak su ihtiyacı için kullanılan enerjilerin
+ayrı ayrı ölçülmesine imkân sağlayacak tasarımlar yapılır ve buna uygun ölçüm ve izleme sistemleri tesis edilir.
+
+                                                                  DOKUZUNCU BÖLÜM
+                                                         Elektrik Tesisatı ve Aydınlatma Sistemleri
+       Elektrik tesisatı ve aydınlatma sistemleri
+       MADDE 21 – (1) Binanın toplam enerji tüketimi içerisindeki aydınlatma enerjisi payının hesaplanmasında EN 15193 standardında verilen hesap
+yöntemi kullanılır.
+       (2) Binalarda gün ışığından azami derecede faydalanmak ve gereksiz yapay aydınlatmadan kaçınmak için;
+       a) (Değişik:RG-1/4/2010-27539) Erişimi kolay el ile kontrol edilen anahtarlardan,
+       b) Gün ışığından faydalanma imkanı olan yerlerde, gün ışığı ile bağlantılı foto elektrikli anahtarlar ile telefon, kızıl ötesi, sonik ve ultrasonik
+kontrollü uzaktan kumandalı anahtarlardan,
+       c) Mahalde kimse olmadığında mekanın boş olduğunu algılayabilen ve yapay aydınlatmayı kapatan otomatik anahtar ve sistemlerden,
+       ç) Zaman ayarlı anahtarlardan
+       biri veya bir kaçı kullanılır.
+       (3) (Değişik:RG-1/4/2010-27539) Çalışma saatleri boyunca devamlı aydınlatma gerektiren binalarda zaman ayarlı veya gün ışığı ile bağlantılı
+foto elektrikli anahtarlar kullanılır.
+       (4) (Değişik:RG-1/4/2010-27539) Binalarda kullanılan genel aydınlatma lambalarının özellikleri EK-2’de verilen tabloya göre olur.
+       (5) (Değişik:RG-1/4/2010-27539) Konut amaçlı kullanılan binalar dışındaki diğer binalarda, içerisinde insan bulunduğu zamanlarda dâhi; idari
+personelin yetkisinde olan her türlü mahallin, aydınlatmanın açılmasına ve kapatılmasına imkân veren bir cihaza sahip olması gerekir. Bu cihaz, söz
+konusu mekân içerisinde yer almıyor ise, mekândaki aydınlatma durumunun kumanda noktasından görülmesine imkân vermesi gerekir. Sportif amaçlı
+ve çok amaçlı salonlar gibi farklı aydınlatma seviyelerinin söz konusu olduğu, en az iki ve daha çok farklı kullanım mahallerinin bulunduğu binalarda,
+temel aydınlatma seviyesini yalnızca yetkili personelin artırmasına imkân verecek biçimde tedbirler alınır.
+       (6) (Değişik:RG-1/4/2010-27539) Aynı mekân içerisinde, bir pencere boşluğuna 5 metreden daha yakın olan yapay aydınlatmalı noktalarının
+her birindeki toplam kurulu güç 200 W’ı aştığında, bu noktalar diğer aydınlatma noktalarından bağımsız olarak kumanda edilir.
+       (7) (Değişik:RG-1/4/2010-27539) Doğal aydınlatma yeterli olduğunda, zaman ayarlı veya insan mevcudiyetini algılayan cihaz ile yapay
+aydınlatmanın otomatik olarak devreye girmemesi gerekir.
+       (8) (Değişik:RG-1/4/2010-27539) Binalarda elektrik enerjisinin verimli kullanılması amacıyla;
+       a) Özel durumlar olmadıkça akkor flamanlı lambaların kullanılmaması, renk sıcaklığının önemli olmadığı durumlarda A ve B sınıfı elektronik
+balastlı tüp biçimli fluoresan, kompakt tip fluoresan veya sodyum buharlı lambaların tercih edilmesi,
+       b) Enerji tüketimi yüksek olan dekoratif aydınlatma gereçlerinin genel aydınlatma amaçlı kullanılmaması,
+       c) Çalışma alanlarında yeterli aydınlık seviyesini sağlayacak armatür seçiminin ve dağılımının yapılması,
+
+       ç) Yapılabilirliği uygun olan mekânlarda, hareket, ısı veya ışık duyarlı ekipmanların kullanılması, özellikle merdiven boşluklarında ve çalışma
+ortamlarında bulunan tuvalet, lavabo, koridor gibi mekânlarda sensörlü lambaların kullanılması ve gereksiz kullanımların önüne geçilmesi,
+       d) Daha az sayıda armatür ve dolayısıyla daha az elektrik tüketimiyle istenen aydınlık seviyelerine ulaşmayı sağlayacağı için, açık renk mobilya
+ve duvar renkleri tercih edilmesi,
+       e) Armatürlerin verimlerini ve odalardaki aydınlık seviyesini artırmak için aydınlatma gereçlerinin periyodik olarak temizlenmesi
+       gerekir.
+       (9) (Değişik:RG-1/4/2010-27539) Konut harici binaların aydınlatma enerjisi ihtiyacı belirlenirken binanın iç aydınlatma yüküne ilaveten,
+güvenlik aydınlatması hariç olmak üzere, binanın dış aydınlatma yükü de dikkate alınır.
+       (10) (Ek:RG-1/4/2010-27539) Farklı aydınlatma seviyelerinin söz konusu olduğu mahallerin bulunduğu konut amaçlı kullanılan binalar dışındaki
+binalarda, asgari aydınlatma seviyesini yalnızca yetkili personelin artırmasına imkân verecek sistemler tesis edilir.
+       (11) (Ek:RG-1/4/2010-27539) Binaların elektrik tesisatı, 4/11/1984 tarihli ve 18565 sayılı Resmî Gazete’de yayımlanan Elektrik İç Tesisleri
+Yönetmeliğine ve ilgili mevzuat hükümlerine göre projelendirilir ve uygulanır.
+       (12) (Ek:RG-1/4/2010-27539) Konut harici binaların elektrik sistemlerinde; konu ile ilgili yönetmeliklere uygun olarak merkezi ve/veya lokal
+düzeyde güç kompanzasyonu yapılır.
+
+                                                                      ONUNCU BÖLÜM
+                                                  Yenilenebilir Enerji Kaynaklarının Kullanımı ve NSEB (1)
+       Yenilenebilir enerji kaynaklarının, ısı pompası, kojenerasyon ve mikrokojenerasyon sistemlerinin kullanımı (Değişik başlık:RG-
+1/4/2010-27539)
+       MADDE 22 – (1) (Mülga:RG-19/2/2022-31755)(3)
+       (2) (Mülga:RG-1/4/2010-27539)
+       (3) (Mülga:RG-1/4/2010-27539)
+       (4) (Mülga:RG-1/4/2010-27539)
+       (5) Güneş enerjisi toplayıcıları kullanımında TS EN 12975-1 ve TS 3817’e uyulur.
+       (6) (Mülga:RG-1/4/2010-27539)
+       (7) (Mülga:RG-1/4/2010-27539)
+       NSEB
+       MADDE 23 – (Mülga:RG-1/4/2010-27539) (Başlığı ile Birlikte Yeniden Düzenleme:RG-19/2/2022-31755)(2)
+       (1) NSEB niteliğindeki binaların Enerji Kimlik Belgesindeki enerji performans sınıfının B veya daha iyi olması ve aynı zamanda binanın birincil
+enerji ihtiyacının en az %10’u oranında (Ek ibare:RG-24/6/2025-32936) yerinde yenilenebilir enerji kullanımına sahip olması zorunludur.
+       (2) Toplam yapı inşaat alanı 2000 m2 ve üzeri olan binaların NSEB olarak inşa edilmesi zorunludur. Bu binaların mimari, mekanik ve aydınlatma
+projelerinin bu Yönetmeliğe uygunluğunu gösteren ve EK-10’da yer alan “Ön Hesap Sonuç Formu”nun, BEP-TR yazılımı ile hazırlanarak ruhsat eki
+projeler ile birlikte sunulması zorunludur. 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 26 ncı maddesine göre avan proje esas alınarak yapı ruhsatı
+düzenlenmesi durumunda “Ön Hesap Sonuç Formu” aranmaz.
+
+                                                                         ONBİRİNCİ BÖLÜM
+                                                            (Değişik bölüm başlığı:RG-1/4/2010-27539)
+                                                                İşletme, Periyodik Bakım ve Denetim
+        İşletme ve periyodik bakım (Değişik başlık:RG-1/4/2010-27539)
+        MADDE 24 –(1) (Değişik:RG-1/4/2010-27539) Binanın enerji kullanan sistemlerinin işletmecisi, Bakanlık tarafından belirlenecek usûl ve
+esaslara göre ilgili meslek odaları tarafından düzenlenecek olan eğitimlere katılarak belge alır.
+        (2) (Değişik:RG-1/4/2010-27539) Bu Yönetmelik kapsamında binanın enerji performansını etkileyen mimari, mekanik, elektrik ve aydınlatma
+gibi sistemlerin verimlilikleri ile ilgili konularda yapılması gerekli bakımlar, testler ve bunların peryotları, ilgili idare tarafından onaylanmak üzere tasarım
+aşamasında hazırlanan raporda tanımlanır. Bu testlerin zamanında ve uygun şekilde yapılmasından ve binanın tasarım aşamasındaki enerji
+performansının altına inmeyecek şekilde işletilmesi için gerekli bakım ve onarım ve tadilatların yapılmasından bina sahibi, yöneticisi, yönetim kurulu
+ve/veya enerji yöneticisi sorumludur.
+        (3) (Değişik:RG-1/4/2010-27539) Periyodik bakımlar kapsamında gerekli tedbirlerin alınmasıyla sistem veya ekipman verimlerinin tasarım
+değerinden daha düşük bir değerde olmaması sağlanır.
+        ( 4 ) (Ek:RG-1/4/2010-27539) (Değişik:RG-24/6/2025-32936) Binanın enerji performansını etkileyen mimari, mekanik, elektrik ve
+aydınlatma gibi sistemlerin periyodik bakımları üretici firması tarafından belirlenen usul ve esaslara göre bina sahibi, yöneticisi, varsa enerji yöneticisi
+veya işletmecisi tarafından yaptırılır. (Danıştay Onüçüncü Dairesinin 24/10/2025 tarihli ve E.:2025/2074 sayılı kararı ile yürütmesi
+durdurulan cümle: Yapı ruhsatı vermeye yetkili idaresince binaya yönelik denetimlerde periyodik bakım dokümanları incelenir ve gerekli
+önlemler alınır.)
+        Denetim yapacak kurum ve kuruluşlar
+        MADDE 24/A – (Ek:RG-1/4/2010-27539)
+        (1) Bu Yönetmelik kapsamında, binanın enerji tüketen ekipmanlarının, ilgili raporlarda belirtilen periyodik bakımlarının yapılması ile ilgili
+denetimler (Değişik ibare:RG-24/6/2025-32936) (Danıştay Onüçüncü Dairesinin 24/10/2025 tarihli ve E.:2025/2074 sayılı kararı ile
+yürütmesi durdurulan ibare: yapı ruhsatı vermeye yetkili idare) (Değişik ibare:RG-24/6/2025-32936) veya yetkilendirilmiş kurum ve
+kuruluşlar tarafından yapılır.
+        (2) (Mülga:RG-24/6/2025-32936)
+        (3) Denetim yapacak kurum ve kuruluşlar, bu Yönetmelik kapsamındaki faaliyetleri bakımından (Değişik ibare:RG-24/6/2025-32936) yapı
+ruhsatı vermeye yetkili idareye karşı sorumludur. (Değişik ibare:RG-24/6/2025-32936) (Danıştay Onüçüncü Dairesinin 24/10/2025 tarihli ve
+E.:2025/2074 sayılı kararı ile yürütmesi durdurulan ibare: Yapı ruhsatı vermeye yetkili idare, ) bu kuruluşların Yönetmelik kapsamındaki
+faaliyetlerini izler ve gerektiğinde denetler.
+        (4) Bu Yönetmeliğin yürürlüğe girmesinden sonra yapı ruhsatı alınan binalara yönelik olarak, yapı kullanma izin belgesi verilmesinden sonra
+(Değişik ibare:RG-24/6/2025-32936) (Danıştay Onüçüncü Dairesinin 24/10/2025 tarihli ve E.:2025/2074 sayılı kararı ile yürütmesi
+durdurulan ibare: yapı ruhsatı vermeye yetkili idare) tarafından yapılan veya yaptırılan denetimlerde enerji kimlik belgesinin gerçeğe aykırı
+düzenlendiğinin veya binanın enerji tüketimi bakımından düzenlenen belgeye uygun olmadığının tespit edilmesi halinde, bina, en geç bir yıl içinde
+projesine ve yapı kullanma izin belgesi verilmesine esas olan enerji kimlik belgesindeki özellikleri sağlayacak hale getirilir. Bu konuda, binayı inşaa eden
+veya ettiren gerçek veya tüzel kişi sorumludur.
+
+                                                                          ONİKİNCİ BÖLÜM
+                                                              (Değişik bölüm başlığı:RG-1/4/2010-27539)
+        Enerji Kimlik Belgesi, Enerji Kimlik Belgesinde Bulunması Gereken Bilgiler ve Enerji Kimlik Belgesi Vermeye Yetkili
+Kuruluşlar
+        Enerji kimlik belgesi düzenlenmesi (Değişik başlık:RG-1/4/2010-27539)
+        MADDE 25 – (1) (Değişik:RG-1/4/2010-27539) Enerji Kimlik Belgesi düzenlenirken Bakanlık tarafından tebliğ ile yayımlanan hesaplama
+yöntemi kullanılır.
+        (2) (Değişik:RG-1/4/2010-27539) Enerji Kimlik Belgesi düzenleme tarihinden itibaren 10 yıl süre ile geçerlidir.
+        (3) (Değişik:RG-28/4/2017-30051) Enerji kimlik belgesi, Bakanlık tarafından yayımlanacak tebliğle belirlenen formatta ve muhteviyatta
+düzenlenir.
+        (4) (Değişik:R.G-20/4/2011-27911) Enerji Kimlik Belgesi, Enerji Kimlik Belgesi(Değişik ibare:RG-24/6/2025-32936) uzmanı tarafından
+hazırlanır. Bu belge, yeni binalar için yapı kullanma izin belgesi alınması aşamasında ilgili idarelere sunulur. Enerji Kimlik Belgesi düzenlenmeyen
+binalara ilgili idarelerce yapı kullanma izin belgesi verilmez. Enerji Kimlik Belgesinde yer alan bilgilerden ve bu bilgilerin doğruluğundan(Ek ibare:RG-
+24/6/2025-32936) enerji kimlik belgesi uzmanı ve Enerji Kimlik Belgesi düzenlemeye yetkili kuruluş sorumludur.
+        (5) (Değişik:RG-1/4/2010-27539) Enerji Kimlik Belgesi, yeni ve mevcut binalar için 26 ncı maddede belirtilen bilgileri ihtiva edecek şekilde
+düzenlenir.
+        (6) (Değişik:RG-1/4/2010-27539) Enerji Kimlik Belgesinin bir nüshası bina sahibi, yöneticisi, yönetim kurulu ve/veya enerji yöneticisince
+muhafaza edilir, bir nüshası da bina girişinde rahatlıkla görülebilecek bir yerde asılı bulundurulur.
+        (7) (Değişik:RG-1/4/2010-27539) Enerji Kimlik Belgesi, binanın yıllık birincil enerji ihtiyacının değişmesine yönelik herhangi bir uygulama
+yapılması halinde, bu Yönetmeliğe uygun olacak şekilde bir yıl içinde yenilenir.
+        (8) (Değişik:RG-19/2/2022-31755) Enerji Kimlik Belgesinin, binanın tamamı için hazırlanması şarttır.
+        (9) (Değişik:RG-24/6/2025-32936) Devletin güvenlik ve emniyeti ile Türk Silahlı Kuvvetlerinin harekât ve ülke savunması bakımından gizlilik
+arz eden yapılar ile Millî Savunma Bakanlığına, Sahil Güvenlik Komutanlığına, Jandarma Genel Komutanlığına ve Emniyet Genel Müdürlüğüne ait
+harekât, eğitim, güvenlik ve savunma amaçlı yapılar ve mülkiyeti kime ait olursa olsun bu nitelikte olduğu ilgili Bakanlık veya kamu kuruluşunca ilgili
+idareye bildirilen binalar ile imar mevzuatı gereği ruhsatsız yapılan yapılar ile mücavir alan dışında kalan ve yapı inşaat alanı 1.000 m2’den az olan
+binalar için Enerji Kimlik Belgesi düzenlenmesi zorunlu değildir.
+        (10) (Mülga:RG-1/4/2010-27539)
+        (11) (Mülga:RG-1/4/2010-27539)
+        (12) (Mülga:RG-1/4/2010-27539)
+        (13) (Ek:RG-1/4/2010-27539) (Değişik:RG-28/4/2017-30051) Enerji kimlik belgesi BEP-TR kullanılmak suretiyle düzenlenir. BEP-TR’ye
+erişim yetkisi, (Ek ibare:RG-24/6/2025-32936) enerji kimlik belgesi uzmanlarına ve enerji kimlik belgesi vermeye yetkili kuruluşlara verilir. Ancak,
+bu yetki, enerji kimlik belgesi düzenlemeye yetkili kuruluş adına, düzenlenen eğitimlere katılmak suretiyle enerji kimlik belgesi düzenlemek üzere
+Bakanlık tarafından BEP-TR’ye erişim yetkisi verilen(Değişik ibare:RG-24/6/2025-32936) enerji kimlik belgesi uzmanları tarafından kullanılır. Bu
+kişilerin çalışmakta olduğu kuruluşlardan ayrılmaları ve enerji kimlik belgesi düzenlemeye yetkili bir başka kuruluşta çalışmaları halinde, ayrıca eğitim ve
+sertifikalandırma programına katılmalarına gerek olmaksızın, çalışmakta olduğu kuruluşun isteği üzerine BEP-TR’ye erişim hakkı yeni çalıştığı kuruluş
+adına tanımlanır.
+        (14) (Ek:RG-1/4/2010-27539)               (Değişik:RG-28/4/2017-30051) Tüzel kişi adına, bünyesindeki herhangi bir gerçek kişi tarafından
+düzenlenen enerji kimlik belgelerinin ilgili mevzuata uygun şekilde düzenlenmesinden, düzenleyen ilgili gerçek kişi veya kişiler ile birlikte kuruluşun sahibi
+veya yöneticisi müteselsilen sorumludur.
+        (15) (Ek:RG-1/4/2010-27539) Binalar veya bağımsız bölümlere ilişkin alım, satım ve kiraya verme ile ilgili iş ve işlemlerde enerji kimlik belgesi
+düzenlenmiş olması şartı aranır. Binanın veya bağımsız bölümün satılması veya kiraya verilmesi safhasında, mal sahibi enerji kimlik belgesinin bir
+suretini alıcıya veya kiracıya verir.
+        (16) (Ek:RG-19/2/2022-31755) NSEB’i sağlayan binalara düzenlenen enerji kimlik belgesinde bu durum belirtilir.
+        Enerji kimlik belgesinde bulunması gereken bilgiler
+        MADDE 26 – (1) Enerji Kimlik Belgesinde, binanın enerji ihtiyacı, yalıtım özellikleri, ısıtma ve/veya soğutma sistemlerinin verimi/etkenliği ve
+binanın enerji tüketim sınıflandırması ile ilgili bilgilerle birlikte;
+        a) Bina ile ilgili genel bilgiler,
+        b) Düzenleme ve düzenleyen bilgileri,
+        c) Binanın kullanım alanı (m2),
+        ç) Binanın kullanım amacı,
+        d) Binanın ısıtılması, soğutulması, iklimlendirmesi, havalandırması ve sıhhi sıcak su temini için kullanılan enerjinin miktarı (kWh/yıl),
+        e) Tüketilen her bir enerji türüne göre yıllık birincil enerji miktarı (kWh/yıl),
+        f) Binaların kullanım alanı başına düşen yıllık birincil enerji tüketiminin, A ile G arasında değişen bir referans ölçeğine göre sınıflandırılması,
+        g) Nihai enerji tüketiminin oluşturduğu sera gazlarının kullanım alanı başına yıllık miktarı (kg CO2/m2-yıl),
+        ğ) Binaların kullanım alanı başına düşen yıllık sera gazı salımının, A ile G arasında değişen bir referans ölçeğine göre sınıflandırılması (kg
+CO2/m2-yıl),
+        h) Binanın aydınlatma enerjisi tüketim değeri,
+        ı) (Değişik:RG-1/4/2010-27539) Birincil enerji tüketimine göre, enerji sınıfı,
+        i) (Değişik:RG-1/4/2010-27539) Nihai enerji tüketimine göre, CO2 salımı sınıfı
+        j) (Ek:RG-1/4/2010-27539) Binanın yenilenebilir enerji kullanım oranı
+        gösterilir.
+        Enerji kimlik belgesi vermeye yetkili kuruluşlar ve enerji kimlik belgesi uzmanları (Değişik Başlık:RG-24/6/2025-32936)
+        MADDE 26/A – (Ek:RG-1/4/2010-27539) (Değişik:RG-28/4/2017-30051)
+        (1) Yeni binalar için; Türk Mühendis ve Mimar Odaları Birliğine bağlı ilgili meslek odası tarafından, adına düzenlenmiş serbest müşavirlik ve
+mühendislik hizmetleri belgesi ile enerji kimlik belgesi düzenleme eğitimini başarı ile tamamlayan personel bulunduran gerçek veya tüzel kişilere
+Bakanlıkça enerji kimlik belgesi verme yetkisi verilir.
+        (2) Mevcut binalar için; enerji kimlik belgesi düzenleme eğitimini başarıyla tamamlayan personel bulunduran 5627 sayılı Kanun kapsamında bina
+kategorisinde yetkilendirilmiş olan enerji verimliliği danışmanlık şirketlerine Bakanlıkça enerji kimlik belgesi verme yetkisi verilir.
+        (3) Ayrıca mevcut binalar için; aşağıda belirtilen şartları sağlayan gerçek veya tüzel hukuk kişileri de, bu şartların sağlandığının ilgili (Değişik
+
+ibare:RG-19/2/2022-31755) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüncetespit edilmesi üzerine Bakanlıkça enerji kimlik belgesi vermeye
+yetkilendirilir:
+       a) Türk Mühendis ve Mimar Odaları Birliğine bağlı ilgili meslek odası tarafından adına düzenlenmiş serbest müşavirlik ve mühendislik hizmetleri
+belgesine sahip olmak.
+       b) Enerji kimlik belgesi düzenleme eğitimini başarıyla tamamlayan personel bulundurmak.
+       c) Enerji Kaynaklarının ve Enerjinin Kullanımında Verimliliğin Artırılmasına Dair Yönetmelik uyarınca düzenlenmiş Etüt-Proje Sertifikasına sahip
+personel bulundurmak.
+       ç) Türk Akreditasyon Kurumu tarafından akredite edilmiş ulusal veya uluslararası laboratuvarlar tarafından kalibre edilmiş ve etiketlenmiş ısı ve
+sıcaklık görüntüleme cihazına sahip olmak.
+       (4) Kamu kurum ve kuruluşları; enerji kimlik belgesi düzenleme eğitiminde başarılı olan bünyelerindeki personeli ile binalarına enerji kimlik belgesi
+düzenleyebilir.
+       (5) (Değişik:RG-19/2/2022-31755) Enerji kimlik belgesi vermeye yetkili kuruluşların bu belgelerin düzenlenmesi ile ilgili faaliyetlerinin
+denetimi Bakanlık tarafından yapılır veya yaptırılır. Denetimlere ilişkin hususlar Bakanlık tarafından yürürlüğe konulacak tebliğ ile belirlenir.
+       (6) Bu madde kapsamındaki eğitimler (Ek ibare:RG-24/6/2025-32936) ve denetimler ile ilgili usul ve esaslar Bakanlık tarafından yürürlüğe
+konulacak tebliğ ile düzenlenir.
+       (7) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesi vermeye yetkili kuruluşların ve enerji kimlik belgesi uzmanlarının denetimleri Bakanlıkça
+veya Bakanlıkça yetkilendirilen kuruluşlar tarafından periyodik olarak yapılır. Ayrıca, periyodik yapılan denetimlere ilave olarak şikâyet üzerine de
+denetim yapılabilir.
+       ( 8) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesi vermeye yetkili kuruluşlar ve enerji kimlik belgesi uzmanları, enerji kimlik belgesi
+oluşturmaya esas olan bilgi ve belgeleri enerji kimlik belgesinin geçerlilik süresi boyunca muhafaza eder.
+       (9) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesi vermeye yetkili kuruluşlar ve enerji kimlik belgesi uzmanları denetim amacıyla istenen bilgi
+ve belgeleri göndermekten sorumludur. İstenen bilgi ve belgelerin gönderilmemesi halinde, denetim sürecinin olumsuz etkilenmemesi için enerji kimlik
+belgesi düzenlemek üzere BEP-TR yazılımına erişim yetkileri, istenen bilgi ve belgeler gönderilene kadar engellenir.
+       (10) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesi vermeye yetkili kuruluşların ve enerji kimlik belgesi uzmanlarının yetkilerini kötüye
+kullandıkları veya gerçeğe aykırı belge düzenlediklerinin tespit edilmesi halinde, haklarında yapılacak denetim sonuçlanana kadar enerji kimlik belgesi
+düzenlemek üzere BEP-TR yazılımına erişim yetkileri engellenir.
+       (11) (Ek:RG-24/6/2025-32936) Enerji kimlik belgesinin yapı ruhsatına, ruhsat eki onaylı projelerine ve ısı yalıtım raporuna uygun hazırlanması
+esastır. Mevcut binalarda ruhsat ve ruhsat eki onaylı projelerine göre farklı uygulamaların bulunması halinde bu uygulamalar yerinde tespit edilerek
+raporlanır.
+
+                                                                         ONÜÇÜNCÜ BÖLÜM
+                            Yıllık Enerji İhtiyacı, Bina Yaşam Döngüsü Analizi Belgesi ve Düşük Karbonlu Bina Belgesi(5)
+      Yıllık enerji ihtiyacı
+      MADDE 27 – (1) (Değişik:RG-1/4/2010-27539) Binanın ısıtma, soğutma, aydınlatma ve sıhhi sıcak su konularındaki enerji ihtiyaçları
+öncelikli olmak üzere, yıllık enerji ihtiyacının hesaplanması ile ilgili usûl ve esaslar Bakanlık tarafından Resmî Gazete’de yayımlanan tebliğ ile belirlenir.
+      (2) (Mülga:RG-1/4/2010-27539)
+      (3) (Mülga:RG-1/4/2010-27539)
+      (4) (Mülga:RG-1/4/2010-27539)
+      (5) (Ek:RG-1/4/2010-27539) BEP-TR yöntemine göre enerji kimlik belgesi alacak olan yeni binalar D sınıfı ve daha fazla enerji tüketimine ve
+CO2 salımına sahip olamaz.
+      Düşük karbonlu bina belgesi
+      MADDE 27/A- (Ek:RG-16/5/2026-33255)
+      (1) Enerji Kimlik Belgesindeki; sera gazı emisyon sınıfı en az "B", enerji performans sınıfı en az “C” olan binalar için düşük karbonlu bina belgesi
+BEP-TR üzerinden Enerji Kimlik Belgesi düzenlemeye yetkili uzmanlar tarafından düzenlenir.
+
+                                                                  ONDÖRDÜNCÜ BÖLÜM
+                                                                   Geçici ve Son Hükümler
+        Yürürlükten kaldırılan yönetmelik
+        MADDE 28 – (1) 9/10/2008 tarihli ve 27019 sayılı Resmî Gazete’de yayımlanan Binalarda Isı Yalıtım Yönetmeliği yürürlükten kaldırılmıştır.
+        EK MADDE 1 – (Ek:RG-1/4/2010-27539)
+        (1) Bu Yönetmelik kapsamında ihtiyaç duyulan binanın soğutma enerjisi ve aydınlatma enerjisi ihtiyacı hesabı ile ilgili standartlar, TSE tarafından
+çıkarılır
+        Standardların belirlenmesi
+        GEÇİCİ MADDE 1 – (Mülga:RG-1/4/2010-27539)
+        Tebliğlerin çıkarılması
+        GEÇİCİ MADDE 2 – (Değişik:RG-30/6/2010-27627)
+        (1) Bu Yönetmelik kapsamında ihtiyaç duyulan enerji performansı hesaplama yöntemleri ile ilgili konulardaki tebliğler, Bakanlık tarafından,
+1/1/2011 tarihine kadar çıkartılır.
+        Mevcut binalara enerji kimlik belgesi verilmesi (Değişik başlık:RG-1/4/2010-27539)
+        GEÇİCİ MADDE 3 –(1) Mevcut binalar ve inşaatı devam edip henüz yapı kullanım izni almamış binalar için Enerji Verimliliği Kanununun
+yayımı tarihinden itibaren on yıl içinde Enerji Kimlik Belgesi düzenlenir.
+        Enerji Kimlik Belgesi Verilmesi
+        GEÇİCİ MADDE 4 – (Ek:RG-1/4/2010-27539) (Değişik:RG-30/6/2010-27627)
+        (1) Bu Yönetmeliğin 25 inci maddesi 1/1/2011 tarihine kadar uygulanmaz.
+        GEÇİCİ MADDE 5 – (Ek:RG-28/4/2017-30051)
+        (1) Bu Yönetmeliğin 25 inci maddesinin on beşinci fıkrası 1/1/2020 tarihine kadar uygulanmaz.
+        Yenilenebilir enerji kaynaklarının kullanımı, NSEB uygulaması ve istisnalar (Değişik Başlık:RG-24/6/2025-32936)
+        GEÇİCİ MADDE 6 – (Ek:RG-19/2/2022-31755)
+        (1) Bu Yönetmeliğin 23 üncü maddesinin birinci fıkrasında yer alan “%10” oranı 1/1/2023 tarihinden 1/1/2025 tarihine kadar “%5” olarak
+uygulanır.
+        (2) Bu Yönetmeliğin 23 üncü maddesinin ikinci fıkrasında “2000 m2” olarak belirtilen toplam yapı inşaat alanı 1/1/2023 tarihinden 1/1/2025
+
+tarihine kadar “5000 m2” olarak uygulanır.
+       (3) (Ek:RG-24/6/2025-32936) 1/1/2025 tarihinden önce kamu kurum ve kuruluşlarınca yapım işlerine yönelik ihale kararı veya ihale tarihi
+alınmış olan yapılar için 23 üncü maddedeki düzenlemelerde, ihale kararı veya ihale tarihindeki hükümler esas alınır.
+       Geçiş hükmü
+       GEÇİCİ MADDE 7- (Ek:RG-24/6/2025-32936)(4)
+       (1) Bu maddeyi ihdas eden Yönetmelikle değiştirilen 8 inci maddenin ikinci fıkrası, 13 üncü maddenin üçüncü fıkrası ve 19 uncu maddenin
+üçüncü fıkrasındaki hususlarda, 30/6/2025 tarihinden önce, yapı ruhsatı başvurusunda bulunulmuş olan yapılar için başvuru tarihindeki hükümler, kamu
+kurum ve kuruluşlarınca yapım işlerine yönelik ihale kararı veya ihale tarihi alınmış olan yapılar için ihale kararı veya ihale tarihindeki hükümler
+uygulanır.
+       Yürürlük
+       MADDE 29 – (1) Bu Yönetmelik yayımlandığı tarihten bir yıl sonra yürürlüğe girer.
+       Yürütme
+       MADDE 30 – (1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-19/2/2022-31755) Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.
+       __________
+       (1) 19/2/2022 tarihli ve 31755 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Yenilenebilir Enerji Kaynaklarının
+Kullanımı, Isı Pompası ve Kojenerasyon Sistemleri” iken metne işlendiği şekilde değiştirilmiştir.
+       (2) Bu değişiklik ile yeniden düzenlenen 23 üncü maddenin ikinci fıkrası 1/1/2023 tarihinde yürürlüğe girer.
+       (3) Bu değişiklik 1/1/2023 tarihinde yürürlüğe girer.
+       (4) Bu değişiklik 30/6/2025 tarihinde yürürlüğe girer.
+       (5) 16/5/2026 tarihli ve 33255 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Yıllık Enerji İhtiyacı” iken metne
+işlendiği şekilde değiştirilmiştir.
+
+      Ekleri görmek için tıklayınız
+
+                                                          Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+                                                          Tarihi                               Sayısı
+                                                        5/12/2008                              27075
+                                               Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+                                                                       Gazetelerin
+                                                          Tarihi                               Sayısı
+                        1.                               1/4/2010                              27539
+                        2.                              30/6/2010                              27627
+                        3.                              19/2/2011                              27851
+                        4.                              20/4/2011                              27911
+                        5.                              28/4/2017                              30051
+                        6.                              19/2/2022                              31755
+                        7.                              24/6/2025                              32936
+                        8.                              16/5/2026                              33255

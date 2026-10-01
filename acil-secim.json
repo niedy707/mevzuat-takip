@@ -1,0 +1,25 @@
+{
+  "_aciklama": "Acil bildirim kapsamındaki belgeler (acil_is.py okur). Arayüzden değiştirilir: 127.0.0.1:3031 → Mevzuat → 🚨 acil. Dosya silinirse varsayılan: kaynak.json'da sinif=cekirdek olanlar.",
+  "guncelleme": "2026-09-26T09:25:04",
+  "sluglar": [
+    "1475-eski-is-kanunu",
+    "193-gelir-vergisi",
+    "24339-sktt-tebligi",
+    "4447-issizlik-sigortasi",
+    "4857-is-kanunu",
+    "5510-sosyal-sigortalar",
+    "6098-turk-borclar-kanunu",
+    "634-kat-mulkiyeti",
+    "7036-is-mahkemeleri",
+    "y-asansor-bakim",
+    "y-ayakta-teshis",
+    "y-calisma-sureleri",
+    "y-elektrik-tuketici-hizmetleri",
+    "y-fazla-calisma",
+    "y-merkezi-isitma",
+    "y-ozel-hastaneler",
+    "y-uzaktan-calisma",
+    "y-yangin",
+    "y-yillik-ucretli-izin"
+  ]
+}
