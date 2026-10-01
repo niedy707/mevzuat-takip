@@ -129,10 +129,15 @@ def cek(m, eski):
 
 
 def kalem(m, durum, kuru=False):
-    """Tek mevzuatı işler -> sonuç sözlüğü (olaylar dahil, henüz yazılmaz)."""
+    """Tek mevzuatı işler -> sonuç sözlüğü (olaylar dahil, henüz yazılmaz).
+
+    `durum`a DOKUNMAZ. "ayni" sonucunun damgası (`dogrulama_zamani`) sonuçta
+    taşınır; `durum`a ancak devre kesici geçtikten sonra `dogrulamayi_isle()`
+    basar."""
     slug = m["slug"]
     eski = durum.get(slug, {})
     r = cek(m, eski)
+    dogrulama_zamani = datetime.now().strftime("%d.%m.%Y %H:%M")
     son = {"slug": slug, "ad": m["ad"], "sinif": m["sinif"],
            "grup": m.get("grup", []), "olaylar": []}
 
@@ -142,9 +147,7 @@ def kalem(m, durum, kuru=False):
 
     if r["sonuc"] == "degismemis":
         # Koşullu GET 304 verdi: sunucu "dosya hiç değişmedi" diyor.
-        son.update(sonuc="ayni", yol="304")
-        if not kuru and slug in durum:
-            durum[slug]["son_dogrulama"] = datetime.now().strftime("%d.%m.%Y %H:%M")
+        son.update(sonuc="ayni", yol="304", dogrulama_zamani=dogrulama_zamani)
         return son
 
     metin, pdf_yolu, met_yolu = r["metin"], *_slug_yollari(slug)
@@ -186,7 +189,7 @@ def kalem(m, durum, kuru=False):
                metin_sha=metin_sha, yol=r.get("kaynak", "pdf"),
                envanter=yeni_env, metin=metin, gecici=r.get("gecici"),
                etag=r["etag"], son_degistirilme=r["son_degistirilme"],
-               url=r["url"])
+               url=r["url"], dogrulama_zamani=dogrulama_zamani)
     # Geçici dosya YALNIZ yazılacaksa saklanır. "ayni" sonucunda motor.yaz()
     # çağrılmaz; temizlenmezse her denetimde bir artık dosya birikir
     # (19.09.2026: ilk iki koşudan 24 artık .yeni.pdf kaldı).
@@ -243,6 +246,28 @@ def yaz(m, s, durum):
                            if s["sonuc"] == "degisti"
                            else eski.get("son_degisiklik", "—")),
     }
+
+
+def dogrulamayi_isle(durum, sonuclar):
+    """Değişmemiş ("ayni") kayıtların `son_dogrulama` damgasını basar -> kaç kayıt.
+
+    Değişmemiş kayıt `yaz()`dan geçmez; damgası yalnız buradan basılır.
+    Yalnız kuru olmayan koşuda ve devre kesici GEÇTİKTEN sonra çağrılır:
+    kesici tetiklendiyse koşunun ölçümüne güvenilmez, 304 dahil hiçbir kayıt
+    "doğrulandı" sayılmaz.
+
+    25.09.2026'da bulunan hata: damga yalnız 304 dalında basılıyordu. Kanun/KHK
+    koşullu GET ile 304 aldığı için damgalanıyor, GeneratePdf ile üretilen
+    yönetmelikler ("metin" imzalı) metin hash'iyle "ayni" çıkınca hiçbir yere
+    yazılmıyordu — 27 yönetmelik her gün denetlendiği hâlde `son_dogrulama`
+    19.09'da donmuştu. Altın kural alıntıdan önce bu damgaya baktığı için
+    sessiz ama ciddi bir hataydı."""
+    n = 0
+    for r in sonuclar:
+        if r["sonuc"] == "ayni" and r["slug"] in durum and r.get("dogrulama_zamani"):
+            durum[r["slug"]]["son_dogrulama"] = r["dogrulama_zamani"]
+            n += 1
+    return n
 
 
 def devre_kesici(sonuclar):

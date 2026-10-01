@@ -134,7 +134,11 @@ def _kos(sluglar, kuru, baslik, devre_kesiciyi_atla=False):
     for m, r in zip(kayitlar, sonuclar):
         if r["sonuc"] == "degisti":
             motor.yaz(m, r, durum)
+    damga = motor.dogrulamayi_isle(durum, sonuclar)
     c.kaydet(motor.DURUM, durum)
+    if damga:
+        print(f"{C['gri']}{damga} değişmemiş kaydın son doğrulama damgası "
+              f"güncellendi{C['sn']}")
 
     # Olayları günlüğe yaz
     kayit = []

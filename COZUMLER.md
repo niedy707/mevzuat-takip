@@ -5,6 +5,34 @@
 
 ---
 
+## 25.09.2026 — Yönetmeliklerin "son doğrulama" tarihi hiç ilerlemiyordu
+
+**Belirti:** Günlük iş her sabah 51 kaydın hepsini denetliyordu (`kayit/gunluk.log`),
+ama `durum.json`'da metin imzalı yönetmeliklerin `son_dogrulama`'sı ilk indirme
+gününde kalmıştı (`y-uzaktan-calisma`: 19.09.2026 22:35). Kanunlar doğruydu.
+`madde` çıktısı, arayüz ve `degisiklik` detayı bu bayat tarihi gösteriyordu; "bir
+aydan eskiyse önce `denetle`" kuralı yüzünden bir ay sonra her yönetmelik alıntısı
+gereksiz denetim isteyecekti.
+
+**Kök neden:** Damga yalnız `motor.kalem()`'in **304 dalında** basılıyordu. Yönetmelik
+ETag vermediği için hiç 304 almaz; metin hash'iyle "ayni" çıkar — ve `_kos()` yalnız
+"ilk" ile "degisti"yi `motor.yaz()`'a gönderiyordu. "ayni" hiçbir yere yazılmıyordu.
+
+**Çözüm:** `kalem()` artık `durum`a hiç dokunmuyor; "ayni" sonucu kontrol anını
+`dogrulama_zamani` olarak taşıyor. `_kos()`, devre kesici geçtikten sonra
+`motor.dogrulamayi_isle()` ile hem 304'ün hem metin-hash'in damgasını basıyor.
+Regresyon testi: `test/test_dogrulama.py`.
+
+**İkinci sızıntı (aynı kökten):** 304 dalı damgayı bellekteki `durum`a doğrudan
+basıyordu. Aynı koşuda bir "ilk" indirme olursa artımlı kayıt (`c.kaydet` döngü içinde)
+bu damgayı **devre kesiciden önce** diske yazıyordu — kesici "hiçbir dosya güncellenmedi"
+derken 304'lü kayıtlar "doğrulandı" görünüyordu. Test bunu da yakalıyor.
+
+**Neden bariz olan işe yaramadı:** "ayni" için de `motor.yaz()`'ı çağırmak — `yaz()`
+metin dosyasını yeniden yazar ve `durum` kaydını baştan kurar (ör. `arac_surumu`'nu o
+anki sürüme çeker); değişmemiş kayıt için gereksiz yan etki. Damgayı `kalem()` içinde
+metin dalına da eklemek — 304 dalındaki sızıntıyı yönetmeliklere de taşırdı.
+
 ## 26.09.2026 — `vercel link` klasöre gizli belirteç indiriyor; public statik yayında sızardı
 
 **Belirti:** Yayın klasörü (`yayin/`) `vercel link --project mevzuat-ozet` ile bağlandı; komut
